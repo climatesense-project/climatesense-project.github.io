@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://climatesense-project.github.io/about.html</loc>
-    <lastmod>2025-03-13T16:04:13.380Z</lastmod>
+    <loc>https://climatesense-project.eu/LICENCE.html</loc>
+    <lastmod>2025-09-09T08:47:05.902Z</lastmod>
   </url>
   <url>
-    <loc>https://climatesense-project.github.io/index.html</loc>
-    <lastmod>2025-03-13T16:04:13.380Z</lastmod>
+    <loc>https://climatesense-project.eu/feeds.html</loc>
+    <lastmod>2025-09-09T08:47:05.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/partners.html</loc>
+    <lastmod>2025-09-09T08:47:05.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/about.html</loc>
+    <lastmod>2025-09-09T08:47:05.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/publications.html</loc>
+    <lastmod>2025-09-09T08:47:05.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/privacy.html</loc>
+    <lastmod>2025-09-09T08:47:05.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/index.html</loc>
+    <lastmod>2025-09-09T08:47:05.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/accessibility.html</loc>
+    <lastmod>2025-09-09T08:47:05.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/contact.html</loc>
+    <lastmod>2025-09-09T08:47:05.904Z</lastmod>
   </url>
 </urlset>

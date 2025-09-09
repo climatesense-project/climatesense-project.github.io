@@ -1,16 +1,226 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "LICENCE.html",
+    "href": "LICENCE.html",
+    "title": "Licence",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "climatesense-project.github.io",
+    "objectID": "LICENCE.html#content",
+    "href": "LICENCE.html#content",
+    "title": "Licence",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#software-and-services",
+    "href": "LICENCE.html#software-and-services",
+    "title": "Licence",
+    "section": "Software and services",
+    "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
+  },
+  {
+    "objectID": "partners.html",
+    "href": "partners.html",
+    "title": "Project partners",
+    "section": "",
+    "text": "KMi consists of over 60 researchers and has been involved in a large number of EU and national projects. KMi has a long history of researching and developing social software, online community analytic tools and algorithms. The KMi team has extensive experience in social media analysis, semantic web, open science, online harms, misinformation analysis, and web science.\nThe OU is the coordinator of the project and also lead the design and development of ClimateSense platform. The OU is also involved in creating prediction models and contribute to the ClimateSense data with its GIS-KG expertise."
+  },
+  {
+    "objectID": "partners.html#the-open-university-ou-knowledge-media-institute-kmi",
+    "href": "partners.html#the-open-university-ou-knowledge-media-institute-kmi",
+    "title": "Project partners",
+    "section": "",
+    "text": "KMi consists of over 60 researchers and has been involved in a large number of EU and national projects. KMi has a long history of researching and developing social software, online community analytic tools and algorithms. The KMi team has extensive experience in social media analysis, semantic web, open science, online harms, misinformation analysis, and web science.\nThe OU is the coordinator of the project and also lead the design and development of ClimateSense platform. The OU is also involved in creating prediction models and contribute to the ClimateSense data with its GIS-KG expertise."
+  },
+  {
+    "objectID": "partners.html#eurecom-data-science-department",
+    "href": "partners.html#eurecom-data-science-department",
+    "title": "Project partners",
+    "section": "EURECOM / Data Science Department",
+    "text": "EURECOM / Data Science Department\n\n\n\n\n\nEURECOM is a private and non-profit research centre and graduate school specialised in Digital Sciences located in the Sophia Antipolis Technopole in the South of France. The Data Science Department at EURECOM has approximately 40 researchers with a research focus on machine learning, deep learning and statistical modelling, distributed and data management systems, information extraction, knowledge based technologies and recommender systems with a strong focus on creative industries, media and cultural heritage data processing.\nEURECOM will leads the development of the project knowledge graph. EURECOM also contributes to the project machine learning models given its experience in geospatial semantics."
+  },
+  {
+    "objectID": "partners.html#prague-university-of-economics-and-business-vse-faculty-of-informatics-and-statistics-fis",
+    "href": "partners.html#prague-university-of-economics-and-business-vse-faculty-of-informatics-and-statistics-fis",
+    "title": "Project partners",
+    "section": "Prague University of Economics and Business (VSE) / Faculty of Informatics and Statistics (FIS)",
+    "text": "Prague University of Economics and Business (VSE) / Faculty of Informatics and Statistics (FIS)\n\n\n\n\n\nFIS is recognized for its research in data-related disciplines, including data science, statistics and econometrics, and in knowledge technologies. The faculty has been involved in many EU and national research projects, primarily in (economic and other) data science, semantic web and (multi)media.\nVSE is responsible for the project geostatistical analyses, and contributes to the design and usage of misinformation and climate knowledge graphs and the evaluation of the ClimateSense platform."
+  },
+  {
+    "objectID": "partners.html#kaunas-university-of-technology-ktu-civil-society-and-sustainability-research-group",
+    "href": "partners.html#kaunas-university-of-technology-ktu-civil-society-and-sustainability-research-group",
+    "title": "Project partners",
+    "section": "Kaunas University of Technology (KTU) / Civil Society and Sustainability Research Group",
+    "text": "Kaunas University of Technology (KTU) / Civil Society and Sustainability Research Group\n\n\n\n\n\nKTU stands as one of the largest universities in the Baltic States, renowned for its academic excellence and innovative research. With nine faculties and research institutes, KTU offers a comprehensive range of undergraduate and postgraduate programs, enrolling approximately 9,000 students and employing over 1,000 academic staff. The research group Civil Society and Sustainability is a testament to KTU’s dedication to addressing societal and environmental challenges. This group’s research spans several critical areas, including civil society, environmental and societal impacts of technological advancements, and sustainable human development. Their interdisciplinary approach and methodologically sound research will be instrumental in exploring and providing solutions to threats and challenges for a sustainable and secure civil society.\nThe KTU team plays a significant role in the project’s interdisciplinarity and the development of solutions that promote climate adaptation and resilience. Their work in understanding and integrating social dynamics into technological development ensures that the technological solutions are more likely to be embraced by the stakeholders they are intended to serve. This alignment of technology with societal needs and participatory approaches is key to fostering sustainable and resilient communities in the face of evolving climate challenges."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The ClimateSence project",
+    "section": "",
+    "text": "ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly."
+  },
+  {
+    "objectID": "about.html#project-funding",
+    "href": "about.html#project-funding",
+    "title": "The ClimateSence project",
+    "section": "Project funding",
+    "text": "Project funding\nEuropean Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
+  },
+  {
+    "objectID": "about.html#project-results",
+    "href": "about.html#project-results",
+    "title": "The ClimateSence project",
+    "section": "Project results",
+    "text": "Project results\nConsortium partners aim to develop ClimateSense into an internationally recognised reference project on GIS-based Climate Misinformation tracking methods. Impact will be created through the networks of core and associate partners, and a range of dissemination activities including stakeholders engagement workshops, scientific publications, reports and working papers, and regular press releases.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page lists the academic publications and presentations resulting from ClimateSense."
+  },
+  {
+    "objectID": "publications.html#conference-articles",
+    "href": "publications.html#conference-articles",
+    "title": "Publications",
+    "section": "Conference articles",
+    "text": "Conference articles\nBurel, G., & Alani, H. (2025). ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation. In proceedings of the 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment co-located with 24th International Semantic Web Conference (ISWC 2025). November 2025, Nara, Japan.\n\nBurel, G., Lisena, P., Daga, E., Troncy, R., & Alani, H. (2025). ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse. In CheckThat! 2025: Subjectivity, Fact-Checking, Claim Normalization, and Retrieval."
+  },
+  {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy policy",
+    "section": "",
+    "text": "Our website address is: https://climatesense-project.eu/."
+  },
+  {
+    "objectID": "privacy.html#who-we-are",
+    "href": "privacy.html#who-we-are",
+    "title": "Privacy policy",
+    "section": "",
+    "text": "Our website address is: https://climatesense-project.eu/."
+  },
+  {
+    "objectID": "privacy.html#cookies",
+    "href": "privacy.html#cookies",
+    "title": "Privacy policy",
+    "section": "Cookies",
+    "text": "Cookies\nIf you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."
+  },
+  {
+    "objectID": "privacy.html#embedded-content-from-other-websites",
+    "href": "privacy.html#embedded-content-from-other-websites",
+    "title": "Privacy policy",
+    "section": "Embedded content from other websites",
+    "text": "Embedded content from other websites\nArticles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\nThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."
+  },
+  {
+    "objectID": "privacy.html#how-long-we-retain-your-data",
+    "href": "privacy.html#how-long-we-retain-your-data",
+    "title": "Privacy policy",
+    "section": "How long we retain your data",
+    "text": "How long we retain your data\nIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognise and approve any follow-up comments automatically instead of holding them in a moderation queue.\nFor users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
+  },
+  {
+    "objectID": "privacy.html#what-rights-you-have-over-your-data",
+    "href": "privacy.html#what-rights-you-have-over-your-data",
+    "title": "Privacy policy",
+    "section": "What rights you have over your data",
+    "text": "What rights you have over your data\nIf you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+  },
+  {
+    "objectID": "privacy.html#what-personal-data-we-collect-and-why-we-collect-it",
+    "href": "privacy.html#what-personal-data-we-collect-and-why-we-collect-it",
+    "title": "Privacy policy",
+    "section": "What personal data we collect and why we collect it",
+    "text": "What personal data we collect and why we collect it\nWe use cookies to enhance your browsing experience and analyse website performance. Some cookies are essential for the website to function, while others are used to collect anonymised data through Google Analytics to help us improve our services."
+  },
+  {
+    "objectID": "privacy.html#who-we-share-your-data-with",
+    "href": "privacy.html#who-we-share-your-data-with",
+    "title": "Privacy policy",
+    "section": "Who we share your data with",
+    "text": "Who we share your data with\nWe use Google Analytics to collect anonymised information about how visitors interact with our website. This data helps us understand website performance, improve user experience, and analyze trends. Google Analytics processes this information on our behalf and does not identify individual users. For more details, please refer to Google™’s Privacy Policy."
+  },
+  {
+    "objectID": "privacy.html#your-rights",
+    "href": "privacy.html#your-rights",
+    "title": "Privacy policy",
+    "section": "Your rights",
+    "text": "Your rights\nYou have a number of rights in relation to your personal information, which apply in certain circumstances. Some of these rights will come into force under the GDPR on 25th May 2018. In order to exercise any of these rights, please contact us using the details in this document.\nYou have the right;\n\nTo access your personal information that we process To Rectify inaccuracies in the personal information that we hold about you In some circumstances, you also have the right\nTo have your details removed from systems that we use to process your personal data To restrict the processing of your personal data in certain ways To obtain a copy of your personal data in a structured electronic data file To object to certain processing of your personal data by us To request that we stop sending you direct marketing communications. If you are concerned about the way we have processed your personal information, you can complain to the Information Commissioner’s Office (ICO). Please visit the ICO’s website for further details."
+  },
+  {
+    "objectID": "privacy.html#contact-us",
+    "href": "privacy.html#contact-us",
+    "title": "Privacy policy",
+    "section": "Contact us",
+    "text": "Contact us\nPlease direct any queries about this policy or about the way we process your personal information to our Data Protection Officer using the contact details below.\n\nEmail data-protection@open.ac.uk\nTelephone +44 (0)1908 653994\nBy post: The Data Protection Officer, PO Box 497, The Open University, Walton Hall, Milton Keynes MK7 6AT."
+  },
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Website accessibility",
+    "section": "",
+    "text": "ClimateSense is committed to ensuring accessibility for all individuals, including those with disabilities. We strive to provide a seamless and inclusive experience for all users, regardless of their abilities or assistive technologies used.\nWe want as many people as possible to be able to use our websites, and accessibility is an essential part of our mission. To adapt the content to your needs or preferences you should be able to:\n\nChange colours, contrasts levels and fonts.\nResize text up to 200% without impact on the functionality of the website.\nZoom in up to 400% without loss of information or functionality.\nNavigate the website using just a keyboard.\n\ntab to ‘Skip to content’ links at the top of the page to jump over repetitive information to the main content.\ntab through the content; the current location will be indicated by a clear visual change.\ncontrol the embedded media player to play audio and video materials.\n\nUse a screen reader (e.g. JAWs, NVDA) to :\n\nlisten to the content of web pages and use any functionality on the page.\nlist the headings and subheadings in the page and then jump to their location on the page.\nbring up a list of meaningful links on the page.\n\nUse transcripts or closed captions with most audio and video materials."
+  },
+  {
+    "objectID": "accessibility.html#accessibility-statement-for-the-climatesense-website",
+    "href": "accessibility.html#accessibility-statement-for-the-climatesense-website",
+    "title": "Website accessibility",
+    "section": "",
+    "text": "ClimateSense is committed to ensuring accessibility for all individuals, including those with disabilities. We strive to provide a seamless and inclusive experience for all users, regardless of their abilities or assistive technologies used.\nWe want as many people as possible to be able to use our websites, and accessibility is an essential part of our mission. To adapt the content to your needs or preferences you should be able to:\n\nChange colours, contrasts levels and fonts.\nResize text up to 200% without impact on the functionality of the website.\nZoom in up to 400% without loss of information or functionality.\nNavigate the website using just a keyboard.\n\ntab to ‘Skip to content’ links at the top of the page to jump over repetitive information to the main content.\ntab through the content; the current location will be indicated by a clear visual change.\ncontrol the embedded media player to play audio and video materials.\n\nUse a screen reader (e.g. JAWs, NVDA) to :\n\nlisten to the content of web pages and use any functionality on the page.\nlist the headings and subheadings in the page and then jump to their location on the page.\nbring up a list of meaningful links on the page.\n\nUse transcripts or closed captions with most audio and video materials."
+  },
+  {
+    "objectID": "accessibility.html#how-accessible-this-website-is",
+    "href": "accessibility.html#how-accessible-this-website-is",
+    "title": "Website accessibility",
+    "section": "How accessible this website is",
+    "text": "How accessible this website is\nWe strive to exceed current accessibility standards. However, we know some elements of website may not be fully accessible:\n\nSome third-party content not created by ClimateSense.\nSites linked from ClimateSense pages but not run by the ClimateSense.\nSome content with specialised notations, such as mathematics, physics, chemistry and music."
+  },
+  {
+    "objectID": "accessibility.html#feedback-and-contact-information",
+    "href": "accessibility.html#feedback-and-contact-information",
+    "title": "Website accessibility",
+    "section": "Feedback and contact information",
+    "text": "Feedback and contact information\nIf you find that a certain section of our website is not accessible and you can’t get access to the information that you need please contact us to request support and we will ensure that you are provided with the information you require. You will need to provide your contact details."
+  },
+  {
+    "objectID": "accessibility.html#reporting-accessibility-problems-with-this-website",
+    "href": "accessibility.html#reporting-accessibility-problems-with-this-website",
+    "title": "Website accessibility",
+    "section": "Reporting accessibility problems with this website",
+    "text": "Reporting accessibility problems with this website\nWe’re always looking to improve the accessibility of our website. If you find a problem, or you think we’re not meeting the requirements of the current accessibility regulations (Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018), please contact us.\nWe will ask you for the web address (URL) of the page and a description of the problem. We will also ask for your name and email address so that we can contact you about your feedback."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "We welcome your questions, feedback, and collaboration inquiries about ClimateSense."
+  },
+  {
+    "objectID": "contact.html#general-enquiries",
+    "href": "contact.html#general-enquiries",
+    "title": "Contact us",
+    "section": "General Enquiries",
+    "text": "General Enquiries\nFor general questions about the research project, please contact the project coordinator:\nName: Prof. Harith Alani\nEmail: harith.alani@open.ac.uk"
+  },
+  {
+    "objectID": "contact.html#our-location",
+    "href": "contact.html#our-location",
+    "title": "Contact us",
+    "section": "Our Location",
+    "text": "Our Location\nOur primary research lab is located at:\nKnowledge Media Institute\nThe Open University\nWalton Hall\nMilton Keynes\nMK7 6AA\nUnited Kingdom"
+  },
+  {
+    "objectID": "contact.html#social-media",
+    "href": "contact.html#social-media",
+    "title": "Contact us",
+    "section": "Social media",
+    "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
   }
 ]
