@@ -2,18 +2,58 @@ project:
   type: website
 
 website:
-  title: "climatesense-project.github.io"
+  title: "ClimateSense"
+  image: images/ClimateSense-logo.png
+  favicon: images/ClimateSense-favicon.png
+  open-graph: true
+  site-url: https://climatesense-project.eu/
+  repo-url: https://github.com/climatesense-project/climatesense-project.github.io
+  repo-actions: [edit, issue]
+  
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    toggle-position: right
+    background: "#f7fbf7"
+    logo: images/ClimateSense-logo.png
+    logo-alt: "ClimateSense logo"
+    title: false
+    collapse-below: lg
+    right:
+      - text: "About the project"
+        href: about.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Partners"
+        href: partners.qmd
 
+  page-navigation: true
+
+  back-to-top-navigation: false
+
+  page-footer:
+    background: "#94d198"
+    left: |
+      [Copyright &copy; 2025 ClimateSense](/LICENCE.md)
+    center: 
+      - href: https://github.com/climatesense-project
+        icon: github
+        aria-label: GitHub
+      - href: feeds.html
+        icon: rss
+        aria-label: RWDS rss
+
+    right: |
+      [About the project](/about.qmd)
+      
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [lux, climatesense.scss]
+    css: climatesense.css
     toc: true
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
 
-editor: visual
+execute: 
+  freeze: auto
 

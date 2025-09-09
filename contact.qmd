@@ -1,0 +1,41 @@
+---
+title: "Contact us"
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+
+We welcome your questions, feedback, and collaboration inquiries about ClimateSense.
+
+## General Enquiries
+
+For general questions about the research project, please contact the project coordinator:
+
+Name: Prof. Harith Alani
+
+Email: [harith.alani\@open.ac.uk](mailto:harith.alani@open.ac.uk)
+
+## Our Location
+
+Our primary research lab is located at:
+
+Knowledge Media Institute
+
+The Open University
+
+Walton Hall
+
+Milton Keynes
+
+MK7 6AA
+
+United Kingdom
+
+## Social media
+
+Follow our KMi on social media for the latest updates and discoveries.
+
+-   X (formerly Twitter): [\@kmiou](https://x.com/kmiou)
+
+-   Bluesky: [\@kmiou.bsky.social](https://bsky.app/profile/did:plc:yyo2sikqbchdo5ffip77j454)

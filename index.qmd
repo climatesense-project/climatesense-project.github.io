@@ -1,11 +1,99 @@
 ---
-title: "climatesense-project.github.io"
+pagetitle: "ClimateSense"
+page-layout: custom
+section-divs: false
+editor: source
+sidebar: false
+search: false
+repo-actions: false
+toc: false
 ---
 
-This is a Quarto website.
+:::::::: {.top-story .green-background}
+::::::: grid
+::: {.g-col-12 .g-col-lg-1}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.g-col-12 .g-col-lg-5 .top-story-text}
+## ClimateSense
 
-```{r}
-1 + 1
-```
+Transforming how misinformation is managed in the climate sector offering tools to visualise the interplay of geospatial, temporal, and topical misinformation patterns.
+:::
+
+::: {.g-col-12 .g-col-lg-5 .top-story-img}
+![](images/ClimateSense-banner-graphic.png){fig-align="right" width="506"}
+:::
+
+::: {.g-col-12 .g-col-lg-1}
+:::
+:::::::
+::::::::
+
+::::: header-text
+:::: content-container
+::: header-block
+In an era of rapid climate change, the spread of misinformation poses a serious threat to effective climate action. The ClimateSense project is a collaborative effort to fight this challenge head-on.
+
+ClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensional GIS) builds an innovative platform that combines climate science, misinformation research, and advanced geospatial analysis to monitor and analyse climate disinformation across the globe.
+:::
+::::
+:::::
+
+:::: content-container
+::: listing-block
+
+::: {.grid}
+
+::: {.g-col-4}
+### A multidimensional GIS for understanding climate misinformation
+
+The core of our project is a multidimensional GIS (Geographic Information System) that acts as a surveillance and analysis tool. This platform helps us understand where, when, and how climate misinformation is spreading.
+:::
+
+::: {.g-col-4}
+### The ClimateSense knowledge graph
+
+At the heart of ClimateSense is an interlinked Knowledge Graph. This powerful tool links climate misinformation claims directly to credible scientific evidence. This not only helps us identify false narratives but also provides a clear, evidence-based counter-narrative to debunk them.
+:::
+
+::: {.g-col-4}
+### Key Features
+
+-   *Real-time Surveillance:* ClimateSense monitors online data to identify emerging climate misinformation.
+
+-   *Geospatial Analysis:* A multidimensional GIS is used to visualise how misinformation campaigns are linked to specific geographic locations.
+
+-   *Scientific Grounding:* The ClimateSense Knowledge Graph ensures that all of the analysis is rooted in verified scientific evidence.
+:::
+
+:::
+:::
+::::
+
+:::::::::: footer-text
+::::::::: {.footer-container .green-background}
+:::::::: footer-block
+::::::: grid
+::: {.g-col-12 .g-col-md-3}
+### Important information
+
+[Contact us](contact.qmd)\
+[Privacy and Cookies](privacy.qmd)\
+[Accessibility](accessibility.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-2}
+:::
+
+::: {.g-col-12 .g-col-md-1}
+:::
+
+::: {.g-col-12 .g-col-md-5}
+### Created by
+
+[![](images/kmi-logo-black.png){fig-align="left" height="70px"}](https://kmi.open.ac.uk/) [![](images/OU-logo-black.png){fig-align="left" height="70px"}](https://www.open.ac.uk/)
+:::
+:::::::
+::::::::
+:::::::::
+::::::::::

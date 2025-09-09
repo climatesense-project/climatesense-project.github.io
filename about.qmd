@@ -1,9 +1,24 @@
 ---
-title: "About"
+title: "The ClimateSence project"
+subtitle: Climate Misinformation Surveillance and Analysis with Multidimensional GIS
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
 ---
 
-About this site
+ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly.
 
-```{r}
-1 + 1
-```
+## Project funding
+
+[European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies](https://www.chistera.eu/funded-projects) (CHIST-ERA)
+
+## Project results
+
+Consortium partners aim to develop ClimateSense into an internationally recognised reference project on GIS-based Climate Misinformation tracking methods. Impact will be created through the networks of core and associate partners, and a range of dissemination activities including stakeholders engagement workshops, scientific publications, reports and working papers, and regular press releases.
+
+**Period of project implementation:** 2025-03-01 - 2028-02-29
+
+**Project coordinator:** [The Open University](https://www.open.ac.uk/)
+
+**Project partners:** [Kaunas University of Technology](https://en.ktu.edu/), [EURECOM](https://www.eurecom.fr/en/), [Prague University of Economics and Business](https://www.vse.cz/english/)

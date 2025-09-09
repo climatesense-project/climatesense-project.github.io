@@ -1,0 +1,59 @@
+---
+title: "Privacy policy"
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: false
+---
+
+## Who we are
+
+Our website address is: [https://climatesense-project.eu/]().
+
+## Cookies
+
+If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+## Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognise and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## What personal data we collect and why we collect it
+
+We use cookies to enhance your browsing experience and analyse website performance. Some cookies are essential for the website to function, while others are used to collect anonymised data through Google Analytics to help us improve our services.
+
+## Who we share your data with
+
+We use Google Analytics to collect anonymised information about how visitors interact with our website. This data helps us understand website performance, improve user experience, and analyze trends. Google Analytics processes this information on our behalf and does not identify individual users. For more details, please refer to [Google™'s Privacy Policy](https://policies.google.com/privacy).
+
+## Your rights
+
+You have a number of rights in relation to your personal information, which apply in certain circumstances. Some of these rights will come into force under the GDPR on 25th May 2018. In order to exercise any of these rights, please contact us using the details in this document.
+
+You have the right;
+
+-   To access your personal information that we process To Rectify inaccuracies in the personal information that we hold about you In some circumstances, you also have the right
+
+-   To have your details removed from systems that we use to process your personal data To restrict the processing of your personal data in certain ways To obtain a copy of your personal data in a structured electronic data file To object to certain processing of your personal data by us To request that we stop sending you direct marketing communications. If you are concerned about the way we have processed your personal information, you can complain to the Information Commissioner's Office (ICO). Please visit the [ICO's website](www.ico.org.uk) for further details.
+
+## Contact us
+
+Please direct any queries about this policy or about the way we process your personal information to our Data Protection Officer using the contact details below.
+
+-   Email [data-protection\@open.ac.uk]()
+
+-   Telephone +44 (0)1908 653994
+
+-   By post: The Data Protection Officer, PO Box 497, The Open University, Walton Hall, Milton Keynes MK7 6AT.

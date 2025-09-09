@@ -1,0 +1,66 @@
+---
+title: "Website accessibility"
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## Accessibility statement for the ClimateSense website
+
+ClimateSense is committed to ensuring accessibility for all individuals, including those with disabilities.
+We strive to provide a seamless and inclusive experience for all users, regardless of their abilities or assistive technologies used.
+
+We want as many people as possible to be able to use our websites, and accessibility is an essential part of our mission.
+To adapt the content to your needs or preferences you should be able to:
+
+-   Change colours, contrasts levels and fonts.
+
+-   Resize text up to 200% without impact on the functionality of the website.
+
+-   Zoom in up to 400% without loss of information or functionality.
+
+-   Navigate the website using just a keyboard.
+
+    -   tab to 'Skip to content' links at the top of the page to jump over repetitive information to the main content.
+
+    -   tab through the content; the current location will be indicated by a clear visual change.
+
+    -   control the embedded media player to play audio and video materials.
+
+-   Use a screen reader (e.g. JAWs, NVDA) to :
+
+    -   listen to the content of web pages and use any functionality on the page.
+
+    -   list the headings and subheadings in the page and then jump to their location on the page.
+
+    -   bring up a list of meaningful links on the page.
+
+-   Use transcripts or closed captions with most audio and video materials.
+
+## How accessible this website is
+
+We strive to exceed current accessibility standards.
+However, we know some elements of website may not be fully accessible:
+
+-   Some third-party content not created by ClimateSense.
+
+-   Sites linked from ClimateSense pages but not run by the ClimateSense.
+
+-   Some content with specialised notations, such as mathematics, physics, chemistry and music.
+
+## Feedback and contact information
+
+If you find that a certain section of our website is not accessible and you can't get access to the information that you need please [contact us](contact.qmd) to request support and we will ensure that you are provided with the information you require.
+You will need to provide your contact details.
+
+## Reporting accessibility problems with this website
+
+We're always looking to improve the accessibility of our website.
+If you find a problem, or you think we're not meeting the requirements of the current accessibility regulations (Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018), please [contact us](contact.qmd).
+
+We will ask you for the web address (URL) of the page and a description of the problem.
+We will also ask for your name and email address so that we can contact you about your feedback.
