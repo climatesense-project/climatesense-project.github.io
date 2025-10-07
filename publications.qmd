@@ -7,6 +7,8 @@ title-block-banner: true
 editor: 
   markdown: 
     wrap: sentence
+execute:
+  freeze: true
 ---
 
 This page lists the academic publications and presentations resulting from ClimateSense.
