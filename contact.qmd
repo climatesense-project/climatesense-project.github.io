@@ -6,7 +6,7 @@ toc: false
 title-block-banner: true
 ---
 
-We welcome your questions, feedback, and collaboration inquiries about ClimateSense.
+ welcome your questions, feedback, and collaboration inquiries about ClimateSense.
 
 ## General Enquiries
 
