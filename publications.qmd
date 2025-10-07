@@ -11,19 +11,31 @@ editor:
 
 This page lists the academic publications and presentations resulting from ClimateSense.
 
-## Conference articles
 
-Burel, G., & Alani, H.
-(2025).
-ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation.
-In proceedings of the 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment co-located with 24th International Semantic Web Conference (ISWC 2025).
-November 2025, Nara, Japan.
 
-------------------------------------------------------------------------
 
-Burel, G., Lisena, P., Daga, E., Troncy, R., & Alani, H.
-(2025).
-ClimateSense at CheckThat!
-2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse.
-In CheckThat!
-2025: Subjectivity, Fact-Checking, Claim Normalization, and Retrieval.
+```{r setup, message=FALSE, warning=FALSE, echo=FALSE}
+library(RefManageR)
+bib_file_path <- "publications.bib" 
+
+# Check if the file exists before attempting to load
+if (!file.exists(bib_file_path)) {
+    stop(paste("Error: The bibliography file not found at", bib_file_path))
+}
+
+bib <- ReadBib(bib_file_path, check = TRUE)
+NoCite(bib, "*")
+```
+
+```{r display, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+PrintBibliography(
+  bib,
+  .opts = list(
+    style = "markdown",
+    bib.style = "authoryear", 
+    sorting = "ydt" 
+  )
+)
+
+```
+

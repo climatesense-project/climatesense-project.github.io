@@ -1,0 +1,125 @@
+---
+title: "ClimaFacts Stats (Example)"
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: false
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+This web page provide dynamic statistics about the [ClimaFacts Knowledge Graph](https://github.com/climatesense-project/climafacts-kg)
+
+
+[ClimaFactsKG](https://purl.net/climatesense/climafactskg/ns) uses [ `sc:ClaimReview` ](https://schema.org/ClaimReview) from the [Schema.org](https://schema.org/) vocabulary to represent claims and scientific corrections collected from the [Skeptical Science](https://skepticalscience.com/) website.
+The categorisation of misinforming climate claims is based on the [CARDS](https://cardsclimate.com/) taxonomy. CARDS is used to connect `sc:ClaimReview` between ClimaFactsKG and [CimpleKG](https://github.com/CIMPLE-project/knowledge-base).
+
+### RDF Namespaces
+
+The ClimaFactsKG namespace is: https://purl.net/climafactskg/ns#.
+
+ClimaFactsKG commonly uses the following namespaces and prefixes:
+
+| Prefix   | URI                                     |
+| :------- | :-------------------------------------- |
+|          | <https://purl.net/climatesense/climafactskg/ns#>     |
+| `owl` | <http://www.w3.org/2002/07/owl#>        |
+| `rdfs` | <http://www.w3.org/2000/01/rdf-schema#> |
+| `sc` | <https://schema.org/>                   |
+| `skos` | <http://www.w3.org/2004/02/skos/core#>  |
+
+###  Skeptical Science (SkS) Mappings
+
+The main mappings used to represent the Skeptical Science data in ClimaFactsKG are listed in the following table:
+
+| SkS Article Section            |       | Mapping                                                  | Example Text from SkS Article                                                                                        |
+| :----------------------------- | :---- | :--------------------------------------------------------| :------------------------------------------------------------------------------------------------------------------- |
+| URL                            | →     | `sc:ClaimReview` / `sc:url` | <https://skepticalscience.com/global-cooling.htm>                                                                    |
+| *What the science says...*     | →     | `sc:reviewRating` / `sc:Rating` / `sc:ratingExplanation` | *All the indicators show that global warming is still happening.*                                                    |
+| *At a glance*                  | →     | `sc:abstract` | *Earth's surface, oceans and (...).*                                                                                 |
+| *Climate Myth...*              | →     | `sc:claimReviewed` / `sc:Claim` / `sc:text` | *It's cooling "In fact global warming has stopped and a cooling is beginning (...).*                                 |
+| *Last updated on (...)*        | →     | `sc:dateCreated` | *4 June 2024.*                                                                                                       |
+| *by (...)*                     | →     | `sc:author` / `sc:Person` | *John Mason.*                                                                                                        |
+| `<meta name="description"/>` | →     | `sc:description` | *Empirical measurements of (...).*                                                                                   |
+| `<meta name="keywords"/>` | →     | `sc:keywords` | *global warming, skeptics, skepticism (...).*                                                                        |
+| `<title/>` | →     | `sc:name` | *Global cooling - Is global warming still happening?*                                                                |
+| Main content                   | →     | `sc:reviewBody` , `sc:text` | *Earth's surface, oceans and atmosphere are all warming due to (...).*                                               |
+| *Related Argument*             | →     | `seeAlso` | <https://skepticalscience.com/global-cooling-january-2007-to-january-2008.htm>                                       |
+| *source: (...)*                | →     | `sc:citation` | <https://wattsupwiththat.wordpress.com/2008/02/19/january-2008-4-sources-say-globally-cooler-in-the-past-12-months/> |
+
+
+## CARDS Stats
+
+```{r setup, message=FALSE, warning=FALSE, echo=FALSE}
+library(rdflib)
+library(dplyr)
+library(ggplot2)
+```
+
+```{r download, message=FALSE, warning=FALSE, echo=FALSE}
+graph <- rdf_parse(
+  doc = "https://purl.net/climatesense/climafactskg/ns",
+  format = "rdfxml"
+)
+```
+
+```{r query, message=FALSE, warning=FALSE, echo=FALSE}
+SPARQL_query <- "
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT
+    ?ConceptName
+    (COUNT(?review) AS ?ConceptOccurrenceCount)
+WHERE {
+    # 1. Identify the Concept entity that has a human-readable label
+    ?concept skos:prefLabel ?ConceptName .
+
+    # 2. Find every entity (Claim Review) that is 'about' this concept
+    # This counts how many times the concept is mentioned in the dataset.
+    ?review schema:about ?concept .
+}
+GROUP BY
+    ?ConceptName
+ORDER BY
+    DESC(?ConceptOccurrenceCount)
+"
+
+results_df <- rdf_query(
+  rdf = graph,
+  query = SPARQL_query
+)
+results_df$ConceptOccurrenceCount <- as.numeric(results_df$ConceptOccurrenceCount)
+```
+
+```{r display_df, message=FALSE, warning=FALSE, echo=FALSE}
+results_df |>
+  rename(`CARDS Concept` = ConceptName, `Review Count` = ConceptOccurrenceCount) |>
+  knitr::kable(
+    caption = "Concept Occurrence Count in ClimaFacts KG",
+    align = c("l", "r"),
+    col.names = c("CARDS Concept Label", "Review Count"),
+    format = "pipe"
+  )
+```
+
+```{r plot_df, message=FALSE, warning=FALSE, echo=FALSE}
+# Sort the concepts by count in descending order
+results_df |>
+  arrange(desc(ConceptOccurrenceCount)) |>
+  mutate(ConceptName = factor(ConceptName, levels = ConceptName)) |>
+  ggplot(aes(x = ConceptName, y = ConceptOccurrenceCount)) +
+  geom_bar(stat = "identity", fill = "#0072B2") +
+  theme_minimal(base_size = 12) +
+  theme(
+    # Rotate X-axis labels for readability
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
+    plot.title = element_text(face = "bold", hjust = 0.5)
+  ) +
+  labs(
+    title = "Frequency of CARDS Concepts in Claim Reviews",
+    x = "CARDS Concept Label",
+    y = "Number of Associated Claim Reviews"
+  )
+```
