@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./images/ClimateSense-favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6fb340ad2f2e8c05615e1e298b52072a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-73a48171254117394794c58637fb6288.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -87,7 +88,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/ClimateSense-logo.png" alt="ClimateSense logo" class="navbar-logo">
+    <img src="./images/ClimateSense-logo.png" alt="ClimateSense logo" class="navbar-logo light-content">
+    <img src="./images/ClimateSense-logo.png" alt="ClimateSense logo" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -144,14 +146,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>This page lists the academic publications and presentations resulting from ClimateSense.</p>
-<section id="conference-articles" class="level2">
-<h2 class="anchored" data-anchor-id="conference-articles">Conference articles</h2>
-<p>Burel, G., &amp; Alani, H. (2025). ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation. In proceedings of the 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment co-located with 24th International Semantic Web Conference (ISWC 2025). November 2025, Nara, Japan.</p>
-<hr>
-<p>Burel, G., Lisena, P., Daga, E., Troncy, R., &amp; Alani, H. (2025). ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse. In CheckThat! 2025: Subjectivity, Fact-Checking, Claim Normalization, and Retrieval.</p>
+<p><a name="bib-Burel2025ClimaFactsKG"></a><a href="#cite-Burel2025ClimaFactsKG">Burel, G. and H. Alani</a> (2025). “ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation”. In: <em>Proceedings of the 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment co-located with 24th International Semantic Web Conference (ISWC 2025)</em>. Nara, Japan.</p>
+<p><a name="bib-Burel2025ClimateSense"></a><a href="#cite-Burel2025ClimateSense">Burel, G., P. Lisena, E. Daga, et al.</a> (2025). “ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse”. In: <em>CheckThat! 2025: Subjectivity, Fact-Checking, Claim Normalization, and Retrieval</em>.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -205,13 +203,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

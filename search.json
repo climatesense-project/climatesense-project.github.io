@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "LICENCE.html",
-    "href": "LICENCE.html",
-    "title": "Licence",
-    "section": "",
-    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
-  },
-  {
-    "objectID": "LICENCE.html#content",
-    "href": "LICENCE.html#content",
-    "title": "Licence",
-    "section": "",
-    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
-  },
-  {
-    "objectID": "LICENCE.html#software-and-services",
-    "href": "LICENCE.html#software-and-services",
-    "title": "Licence",
-    "section": "Software and services",
-    "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
-  },
-  {
     "objectID": "partners.html",
     "href": "partners.html",
     "title": "Project partners",
@@ -54,41 +33,6 @@
     "title": "Project partners",
     "section": "Kaunas University of Technology (KTU) / Civil Society and Sustainability Research Group",
     "text": "Kaunas University of Technology (KTU) / Civil Society and Sustainability Research Group\n\n\n\n\n\nKTU stands as one of the largest universities in the Baltic States, renowned for its academic excellence and innovative research. With nine faculties and research institutes, KTU offers a comprehensive range of undergraduate and postgraduate programs, enrolling approximately 9,000 students and employing over 1,000 academic staff. The research group Civil Society and Sustainability is a testament to KTU’s dedication to addressing societal and environmental challenges. This group’s research spans several critical areas, including civil society, environmental and societal impacts of technological advancements, and sustainable human development. Their interdisciplinary approach and methodologically sound research will be instrumental in exploring and providing solutions to threats and challenges for a sustainable and secure civil society.\nThe KTU team plays a significant role in the project’s interdisciplinarity and the development of solutions that promote climate adaptation and resilience. Their work in understanding and integrating social dynamics into technological development ensures that the technological solutions are more likely to be embraced by the stakeholders they are intended to serve. This alignment of technology with societal needs and participatory approaches is key to fostering sustainable and resilient communities in the face of evolving climate challenges."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "The ClimateSence project",
-    "section": "",
-    "text": "ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly."
-  },
-  {
-    "objectID": "about.html#project-funding",
-    "href": "about.html#project-funding",
-    "title": "The ClimateSence project",
-    "section": "Project funding",
-    "text": "Project funding\nEuropean Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
-  },
-  {
-    "objectID": "about.html#project-results",
-    "href": "about.html#project-results",
-    "title": "The ClimateSence project",
-    "section": "Project results",
-    "text": "Project results\nConsortium partners aim to develop ClimateSense into an internationally recognised reference project on GIS-based Climate Misinformation tracking methods. Impact will be created through the networks of core and associate partners, and a range of dissemination activities including stakeholders engagement workshops, scientific publications, reports and working papers, and regular press releases.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "This page lists the academic publications and presentations resulting from ClimateSense."
-  },
-  {
-    "objectID": "publications.html#conference-articles",
-    "href": "publications.html#conference-articles",
-    "title": "Publications",
-    "section": "Conference articles",
-    "text": "Conference articles\nBurel, G., & Alani, H. (2025). ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation. In proceedings of the 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment co-located with 24th International Semantic Web Conference (ISWC 2025). November 2025, Nara, Japan.\n\nBurel, G., Lisena, P., Daga, E., Troncy, R., & Alani, H. (2025). ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse. In CheckThat! 2025: Subjectivity, Fact-Checking, Claim Normalization, and Retrieval."
   },
   {
     "objectID": "privacy.html",
@@ -161,6 +105,97 @@
     "text": "Contact us\nPlease direct any queries about this policy or about the way we process your personal information to our Data Protection Officer using the contact details below.\n\nEmail data-protection@open.ac.uk\nTelephone +44 (0)1908 653994\nBy post: The Data Protection Officer, PO Box 497, The Open University, Walton Hall, Milton Keynes MK7 6AT."
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page lists the academic publications and presentations resulting from ClimateSense.\nBurel, G. and H. Alani (2025). “ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation”. In: Proceedings of the 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment co-located with 24th International Semantic Web Conference (ISWC 2025). Nara, Japan.\nBurel, G., P. Lisena, E. Daga, et al. (2025). “ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse”. In: CheckThat! 2025: Subjectivity, Fact-Checking, Claim Normalization, and Retrieval."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "We welcome your questions, feedback, and collaboration inquiries about ClimateSense."
+  },
+  {
+    "objectID": "contact.html#general-enquiries",
+    "href": "contact.html#general-enquiries",
+    "title": "Contact us",
+    "section": "General Enquiries",
+    "text": "General Enquiries\nFor general questions about the research project, please contact the project coordinator:\nName: Prof. Harith Alani\nEmail: harith.alani@open.ac.uk"
+  },
+  {
+    "objectID": "contact.html#our-location",
+    "href": "contact.html#our-location",
+    "title": "Contact us",
+    "section": "Our Location",
+    "text": "Our Location\nOur primary research lab is located at:\nKnowledge Media Institute\nThe Open University\nWalton Hall\nMilton Keynes\nMK7 6AA\nUnited Kingdom"
+  },
+  {
+    "objectID": "contact.html#social-media",
+    "href": "contact.html#social-media",
+    "title": "Contact us",
+    "section": "Social media",
+    "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
+  },
+  {
+    "objectID": "LICENCE.html",
+    "href": "LICENCE.html",
+    "title": "Licence",
+    "section": "",
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#content",
+    "href": "LICENCE.html#content",
+    "title": "Licence",
+    "section": "",
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#software-and-services",
+    "href": "LICENCE.html#software-and-services",
+    "title": "Licence",
+    "section": "Software and services",
+    "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "ClimaFacts Stats (Example)",
+    "section": "",
+    "text": "This web page provide dynamic statistics about the ClimaFacts Knowledge Graph\nClimaFactsKG uses sc:ClaimReview from the Schema.org vocabulary to represent claims and scientific corrections collected from the Skeptical Science website. The categorisation of misinforming climate claims is based on the CARDS taxonomy. CARDS is used to connect sc:ClaimReview between ClimaFactsKG and CimpleKG."
+  },
+  {
+    "objectID": "example.html#cards-stats",
+    "href": "example.html#cards-stats",
+    "title": "ClimaFacts Stats (Example)",
+    "section": "CARDS Stats",
+    "text": "CARDS Stats\n\n\n\nConcept Occurrence Count in ClimaFacts KG\n\n\nCARDS Concept Label\nReview Count\n\n\n\n\nMovement is unreliable\n583\n\n\nScience is unreliable\n216\n\n\nNot climate misinformation or related to the climate.\n136\n\n\nClimate is conspiracy\n43\n\n\nNo species impact\n7\n\n\nPolicies are harmful\n2\n\n\nWe need energy\n2\n\n\nNo evidence for GHE\n1\n\n\nNot a pollutant\n1\n\n\nPolicies are ineffective\n1"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The ClimateSence project",
+    "section": "",
+    "text": "ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly."
+  },
+  {
+    "objectID": "about.html#project-funding",
+    "href": "about.html#project-funding",
+    "title": "The ClimateSence project",
+    "section": "Project funding",
+    "text": "Project funding\nEuropean Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
+  },
+  {
+    "objectID": "about.html#project-results",
+    "href": "about.html#project-results",
+    "title": "The ClimateSence project",
+    "section": "Project results",
+    "text": "Project results\nConsortium partners aim to develop ClimateSense into an internationally recognised reference project on GIS-based Climate Misinformation tracking methods. Impact will be created through the networks of core and associate partners, and a range of dissemination activities including stakeholders engagement workshops, scientific publications, reports and working papers, and regular press releases.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business"
+  },
+  {
     "objectID": "accessibility.html",
     "href": "accessibility.html",
     "title": "Website accessibility",
@@ -194,33 +229,5 @@
     "title": "Website accessibility",
     "section": "Reporting accessibility problems with this website",
     "text": "Reporting accessibility problems with this website\nWe’re always looking to improve the accessibility of our website. If you find a problem, or you think we’re not meeting the requirements of the current accessibility regulations (Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018), please contact us.\nWe will ask you for the web address (URL) of the page and a description of the problem. We will also ask for your name and email address so that we can contact you about your feedback."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "We welcome your questions, feedback, and collaboration inquiries about ClimateSense."
-  },
-  {
-    "objectID": "contact.html#general-enquiries",
-    "href": "contact.html#general-enquiries",
-    "title": "Contact us",
-    "section": "General Enquiries",
-    "text": "General Enquiries\nFor general questions about the research project, please contact the project coordinator:\nName: Prof. Harith Alani\nEmail: harith.alani@open.ac.uk"
-  },
-  {
-    "objectID": "contact.html#our-location",
-    "href": "contact.html#our-location",
-    "title": "Contact us",
-    "section": "Our Location",
-    "text": "Our Location\nOur primary research lab is located at:\nKnowledge Media Institute\nThe Open University\nWalton Hall\nMilton Keynes\nMK7 6AA\nUnited Kingdom"
-  },
-  {
-    "objectID": "contact.html#social-media",
-    "href": "contact.html#social-media",
-    "title": "Contact us",
-    "section": "Social media",
-    "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
   }
 ]

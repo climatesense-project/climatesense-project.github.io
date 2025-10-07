@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The ClimateSence project – ClimateSense</title>
+<title>ClimaFacts Stats (Example) – ClimateSense</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,18 +72,18 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="climatesense.css">
-<meta property="og:title" content="The ClimateSence project – ClimateSense">
-<meta property="og:description" content="Climate Misinformation Surveillance and Analysis with Multidimensional GIS">
-<meta property="og:image" content="https://climatesense-project.eu/images/ClimateSense-logo.png">
+<meta property="og:title" content="ClimaFacts Stats (Example) – ClimateSense">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://climatesense-project.eu/example_files/figure-html/plot_df-1.png">
 <meta property="og:site_name" content="ClimateSense">
-<meta property="og:image:height" content="205">
-<meta property="og:image:width" content="641">
+<meta property="og:image:height" content="960">
+<meta property="og:image:width" content="1344">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -99,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About the project</span></a>
   </li>  
   <li class="nav-item">
@@ -118,45 +118,223 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">The ClimateSence project</h1>
-            <p class="subtitle lead">Climate Misinformation Surveillance and Analysis with Multidimensional GIS</p>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">ClimaFacts Stats (Example)</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<p>ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly.</p>
-<section id="project-funding" class="level2">
-<h2 class="anchored" data-anchor-id="project-funding">Project funding</h2>
-<p><a href="https://www.chistera.eu/funded-projects">European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies</a> (CHIST-ERA)</p>
+</header>
+
+
+<p>This web page provide dynamic statistics about the <a href="https://github.com/climatesense-project/climafacts-kg">ClimaFacts Knowledge Graph</a></p>
+<p><a href="https://purl.net/climatesense/climafactskg/ns">ClimaFactsKG</a> uses <a href="https://schema.org/ClaimReview"><code>sc:ClaimReview</code></a> from the <a href="https://schema.org/">Schema.org</a> vocabulary to represent claims and scientific corrections collected from the <a href="https://skepticalscience.com/">Skeptical Science</a> website. The categorisation of misinforming climate claims is based on the <a href="https://cardsclimate.com/">CARDS</a> taxonomy. CARDS is used to connect <code>sc:ClaimReview</code> between ClimaFactsKG and <a href="https://github.com/CIMPLE-project/knowledge-base">CimpleKG</a>.</p>
+<section id="rdf-namespaces" class="level3">
+<h3 class="anchored" data-anchor-id="rdf-namespaces">RDF Namespaces</h3>
+<p>The ClimaFactsKG namespace is: https://purl.net/climafactskg/ns#.</p>
+<p>ClimaFactsKG commonly uses the following namespaces and prefixes:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Prefix</th>
+<th style="text-align: left;">URI</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><a href="https://purl.net/climatesense/climafactskg/ns#" class="uri">https://purl.net/climatesense/climafactskg/ns#</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><code>owl</code></td>
+<td style="text-align: left;"><a href="http://www.w3.org/2002/07/owl#" class="uri">http://www.w3.org/2002/07/owl#</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><code>rdfs</code></td>
+<td style="text-align: left;"><a href="http://www.w3.org/2000/01/rdf-schema#" class="uri">http://www.w3.org/2000/01/rdf-schema#</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><code>sc</code></td>
+<td style="text-align: left;"><a href="https://schema.org/" class="uri">https://schema.org/</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><code>skos</code></td>
+<td style="text-align: left;"><a href="http://www.w3.org/2004/02/skos/core#" class="uri">http://www.w3.org/2004/02/skos/core#</a></td>
+</tr>
+</tbody>
+</table>
 </section>
-<section id="project-results" class="level2">
-<h2 class="anchored" data-anchor-id="project-results">Project results</h2>
-<p>Consortium partners aim to develop ClimateSense into an internationally recognised reference project on GIS-based Climate Misinformation tracking methods. Impact will be created through the networks of core and associate partners, and a range of dissemination activities including stakeholders engagement workshops, scientific publications, reports and working papers, and regular press releases.</p>
-<p><strong>Period of project implementation:</strong> 2025-03-01 - 2028-02-29</p>
-<p><strong>Project coordinator:</strong> <a href="https://www.open.ac.uk/">The Open University</a></p>
-<p><strong>Project partners:</strong> <a href="https://en.ktu.edu/">Kaunas University of Technology</a>, <a href="https://www.eurecom.fr/en/">EURECOM</a>, <a href="https://www.vse.cz/english/">Prague University of Economics and Business</a></p>
+<section id="skeptical-science-sks-mappings" class="level3">
+<h3 class="anchored" data-anchor-id="skeptical-science-sks-mappings">Skeptical Science (SkS) Mappings</h3>
+<p>The main mappings used to represent the Skeptical Science data in ClimaFactsKG are listed in the following table:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">SkS Article Section</th>
+<th style="text-align: left;"></th>
+<th style="text-align: left;">Mapping</th>
+<th style="text-align: left;">Example Text from SkS Article</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">URL</td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:ClaimReview</code> / <code>sc:url</code></td>
+<td style="text-align: left;"><a href="https://skepticalscience.com/global-cooling.htm" class="uri">https://skepticalscience.com/global-cooling.htm</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>What the science says…</em></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:reviewRating</code> / <code>sc:Rating</code> / <code>sc:ratingExplanation</code></td>
+<td style="text-align: left;"><em>All the indicators show that global warming is still happening.</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>At a glance</em></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:abstract</code></td>
+<td style="text-align: left;"><em>Earth’s surface, oceans and (…).</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Climate Myth…</em></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:claimReviewed</code> / <code>sc:Claim</code> / <code>sc:text</code></td>
+<td style="text-align: left;"><em>It’s cooling “In fact global warming has stopped and a cooling is beginning (…).</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Last updated on (…)</em></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:dateCreated</code></td>
+<td style="text-align: left;"><em>4 June 2024.</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>by (…)</em></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:author</code> / <code>sc:Person</code></td>
+<td style="text-align: left;"><em>John Mason.</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><code>&lt;meta name="description"/&gt;</code></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:description</code></td>
+<td style="text-align: left;"><em>Empirical measurements of (…).</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><code>&lt;meta name="keywords"/&gt;</code></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:keywords</code></td>
+<td style="text-align: left;"><em>global warming, skeptics, skepticism (…).</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><code>&lt;title/&gt;</code></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:name</code></td>
+<td style="text-align: left;"><em>Global cooling - Is global warming still happening?</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Main content</td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:reviewBody</code> , <code>sc:text</code></td>
+<td style="text-align: left;"><em>Earth’s surface, oceans and atmosphere are all warming due to (…).</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Related Argument</em></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>seeAlso</code></td>
+<td style="text-align: left;"><a href="https://skepticalscience.com/global-cooling-january-2007-to-january-2008.htm" class="uri">https://skepticalscience.com/global-cooling-january-2007-to-january-2008.htm</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>source: (…)</em></td>
+<td style="text-align: left;">→</td>
+<td style="text-align: left;"><code>sc:citation</code></td>
+<td style="text-align: left;"><a href="https://wattsupwiththat.wordpress.com/2008/02/19/january-2008-4-sources-say-globally-cooler-in-the-past-12-months/" class="uri">https://wattsupwiththat.wordpress.com/2008/02/19/january-2008-4-sources-say-globally-cooler-in-the-past-12-months/</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="cards-stats" class="level2">
+<h2 class="anchored" data-anchor-id="cards-stats">CARDS Stats</h2>
+<div class="cell">
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<caption>Concept Occurrence Count in ClimaFacts KG</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;">CARDS Concept Label</th>
+<th style="text-align: right;">Review Count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Movement is unreliable</td>
+<td style="text-align: right;">583</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Science is unreliable</td>
+<td style="text-align: right;">216</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Not climate misinformation or related to the climate.</td>
+<td style="text-align: right;">136</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Climate is conspiracy</td>
+<td style="text-align: right;">43</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">No species impact</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Policies are harmful</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">We need energy</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">No evidence for GHE</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Not a pollutant</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Policies are ineffective</td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="example_files/figure-html/plot_df-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
 
 
 </section>
@@ -583,7 +761,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/climatesense-project/climatesense-project.github.io/edit/main/about.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/climatesense-project/climatesense-project.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/climatesense-project/climatesense-project.github.io/edit/main/example.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/climatesense-project/climatesense-project.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p><a href="./about.html">About the project</a></p>
 </div>
