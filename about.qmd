@@ -1,5 +1,5 @@
 ---
-title: "The ClimateSence project"
+title: "The ClimateSense project"
 subtitle: Climate Misinformation Surveillance and Analysis with Multidimensional GIS
 sidebar: false
 page-layout: article
