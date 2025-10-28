@@ -177,21 +177,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "The ClimateSence project",
+    "title": "The ClimateSense project",
     "section": "",
     "text": "ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly."
   },
   {
     "objectID": "about.html#project-funding",
     "href": "about.html#project-funding",
-    "title": "The ClimateSence project",
+    "title": "The ClimateSense project",
     "section": "Project funding",
     "text": "Project funding\nEuropean Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
   },
   {
     "objectID": "about.html#project-results",
     "href": "about.html#project-results",
-    "title": "The ClimateSence project",
+    "title": "The ClimateSense project",
     "section": "Project results",
     "text": "Project results\nConsortium partners aim to develop ClimateSense into an internationally recognised reference project on GIS-based Climate Misinformation tracking methods. Impact will be created through the networks of core and associate partners, and a range of dissemination activities including stakeholders engagement workshops, scientific publications, reports and working papers, and regular press releases.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business"
   },
