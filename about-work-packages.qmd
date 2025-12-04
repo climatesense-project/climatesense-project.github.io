@@ -1,0 +1,37 @@
+---
+title: "about-work-packages.qmd"
+editor: visual
+---
+
+---
+title: "Work Packages Overview"
+subtitle: ""
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+
+# Work Packages
+
+Short introduction paragraph about the structure of the project.
+
+## WP1
+
+Your text here.
+
+## WP2
+
+Your text here.
+
+## WP3
+
+Your text here.
+
+## WP4
+
+Your text here.
+
+## WP5
+
+Your text here.

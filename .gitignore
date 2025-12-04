@@ -239,3 +239,4 @@ rsconnect/
 # End of https://www.toptal.com/developers/gitignore/api/r,python,jupyternotebooks
 /.quarto/
 /_site/
+**/*.quarto_ipynb

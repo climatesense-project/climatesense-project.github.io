@@ -22,3 +22,9 @@ Consortium partners aim to develop ClimateSense into an internationally recognis
 **Project coordinator:** [The Open University](https://www.open.ac.uk/)
 
 **Project partners:** [Kaunas University of Technology](https://en.ktu.edu/), [EURECOM](https://www.eurecom.fr/en/), [Prague University of Economics and Business](https://www.vse.cz/english/)
+
+## Project structure
+
+For an overview of the work packages see  
+[Work Packages Overview](about-work-packages.qmd)
+
