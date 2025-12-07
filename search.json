@@ -140,6 +140,62 @@
     "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
   },
   {
+    "objectID": "about-work-packages.html",
+    "href": "about-work-packages.html",
+    "title": "Work Packages Overview",
+    "section": "",
+    "text": "Short introduction paragraph about the structure of the project.\n\n\nYour text here.\n\n\n\nYour text here.\n\n\n\nYour text here.\n\n\n\nYour text here.\n\n\n\nYour text here."
+  },
+  {
+    "objectID": "about-work-packages.html#wp1",
+    "href": "about-work-packages.html#wp1",
+    "title": "Work Packages Overview",
+    "section": "",
+    "text": "Your text here."
+  },
+  {
+    "objectID": "about-work-packages.html#wp2",
+    "href": "about-work-packages.html#wp2",
+    "title": "Work Packages Overview",
+    "section": "",
+    "text": "Your text here."
+  },
+  {
+    "objectID": "about-work-packages.html#wp3",
+    "href": "about-work-packages.html#wp3",
+    "title": "Work Packages Overview",
+    "section": "",
+    "text": "Your text here."
+  },
+  {
+    "objectID": "about-work-packages.html#wp4",
+    "href": "about-work-packages.html#wp4",
+    "title": "Work Packages Overview",
+    "section": "",
+    "text": "Your text here."
+  },
+  {
+    "objectID": "about-work-packages.html#wp5",
+    "href": "about-work-packages.html#wp5",
+    "title": "Work Packages Overview",
+    "section": "",
+    "text": "Your text here."
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "ClimaFacts Stats (Example)",
+    "section": "",
+    "text": "This web page provide dynamic statistics about the ClimaFacts Knowledge Graph\nClimaFactsKG uses sc:ClaimReview from the Schema.org vocabulary to represent claims and scientific corrections collected from the Skeptical Science website. The categorisation of misinforming climate claims is based on the CARDS taxonomy. CARDS is used to connect sc:ClaimReview between ClimaFactsKG and CimpleKG."
+  },
+  {
+    "objectID": "example.html#cards-stats",
+    "href": "example.html#cards-stats",
+    "title": "ClimaFacts Stats (Example)",
+    "section": "CARDS Stats",
+    "text": "CARDS Stats\n\n\n\nConcept Occurrence Count in ClimaFacts KG\n\n\nCARDS Concept Label\nReview Count\n\n\n\n\nMovement is unreliable\n583\n\n\nScience is unreliable\n216\n\n\nNot climate misinformation or related to the climate.\n136\n\n\nClimate is conspiracy\n43\n\n\nNo species impact\n7\n\n\nPolicies are harmful\n2\n\n\nWe need energy\n2\n\n\nNo evidence for GHE\n1\n\n\nNot a pollutant\n1\n\n\nPolicies are ineffective\n1"
+  },
+  {
     "objectID": "LICENCE.html",
     "href": "LICENCE.html",
     "title": "Licence",
@@ -161,20 +217,6 @@
     "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
   },
   {
-    "objectID": "example.html",
-    "href": "example.html",
-    "title": "ClimaFacts Stats (Example)",
-    "section": "",
-    "text": "This web page provide dynamic statistics about the ClimaFacts Knowledge Graph\nClimaFactsKG uses sc:ClaimReview from the Schema.org vocabulary to represent claims and scientific corrections collected from the Skeptical Science website. The categorisation of misinforming climate claims is based on the CARDS taxonomy. CARDS is used to connect sc:ClaimReview between ClimaFactsKG and CimpleKG."
-  },
-  {
-    "objectID": "example.html#cards-stats",
-    "href": "example.html#cards-stats",
-    "title": "ClimaFacts Stats (Example)",
-    "section": "CARDS Stats",
-    "text": "CARDS Stats\n\n\n\nConcept Occurrence Count in ClimaFacts KG\n\n\nCARDS Concept Label\nReview Count\n\n\n\n\nMovement is unreliable\n583\n\n\nScience is unreliable\n216\n\n\nNot climate misinformation or related to the climate.\n136\n\n\nClimate is conspiracy\n43\n\n\nNo species impact\n7\n\n\nPolicies are harmful\n2\n\n\nWe need energy\n2\n\n\nNo evidence for GHE\n1\n\n\nNot a pollutant\n1\n\n\nPolicies are ineffective\n1"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "The ClimateSense project",
@@ -194,6 +236,13 @@
     "title": "The ClimateSense project",
     "section": "Project results",
     "text": "Project results\nConsortium partners aim to develop ClimateSense into an internationally recognised reference project on GIS-based Climate Misinformation tracking methods. Impact will be created through the networks of core and associate partners, and a range of dissemination activities including stakeholders engagement workshops, scientific publications, reports and working papers, and regular press releases.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business"
+  },
+  {
+    "objectID": "about.html#project-structure",
+    "href": "about.html#project-structure",
+    "title": "The ClimateSense project",
+    "section": "Project structure",
+    "text": "Project structure\nFor an overview of the work packages see\nWork Packages Overview"
   },
   {
     "objectID": "accessibility.html",
