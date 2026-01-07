@@ -24,8 +24,6 @@ website:
         href: publications.qmd
       - text: "Partners"
         href: partners.qmd
-      - text: "News"
-        href: news.qmd
 
   page-navigation: true
 
@@ -49,12 +47,8 @@ website:
 format:
   html:
     theme: [lux, climatesense.scss]
-    fontsize: 0.9įem
-    mainfont: "Inter"
-    sansfont: "Inter"
-    navbar:
-      search: true
-      title: false
+    mainfont: "Zilla Slab"
+    sansfont: "Zilla Slab"
     css: climatesense.css
     toc: true
     grid:

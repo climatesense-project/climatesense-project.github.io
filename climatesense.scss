@@ -1,38 +1,40 @@
-> /*-- scss:defaults --*/
-@import 'https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wg-ht@0,14..32,100..900;1,14..32,100..900&family=Zilla+Slab:wght@400;500;600&display=swap';
+/*-- scss:defaults --*/
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Zilla+Slab:wght@400;500;600&display=swap');
 
-.zilla-slab-regular {
-  font-family: "Zilla Slab", serif;
-  font-weight: 400;
-  font-style: normal;
+$font-family-sans-serif: "Inter", sans-serif;
+$font-family-serif: "Inter", serif;
+
+/*-- scss:rules --*/
+
+.navbar-brand img {
+  height: 60px !important;
+  width: auto !important;
 }
 
-.zilla-slab-medium {
-  font-family: "Zilla Slab", serif;
-  font-weight: 500;
-  font-style: normal;
+.navbar-nav {
+  flex-direction: row !important;
+  align-items: center !important;
+  display: flex !important;
+  gap: 20px;
 }
 
-.zilla-slab-semibold {
-  font-family: "Zilla Slab", serif;
-  font-weight: 600;
-  font-style: normal;
+.nav-link {
+  text-transform: capitalize !important;
+  font-size: 0.9rem !important;
 }
-
-/*.inter-<uniquifier> {
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}*/
-
 
 #quarto-content {
-  font-family: 'Inter', sans-serif !important;
-  font-optical-sizing: auto;
-  font-size: 16px;
-  font-weight: Regular 400;
-  line-height: 19px;
-  color: #000000;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+p {
+  text-align: justify;
+}
+
+.quarto-title-block .quarto-title .title {
+  font-size: 2rem !important;
+  text-transform: none !important;
 }
