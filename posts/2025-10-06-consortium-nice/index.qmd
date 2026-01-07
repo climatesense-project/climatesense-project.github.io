@@ -1,0 +1,40 @@
+---
+title: "ClimateSense Consortium Meeting in Nice"
+description: "A two-day working meeting focused on coordination across work packages and future project phases."
+author: "ClimateSense Team"
+date: "2025-10-06"
+categories: [Meeting, Nice, Consortium]
+image: "nice-meeting.jpg" # Optional: add a photo to this folder and name it this!
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### Project Meeting \| 6-7 October 2025 \| EURECOM, Sophia Antipolis (France)
+
+![nice-meeting](images/nice-meeting.jpeg)
+
+The **ClimateSense** consortium met in person at EURECOM in Sophia
+Antipolis for a two-day working meeting focused on coordination across
+work packages and preparation for the next project phase.
+
+#### Day 1: Progress & Planning
+
+The first day was dedicated to work package updates from all partners,
+covering: \* Stakeholder engagement and data integration \* Modelling
+and geostatistical analysis \* Platform development and project
+management
+
+Discussions also addressed short-term priorities, publication plans, and
+upcoming dissemination activities.
+
+#### Day 2: Innovation & Outreach
+
+On the second day, the consortium welcomed a keynote from **Agoratlas**,
+introducing approaches to large-scale social media analysis and
+coordinated online behaviour. This was followed by: \* Hands-on sessions
+on annotation and data access \* Discussions on the ClimateSense
+demonstrator \* Communication strategy for future COP events
+
+The meeting concluded with agreement on next steps and coordination for
+the coming months.
