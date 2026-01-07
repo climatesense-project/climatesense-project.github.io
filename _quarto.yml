@@ -49,8 +49,12 @@ website:
 format:
   html:
     theme: [lux, climatesense.scss]
-    mainfont: "Arial" # sets the primary text font
-    sansfont: "Arial" # sets the header/navigation font
+    fontsize: 0.9įem
+    mainfont: "Inter"
+    sansfont: "Inter"
+    navbar:
+      search: true
+      title: false
     css: climatesense.css
     toc: true
     grid:

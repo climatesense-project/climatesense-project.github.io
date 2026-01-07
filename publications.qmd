@@ -13,9 +13,6 @@ execute:
 
 This page lists the academic publications and presentations resulting from ClimateSense.
 
-
-
-
 ```{r setup, message=FALSE, warning=FALSE, echo=FALSE}
 library(RefManageR)
 bib_file_path <- "publications.bib" 
@@ -40,4 +37,3 @@ PrintBibliography(
 )
 
 ```
-
