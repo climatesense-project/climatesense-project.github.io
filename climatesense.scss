@@ -1,38 +1,38 @@
-/*-- scss:defaults --*/
+> /*-- scss:defaults --*/
+@import 'https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wg-ht@0,14..32,100..900;1,14..32,100..900&family=Zilla+Slab:wght@400;500;600&display=swap';
 
-// 1. Import Fonts
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Zilla+Slab:wght@400;500;600&display=swap');
 
-// 2. Set the "DNA" of the site
-$font-family-sans-serif: "Inter", sans-serif !default;
-$font-family-serif:      "Zilla Slab", serif !default;
-$headings-font-family:   "Inter", sans-serif !default; // Headers use Inter for clarity
-$font-family-base:       "Inter", sans-serif !default;
-
-// 3. Shrink the fonts for a cleaner look
-$font-size-root: 0.95rem; // Makes global text slightly smaller/sharper
-$h1-font-size: 2.2rem;
-$h2-font-size: 1.8rem;
-$h3-font-size: 1.4rem;
-
-/*-- scss:rules --*/
-
-// Fix the Navbar (Menu) to be smaller and not all-caps
-.navbar-nav .nav-link {
-  font-size: 0.85rem !important;
-  text-transform: capitalize !important; // Changes "NEWS" to "News"
-  font-weight: 500;
+.zilla-slab-regular {
+  font-family: "Zilla Slab", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
-// Justify paragraph text for that "Journal" look
-p {
-  line-height: 1.6;
-  text-align: justify;
-  margin-bottom: 1.2rem;
+.zilla-slab-medium {
+  font-family: "Zilla Slab", serif;
+  font-weight: 500;
+  font-style: normal;
 }
 
-// Add a little breathing room between sections
-section {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+.zilla-slab-semibold {
+  font-family: "Zilla Slab", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+/*.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}*/
+
+
+#quarto-content {
+  font-family: 'Inter', sans-serif !important;
+  font-optical-sizing: auto;
+  font-size: 16px;
+  font-weight: Regular 400;
+  line-height: 19px;
+  color: #000000;
 }

@@ -1,8 +1,9 @@
 ---
 title: "News"
 listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
+  contents: posts        # This tells it to look in the /posts folder
+  sort: "date desc"      # Newest posts appear first
+  type: grid             # 'grid' looks much cleaner and less 'messy' than a list
+  categories: true       # Adds the filter tags on the right
+  image-height: 200px    # Keeps all your thumbnails the same size
 ---
