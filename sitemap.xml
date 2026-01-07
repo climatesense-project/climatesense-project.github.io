@@ -1,51 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://climatesense-project.eu/news.html</loc>
-    <lastmod>2026-01-07T13:22:17.152Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climatesense-project.eu/accessibility.html</loc>
-    <lastmod>2026-01-07T13:22:17.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climatesense-project.eu/about.html</loc>
-    <lastmod>2026-01-07T13:22:17.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climatesense-project.eu/feeds.html</loc>
-    <lastmod>2026-01-07T13:22:17.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climatesense-project.eu/contact.html</loc>
-    <lastmod>2026-01-07T13:22:17.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climatesense-project.eu/LICENCE.html</loc>
-    <lastmod>2026-01-07T13:22:17.142Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climatesense-project.eu/example.html</loc>
-    <lastmod>2026-01-07T13:22:17.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climatesense-project.eu/index.html</loc>
-    <lastmod>2026-01-07T13:22:17.152Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climatesense-project.eu/posts/2025-10-06-consortium-nice/index.html</loc>
-    <lastmod>2026-01-07T13:22:17.152Z</lastmod>
-  </url>
-  <url>
-    <loc>https://climatesense-project.eu/publications.html</loc>
-    <lastmod>2026-01-07T13:22:17.153Z</lastmod>
+    <loc>https://climatesense-project.eu/partners.html</loc>
+    <lastmod>2026-01-07T13:56:49.017Z</lastmod>
   </url>
   <url>
     <loc>https://climatesense-project.eu/privacy.html</loc>
-    <lastmod>2026-01-07T13:22:17.152Z</lastmod>
+    <lastmod>2026-01-07T13:56:49.017Z</lastmod>
   </url>
   <url>
-    <loc>https://climatesense-project.eu/partners.html</loc>
-    <lastmod>2026-01-07T13:22:17.152Z</lastmod>
+    <loc>https://climatesense-project.eu/publications.html</loc>
+    <lastmod>2026-01-07T13:56:49.017Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/contact.html</loc>
+    <lastmod>2026-01-07T13:56:49.010Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/LICENCE.html</loc>
+    <lastmod>2026-01-07T13:56:49.007Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/example.html</loc>
+    <lastmod>2026-01-07T13:56:49.010Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/index.html</loc>
+    <lastmod>2026-01-07T13:56:49.017Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/feeds.html</loc>
+    <lastmod>2026-01-07T13:56:49.010Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/about.html</loc>
+    <lastmod>2026-01-07T13:56:49.010Z</lastmod>
+  </url>
+  <url>
+    <loc>https://climatesense-project.eu/accessibility.html</loc>
+    <lastmod>2026-01-07T13:56:49.010Z</lastmod>
   </url>
 </urlset>

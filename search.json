@@ -1,157 +1,38 @@
 [
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
+    "objectID": "partners.html",
+    "href": "partners.html",
+    "title": "Project partners",
     "section": "",
-    "text": "ClimateSense Consortium Meeting in Nice\n\n\n\nMeeting\n\nNice\n\nConsortium\n\n\n\nA two-day working meeting focused on coordination across work packages and future project phases.\n\n\n\n\n\nOct 6, 2025\n\n\nClimateSense Team\n\n\n\n\n\nNo matching items"
+    "text": "KMi consists of over 60 researchers and has been involved in a large number of EU and national projects. KMi has a long history of researching and developing social software, online community analytic tools and algorithms. The KMi team has extensive experience in social media analysis, semantic web, open science, online harms, misinformation analysis, and web science.\nThe OU is the coordinator of the project and also lead the design and development of ClimateSense platform. The OU is also involved in creating prediction models and contribute to the ClimateSense data with its GIS-KG expertise."
   },
   {
-    "objectID": "accessibility.html",
-    "href": "accessibility.html",
-    "title": "Website accessibility",
+    "objectID": "partners.html#the-open-university-ou-knowledge-media-institute-kmi",
+    "href": "partners.html#the-open-university-ou-knowledge-media-institute-kmi",
+    "title": "Project partners",
     "section": "",
-    "text": "ClimateSense is committed to ensuring accessibility for all individuals, including those with disabilities. We strive to provide a seamless and inclusive experience for all users, regardless of their abilities or assistive technologies used.\nWe want as many people as possible to be able to use our websites, and accessibility is an essential part of our mission. To adapt the content to your needs or preferences you should be able to:\n\nChange colours, contrasts levels and fonts.\nResize text up to 200% without impact on the functionality of the website.\nZoom in up to 400% without loss of information or functionality.\nNavigate the website using just a keyboard.\n\ntab to ‘Skip to content’ links at the top of the page to jump over repetitive information to the main content.\ntab through the content; the current location will be indicated by a clear visual change.\ncontrol the embedded media player to play audio and video materials.\n\nUse a screen reader (e.g. JAWs, NVDA) to :\n\nlisten to the content of web pages and use any functionality on the page.\nlist the headings and subheadings in the page and then jump to their location on the page.\nbring up a list of meaningful links on the page.\n\nUse transcripts or closed captions with most audio and video materials."
+    "text": "KMi consists of over 60 researchers and has been involved in a large number of EU and national projects. KMi has a long history of researching and developing social software, online community analytic tools and algorithms. The KMi team has extensive experience in social media analysis, semantic web, open science, online harms, misinformation analysis, and web science.\nThe OU is the coordinator of the project and also lead the design and development of ClimateSense platform. The OU is also involved in creating prediction models and contribute to the ClimateSense data with its GIS-KG expertise."
   },
   {
-    "objectID": "accessibility.html#accessibility-statement-for-the-climatesense-website",
-    "href": "accessibility.html#accessibility-statement-for-the-climatesense-website",
-    "title": "Website accessibility",
-    "section": "",
-    "text": "ClimateSense is committed to ensuring accessibility for all individuals, including those with disabilities. We strive to provide a seamless and inclusive experience for all users, regardless of their abilities or assistive technologies used.\nWe want as many people as possible to be able to use our websites, and accessibility is an essential part of our mission. To adapt the content to your needs or preferences you should be able to:\n\nChange colours, contrasts levels and fonts.\nResize text up to 200% without impact on the functionality of the website.\nZoom in up to 400% without loss of information or functionality.\nNavigate the website using just a keyboard.\n\ntab to ‘Skip to content’ links at the top of the page to jump over repetitive information to the main content.\ntab through the content; the current location will be indicated by a clear visual change.\ncontrol the embedded media player to play audio and video materials.\n\nUse a screen reader (e.g. JAWs, NVDA) to :\n\nlisten to the content of web pages and use any functionality on the page.\nlist the headings and subheadings in the page and then jump to their location on the page.\nbring up a list of meaningful links on the page.\n\nUse transcripts or closed captions with most audio and video materials."
+    "objectID": "partners.html#eurecom-data-science-department",
+    "href": "partners.html#eurecom-data-science-department",
+    "title": "Project partners",
+    "section": "EURECOM / Data Science Department",
+    "text": "EURECOM / Data Science Department\n\n\n\n\n\nEURECOM is a private and non-profit research centre and graduate school specialised in Digital Sciences located in the Sophia Antipolis Technopole in the South of France. The Data Science Department at EURECOM has approximately 40 researchers with a research focus on machine learning, deep learning and statistical modelling, distributed and data management systems, information extraction, knowledge based technologies and recommender systems with a strong focus on creative industries, media and cultural heritage data processing.\nEURECOM will leads the development of the project knowledge graph. EURECOM also contributes to the project machine learning models given its experience in geospatial semantics."
   },
   {
-    "objectID": "accessibility.html#how-accessible-this-website-is",
-    "href": "accessibility.html#how-accessible-this-website-is",
-    "title": "Website accessibility",
-    "section": "How accessible this website is",
-    "text": "How accessible this website is\nWe strive to exceed current accessibility standards. However, we know some elements of website may not be fully accessible:\n\nSome third-party content not created by ClimateSense.\nSites linked from ClimateSense pages but not run by the ClimateSense.\nSome content with specialised notations, such as mathematics, physics, chemistry and music."
+    "objectID": "partners.html#prague-university-of-economics-and-business-vse-faculty-of-informatics-and-statistics-fis",
+    "href": "partners.html#prague-university-of-economics-and-business-vse-faculty-of-informatics-and-statistics-fis",
+    "title": "Project partners",
+    "section": "Prague University of Economics and Business (VSE) / Faculty of Informatics and Statistics (FIS)",
+    "text": "Prague University of Economics and Business (VSE) / Faculty of Informatics and Statistics (FIS)\n\n\n\n\n\nFIS is recognized for its research in data-related disciplines, including data science, statistics and econometrics, and in knowledge technologies. The faculty has been involved in many EU and national research projects, primarily in (economic and other) data science, semantic web and (multi)media.\nVSE is responsible for the project geostatistical analyses, and contributes to the design and usage of misinformation and climate knowledge graphs and the evaluation of the ClimateSense platform."
   },
   {
-    "objectID": "accessibility.html#feedback-and-contact-information",
-    "href": "accessibility.html#feedback-and-contact-information",
-    "title": "Website accessibility",
-    "section": "Feedback and contact information",
-    "text": "Feedback and contact information\nIf you find that a certain section of our website is not accessible and you can’t get access to the information that you need please contact us to request support and we will ensure that you are provided with the information you require. You will need to provide your contact details."
-  },
-  {
-    "objectID": "accessibility.html#reporting-accessibility-problems-with-this-website",
-    "href": "accessibility.html#reporting-accessibility-problems-with-this-website",
-    "title": "Website accessibility",
-    "section": "Reporting accessibility problems with this website",
-    "text": "Reporting accessibility problems with this website\nWe’re always looking to improve the accessibility of our website. If you find a problem, or you think we’re not meeting the requirements of the current accessibility regulations (Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018), please contact us.\nWe will ask you for the web address (URL) of the page and a description of the problem. We will also ask for your name and email address so that we can contact you about your feedback."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "The ClimateSense project",
-    "section": "",
-    "text": "ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business\nProject funding: European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
-  },
-  {
-    "objectID": "about.html#project-overview",
-    "href": "about.html#project-overview",
-    "title": "The ClimateSense project",
-    "section": "",
-    "text": "ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business\nProject funding: European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
-  },
-  {
-    "objectID": "about.html#why-the-project-matters",
-    "href": "about.html#why-the-project-matters",
-    "title": "The ClimateSense project",
-    "section": "Why the project matters",
-    "text": "Why the project matters\nClimate misinformation is not only about whether a claim is false. It is also about how narratives travel across borders, how they resurface during key political moments and how they interact with local contexts. Today, most misinformation tooling treats geography as an afterthought and rarely links claims to relevant climate indicators in a structured way. ClimateSense addresses this gap by creating a GIS that can integrate heterogeneous datasets at scale, preserve semantic meaning via knowledge graphs and support analysis across time, space and narrative similarity. This enables more targeted monitoring, better prioritisation for fact‑checkers and clearer evidence for policy actors who need to respond to coordinated claims and recurring talking points."
-  },
-  {
-    "objectID": "about.html#objectives",
-    "href": "about.html#objectives",
-    "title": "The ClimateSense project",
-    "section": "Objectives",
-    "text": "Objectives\nClimateSense is designed to deliver seven concrete outcomes:\n\nO1: Capture stakeholder needs for geospatial climate misinformation monitoring and reporting\nO2: Build a tight GIS–Knowledge Graph integration with a GeoSPARQL access layer for querying\nO3: Integrate climate, policy and misinformation datasets into one interoperable system with provenance\nO4: Develop models for climate misinformation classification, narrative similarity and spread prediction\nO5: Deliver an interactive GIS portal for analysis, overlays and reporting\nO6: Validate and calibrate the system through iterative pilots during COP 2025-2027\nO7: Produce policy recommendations and training materials tailored to key user groups"
-  },
-  {
-    "objectID": "about.html#how-climatesense-works",
-    "href": "about.html#how-climatesense-works",
-    "title": "The ClimateSense project",
-    "section": "How ClimateSense works",
-    "text": "How ClimateSense works\nClimateSense operates as a connected workflow that moves from stakeholder needs and data collection to analysis, visualisation and real-world use. Each work package contributes a specific function to this pipeline, with continuous feedback loops between design, analysis and evaluation. At the core is a multidimensional GIS that integrates climate data, misinformation evidence and contextual indicators, enabling stakeholders to explore where climate misinformation emerges, how it spreads and how it relates to observed climate and policy conditions.\n\nWP1 - Requirements, stakeholder engagement and evaluation Lead: KTU ClimateSense begins and ends with users. WP1 identifies what policymakers, fact-checkers, civil society organisations and citizens need in order to monitor and respond to climate misinformation. Through interviews, co-creation workshops and evaluation sessions in partner countries, WP1 defines reporting needs, usability requirements and success criteria. These insights guide data selection, modelling priorities and interface design across all technical work packages and are used to iteratively evaluate and refine the system, particularly during COP pilots.\nWP2 – Climate misinformation modelling and knowledge graph Lead: EURECOM WP2 provides the semantic and analytical backbone of ClimateSense. It collects and harmonises heterogeneous inputs including climate variables, misinformation and fact-checks, media signals and policy indicators. These are represented in a knowledge graph that preserves meaning, provenance and relationships between claims, locations and topics. WP2 also develops machine learning models for fine-grained topic classification and narrative similarity, enabling the system to link related claims across languages, regions and time and to track how narratives reappear and mutate.\nWP3 – Geostatistical analysis and prediction\nLead: VSE WP3 transforms integrated data into spatial and temporal insight. It applies geostatistical methods to identify clustering, hotspots and spatial dependence in climate misinformation and to analyse how these patterns evolve over time and in relation to climate and policy context. WP3 also develops predictive models that estimate where and when climate misinformation is likely to intensify, providing early-warning indicators that feed directly into maps, analytics and reports.\nWP4 – Multidimensional GIS platform and portal Lead: The Open University WP4 delivers the public-facing system that brings all components together. It designs and implements the GIS platform that integrates knowledge graph queries, geostatistical outputs and climate data into interactive maps and visualisations. Users can explore layers, filter by topic and time, compare locations referenced in claims with observed climate data and generate evidence-based reports. The platform is iteratively improved based on WP1 feedback and validated through real-world use during COP cycles.\nWP5 – Communication, dissemination and impact Lead: KTU WP5 ensures that ClimateSense outputs are accessible, understandable and used beyond the research community. It coordinates communication activities, training materials and stakeholder engagement and translates technical results into briefs, demonstrations and educational resources tailored to different audiences. WP5 supports adoption of the platform and amplifies its societal and policy relevance.\nWP6 – Management, ethics and data Lead: The Open University WP6 underpins the entire workflow by providing project coordination, risk management and ethical oversight. It ensures GDPR-compliant handling of data and user research, supports open science and FAIR data practices and maintains governance structures that enable smooth collaboration and long-term sustainability of ClimateSense outputs."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "We welcome your questions, feedback, and collaboration inquiries about ClimateSense."
-  },
-  {
-    "objectID": "contact.html#general-enquiries",
-    "href": "contact.html#general-enquiries",
-    "title": "Contact us",
-    "section": "General Enquiries",
-    "text": "General Enquiries\nFor general questions about the research project, please contact the project coordinator:\nName: Prof. Harith Alani\nEmail: harith.alani@open.ac.uk"
-  },
-  {
-    "objectID": "contact.html#our-location",
-    "href": "contact.html#our-location",
-    "title": "Contact us",
-    "section": "Our Location",
-    "text": "Our Location\nOur primary research lab is located at:\nKnowledge Media Institute\nThe Open University\nWalton Hall\nMilton Keynes\nMK7 6AA\nUnited Kingdom"
-  },
-  {
-    "objectID": "contact.html#social-media",
-    "href": "contact.html#social-media",
-    "title": "Contact us",
-    "section": "Social media",
-    "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
-  },
-  {
-    "objectID": "LICENCE.html",
-    "href": "LICENCE.html",
-    "title": "Licence",
-    "section": "",
-    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
-  },
-  {
-    "objectID": "LICENCE.html#content",
-    "href": "LICENCE.html#content",
-    "title": "Licence",
-    "section": "",
-    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
-  },
-  {
-    "objectID": "LICENCE.html#software-and-services",
-    "href": "LICENCE.html#software-and-services",
-    "title": "Licence",
-    "section": "Software and services",
-    "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
-  },
-  {
-    "objectID": "example.html",
-    "href": "example.html",
-    "title": "ClimaFacts Stats (Example)",
-    "section": "",
-    "text": "This web page provide dynamic statistics about the ClimaFacts Knowledge Graph\nClimaFactsKG uses sc:ClaimReview from the Schema.org vocabulary to represent claims and scientific corrections collected from the Skeptical Science website. The categorisation of misinforming climate claims is based on the CARDS taxonomy. CARDS is used to connect sc:ClaimReview between ClimaFactsKG and CimpleKG."
-  },
-  {
-    "objectID": "example.html#cards-stats",
-    "href": "example.html#cards-stats",
-    "title": "ClimaFacts Stats (Example)",
-    "section": "CARDS Stats",
-    "text": "CARDS Stats\n\n\n\nConcept Occurrence Count in ClimaFacts KG\n\n\nCARDS Concept Label\nReview Count\n\n\n\n\nMovement is unreliable\n583\n\n\nScience is unreliable\n216\n\n\nNot climate misinformation or related to the climate.\n136\n\n\nClimate is conspiracy\n43\n\n\nNo species impact\n7\n\n\nPolicies are harmful\n2\n\n\nWe need energy\n2\n\n\nNo evidence for GHE\n1\n\n\nNot a pollutant\n1\n\n\nPolicies are ineffective\n1"
-  },
-  {
-    "objectID": "posts/2025-10-06-consortium-nice/index.html",
-    "href": "posts/2025-10-06-consortium-nice/index.html",
-    "title": "ClimateSense Consortium Meeting in Nice",
-    "section": "",
-    "text": "Project Meeting | 6-7 October 2025 | EURECOM, Sophia Antipolis (France)\n\n\n\nnice-meeting\n\n\nThe ClimateSense consortium met in person at EURECOM in Sophia Antipolis for a two-day working meeting focused on coordination across work packages and preparation for the next project phase.\n\nDay 1: Progress & Planning\nThe first day was dedicated to work package updates from all partners, covering: * Stakeholder engagement and data integration * Modelling and geostatistical analysis * Platform development and project management\nDiscussions also addressed short-term priorities, publication plans, and upcoming dissemination activities.\n\n\nDay 2: Innovation & Outreach\nOn the second day, the consortium welcomed a keynote from Agoratlas, introducing approaches to large-scale social media analysis and coordinated online behaviour. This was followed by: * Hands-on sessions on annotation and data access * Discussions on the ClimateSense demonstrator * Communication strategy for future COP events\nThe meeting concluded with agreement on next steps and coordination for the coming months."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "This page lists the academic publications and presentations resulting from ClimateSense.\nBurel, G. and H. Alani (2025). “ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation”. In: 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K), co-located with 24th International Semantic Web Conference (ISWC). Nara, Japan.\nBurel, G., P. Lisena, E. Daga, et al. (2025). “ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse”. In: Conference and Labs of the Evaluation Forum, Information Access Evaluation meets Multilinguality, Multimodality, and Visualization (CLEF) Working Notes. Madrid, Spain. URL: https://ceur-ws.org/Vol-4038/paper_65.pdf.\nPeskine, Y., R. Troncy, and P. Papotti (2025). EURECOM at FrugalAI Challenge. Data & AI IMT Webinar.\nSkarzauskiene, A., M. Maciuliene, H. Alani, et al. (2025). “Towards a multidimensional GIS approach for mapping and analysing climate misinformation: Concepts, gaps, and early directions”. In: International Conference on Human Factors in Design, Engineering and Computing (AHFE). Hawaii, USA.\nTroncy, R. (2025). Surveilling and combating misinformation using knowledge graphs. Invited Talk in Cap & Coffee: Innover pour lutter contre le désordre informationnel. Paris, France."
+    "objectID": "partners.html#kaunas-university-of-technology-ktu-civil-society-and-sustainability-research-group",
+    "href": "partners.html#kaunas-university-of-technology-ktu-civil-society-and-sustainability-research-group",
+    "title": "Project partners",
+    "section": "Kaunas University of Technology (KTU) / Civil Society and Sustainability Research Group",
+    "text": "Kaunas University of Technology (KTU) / Civil Society and Sustainability Research Group\n\n\n\n\n\nKTU stands as one of the largest universities in the Baltic States, renowned for its academic excellence and innovative research. With nine faculties and research institutes, KTU offers a comprehensive range of undergraduate and postgraduate programs, enrolling approximately 9,000 students and employing over 1,000 academic staff. The research group Civil Society and Sustainability is a testament to KTU’s dedication to addressing societal and environmental challenges. This group’s research spans several critical areas, including civil society, environmental and societal impacts of technological advancements, and sustainable human development. Their interdisciplinary approach and methodologically sound research will be instrumental in exploring and providing solutions to threats and challenges for a sustainable and secure civil society.\nThe KTU team plays a significant role in the project’s interdisciplinarity and the development of solutions that promote climate adaptation and resilience. Their work in understanding and integrating social dynamics into technological development ensures that the technological solutions are more likely to be embraced by the stakeholders they are intended to serve. This alignment of technology with societal needs and participatory approaches is key to fostering sustainable and resilient communities in the face of evolving climate challenges."
   },
   {
     "objectID": "privacy.html",
@@ -224,38 +105,143 @@
     "text": "Contact us\nPlease direct any queries about this policy or about the way we process your personal information to our Data Protection Officer using the contact details below.\n\nEmail data-protection@open.ac.uk\nTelephone +44 (0)1908 653994\nBy post: The Data Protection Officer, PO Box 497, The Open University, Walton Hall, Milton Keynes MK7 6AT."
   },
   {
-    "objectID": "partners.html",
-    "href": "partners.html",
-    "title": "Project partners",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "KMi consists of over 60 researchers and has been involved in a large number of EU and national projects. KMi has a long history of researching and developing social software, online community analytic tools and algorithms. The KMi team has extensive experience in social media analysis, semantic web, open science, online harms, misinformation analysis, and web science.\nThe OU is the coordinator of the project and also lead the design and development of ClimateSense platform. The OU is also involved in creating prediction models and contribute to the ClimateSense data with its GIS-KG expertise."
+    "text": "This page lists the academic publications and presentations resulting from ClimateSense.\nBurel, G. and H. Alani (2025). “ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation”. In: 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K), co-located with 24th International Semantic Web Conference (ISWC). Nara, Japan.\nBurel, G., P. Lisena, E. Daga, et al. (2025). “ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse”. In: Conference and Labs of the Evaluation Forum, Information Access Evaluation meets Multilinguality, Multimodality, and Visualization (CLEF) Working Notes. Madrid, Spain. URL: https://ceur-ws.org/Vol-4038/paper_65.pdf.\nPeskine, Y., R. Troncy, and P. Papotti (2025). EURECOM at FrugalAI Challenge. Data & AI IMT Webinar.\nSkarzauskiene, A., M. Maciuliene, H. Alani, et al. (2025). “Towards a multidimensional GIS approach for mapping and analysing climate misinformation: Concepts, gaps, and early directions”. In: International Conference on Human Factors in Design, Engineering and Computing (AHFE). Hawaii, USA.\nTroncy, R. (2025). Surveilling and combating misinformation using knowledge graphs. Invited Talk in Cap & Coffee: Innover pour lutter contre le désordre informationnel. Paris, France."
   },
   {
-    "objectID": "partners.html#the-open-university-ou-knowledge-media-institute-kmi",
-    "href": "partners.html#the-open-university-ou-knowledge-media-institute-kmi",
-    "title": "Project partners",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
     "section": "",
-    "text": "KMi consists of over 60 researchers and has been involved in a large number of EU and national projects. KMi has a long history of researching and developing social software, online community analytic tools and algorithms. The KMi team has extensive experience in social media analysis, semantic web, open science, online harms, misinformation analysis, and web science.\nThe OU is the coordinator of the project and also lead the design and development of ClimateSense platform. The OU is also involved in creating prediction models and contribute to the ClimateSense data with its GIS-KG expertise."
+    "text": "We welcome your questions, feedback, and collaboration inquiries about ClimateSense."
   },
   {
-    "objectID": "partners.html#eurecom-data-science-department",
-    "href": "partners.html#eurecom-data-science-department",
-    "title": "Project partners",
-    "section": "EURECOM / Data Science Department",
-    "text": "EURECOM / Data Science Department\n\n\n\n\n\nEURECOM is a private and non-profit research centre and graduate school specialised in Digital Sciences located in the Sophia Antipolis Technopole in the South of France. The Data Science Department at EURECOM has approximately 40 researchers with a research focus on machine learning, deep learning and statistical modelling, distributed and data management systems, information extraction, knowledge based technologies and recommender systems with a strong focus on creative industries, media and cultural heritage data processing.\nEURECOM will leads the development of the project knowledge graph. EURECOM also contributes to the project machine learning models given its experience in geospatial semantics."
+    "objectID": "contact.html#general-enquiries",
+    "href": "contact.html#general-enquiries",
+    "title": "Contact us",
+    "section": "General Enquiries",
+    "text": "General Enquiries\nFor general questions about the research project, please contact the project coordinator:\nName: Prof. Harith Alani\nEmail: harith.alani@open.ac.uk"
   },
   {
-    "objectID": "partners.html#prague-university-of-economics-and-business-vse-faculty-of-informatics-and-statistics-fis",
-    "href": "partners.html#prague-university-of-economics-and-business-vse-faculty-of-informatics-and-statistics-fis",
-    "title": "Project partners",
-    "section": "Prague University of Economics and Business (VSE) / Faculty of Informatics and Statistics (FIS)",
-    "text": "Prague University of Economics and Business (VSE) / Faculty of Informatics and Statistics (FIS)\n\n\n\n\n\nFIS is recognized for its research in data-related disciplines, including data science, statistics and econometrics, and in knowledge technologies. The faculty has been involved in many EU and national research projects, primarily in (economic and other) data science, semantic web and (multi)media.\nVSE is responsible for the project geostatistical analyses, and contributes to the design and usage of misinformation and climate knowledge graphs and the evaluation of the ClimateSense platform."
+    "objectID": "contact.html#our-location",
+    "href": "contact.html#our-location",
+    "title": "Contact us",
+    "section": "Our Location",
+    "text": "Our Location\nOur primary research lab is located at:\nKnowledge Media Institute\nThe Open University\nWalton Hall\nMilton Keynes\nMK7 6AA\nUnited Kingdom"
   },
   {
-    "objectID": "partners.html#kaunas-university-of-technology-ktu-civil-society-and-sustainability-research-group",
-    "href": "partners.html#kaunas-university-of-technology-ktu-civil-society-and-sustainability-research-group",
-    "title": "Project partners",
-    "section": "Kaunas University of Technology (KTU) / Civil Society and Sustainability Research Group",
-    "text": "Kaunas University of Technology (KTU) / Civil Society and Sustainability Research Group\n\n\n\n\n\nKTU stands as one of the largest universities in the Baltic States, renowned for its academic excellence and innovative research. With nine faculties and research institutes, KTU offers a comprehensive range of undergraduate and postgraduate programs, enrolling approximately 9,000 students and employing over 1,000 academic staff. The research group Civil Society and Sustainability is a testament to KTU’s dedication to addressing societal and environmental challenges. This group’s research spans several critical areas, including civil society, environmental and societal impacts of technological advancements, and sustainable human development. Their interdisciplinary approach and methodologically sound research will be instrumental in exploring and providing solutions to threats and challenges for a sustainable and secure civil society.\nThe KTU team plays a significant role in the project’s interdisciplinarity and the development of solutions that promote climate adaptation and resilience. Their work in understanding and integrating social dynamics into technological development ensures that the technological solutions are more likely to be embraced by the stakeholders they are intended to serve. This alignment of technology with societal needs and participatory approaches is key to fostering sustainable and resilient communities in the face of evolving climate challenges."
+    "objectID": "contact.html#social-media",
+    "href": "contact.html#social-media",
+    "title": "Contact us",
+    "section": "Social media",
+    "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
+  },
+  {
+    "objectID": "LICENCE.html",
+    "href": "LICENCE.html",
+    "title": "Licence",
+    "section": "",
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#content",
+    "href": "LICENCE.html#content",
+    "title": "Licence",
+    "section": "",
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#software-and-services",
+    "href": "LICENCE.html#software-and-services",
+    "title": "Licence",
+    "section": "Software and services",
+    "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "ClimaFacts Stats (Example)",
+    "section": "",
+    "text": "This web page provide dynamic statistics about the ClimaFacts Knowledge Graph\nClimaFactsKG uses sc:ClaimReview from the Schema.org vocabulary to represent claims and scientific corrections collected from the Skeptical Science website. The categorisation of misinforming climate claims is based on the CARDS taxonomy. CARDS is used to connect sc:ClaimReview between ClimaFactsKG and CimpleKG."
+  },
+  {
+    "objectID": "example.html#cards-stats",
+    "href": "example.html#cards-stats",
+    "title": "ClimaFacts Stats (Example)",
+    "section": "CARDS Stats",
+    "text": "CARDS Stats\n\n\n\nConcept Occurrence Count in ClimaFacts KG\n\n\nCARDS Concept Label\nReview Count\n\n\n\n\nMovement is unreliable\n583\n\n\nScience is unreliable\n216\n\n\nNot climate misinformation or related to the climate.\n136\n\n\nClimate is conspiracy\n43\n\n\nNo species impact\n7\n\n\nPolicies are harmful\n2\n\n\nWe need energy\n2\n\n\nNo evidence for GHE\n1\n\n\nNot a pollutant\n1\n\n\nPolicies are ineffective\n1"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The ClimateSense project",
+    "section": "",
+    "text": "ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business\nProject funding: European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
+  },
+  {
+    "objectID": "about.html#project-overview",
+    "href": "about.html#project-overview",
+    "title": "The ClimateSense project",
+    "section": "",
+    "text": "ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business\nProject funding: European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
+  },
+  {
+    "objectID": "about.html#why-the-project-matters",
+    "href": "about.html#why-the-project-matters",
+    "title": "The ClimateSense project",
+    "section": "Why the project matters",
+    "text": "Why the project matters\nClimate misinformation is not only about whether a claim is false. It is also about how narratives travel across borders, how they resurface during key political moments and how they interact with local contexts. Today, most misinformation tooling treats geography as an afterthought and rarely links claims to relevant climate indicators in a structured way. ClimateSense addresses this gap by creating a GIS that can integrate heterogeneous datasets at scale, preserve semantic meaning via knowledge graphs and support analysis across time, space and narrative similarity. This enables more targeted monitoring, better prioritisation for fact‑checkers and clearer evidence for policy actors who need to respond to coordinated claims and recurring talking points."
+  },
+  {
+    "objectID": "about.html#objectives",
+    "href": "about.html#objectives",
+    "title": "The ClimateSense project",
+    "section": "Objectives",
+    "text": "Objectives\nClimateSense is designed to deliver seven concrete outcomes:\n\nO1: Capture stakeholder needs for geospatial climate misinformation monitoring and reporting\nO2: Build a tight GIS–Knowledge Graph integration with a GeoSPARQL access layer for querying\nO3: Integrate climate, policy and misinformation datasets into one interoperable system with provenance\nO4: Develop models for climate misinformation classification, narrative similarity and spread prediction\nO5: Deliver an interactive GIS portal for analysis, overlays and reporting\nO6: Validate and calibrate the system through iterative pilots during COP 2025-2027\nO7: Produce policy recommendations and training materials tailored to key user groups"
+  },
+  {
+    "objectID": "about.html#how-climatesense-works",
+    "href": "about.html#how-climatesense-works",
+    "title": "The ClimateSense project",
+    "section": "How ClimateSense works",
+    "text": "How ClimateSense works\nClimateSense operates as a connected workflow that moves from stakeholder needs and data collection to analysis, visualisation and real-world use. Each work package contributes a specific function to this pipeline, with continuous feedback loops between design, analysis and evaluation. At the core is a multidimensional GIS that integrates climate data, misinformation evidence and contextual indicators, enabling stakeholders to explore where climate misinformation emerges, how it spreads and how it relates to observed climate and policy conditions.\n\nWP1 - Requirements, stakeholder engagement and evaluation Lead: KTU ClimateSense begins and ends with users. WP1 identifies what policymakers, fact-checkers, civil society organisations and citizens need in order to monitor and respond to climate misinformation. Through interviews, co-creation workshops and evaluation sessions in partner countries, WP1 defines reporting needs, usability requirements and success criteria. These insights guide data selection, modelling priorities and interface design across all technical work packages and are used to iteratively evaluate and refine the system, particularly during COP pilots.\nWP2 – Climate misinformation modelling and knowledge graph Lead: EURECOM WP2 provides the semantic and analytical backbone of ClimateSense. It collects and harmonises heterogeneous inputs including climate variables, misinformation and fact-checks, media signals and policy indicators. These are represented in a knowledge graph that preserves meaning, provenance and relationships between claims, locations and topics. WP2 also develops machine learning models for fine-grained topic classification and narrative similarity, enabling the system to link related claims across languages, regions and time and to track how narratives reappear and mutate.\nWP3 – Geostatistical analysis and prediction\nLead: VSE WP3 transforms integrated data into spatial and temporal insight. It applies geostatistical methods to identify clustering, hotspots and spatial dependence in climate misinformation and to analyse how these patterns evolve over time and in relation to climate and policy context. WP3 also develops predictive models that estimate where and when climate misinformation is likely to intensify, providing early-warning indicators that feed directly into maps, analytics and reports.\nWP4 – Multidimensional GIS platform and portal Lead: The Open University WP4 delivers the public-facing system that brings all components together. It designs and implements the GIS platform that integrates knowledge graph queries, geostatistical outputs and climate data into interactive maps and visualisations. Users can explore layers, filter by topic and time, compare locations referenced in claims with observed climate data and generate evidence-based reports. The platform is iteratively improved based on WP1 feedback and validated through real-world use during COP cycles.\nWP5 – Communication, dissemination and impact Lead: KTU WP5 ensures that ClimateSense outputs are accessible, understandable and used beyond the research community. It coordinates communication activities, training materials and stakeholder engagement and translates technical results into briefs, demonstrations and educational resources tailored to different audiences. WP5 supports adoption of the platform and amplifies its societal and policy relevance.\nWP6 – Management, ethics and data Lead: The Open University WP6 underpins the entire workflow by providing project coordination, risk management and ethical oversight. It ensures GDPR-compliant handling of data and user research, supports open science and FAIR data practices and maintains governance structures that enable smooth collaboration and long-term sustainability of ClimateSense outputs."
+  },
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Website accessibility",
+    "section": "",
+    "text": "ClimateSense is committed to ensuring accessibility for all individuals, including those with disabilities. We strive to provide a seamless and inclusive experience for all users, regardless of their abilities or assistive technologies used.\nWe want as many people as possible to be able to use our websites, and accessibility is an essential part of our mission. To adapt the content to your needs or preferences you should be able to:\n\nChange colours, contrasts levels and fonts.\nResize text up to 200% without impact on the functionality of the website.\nZoom in up to 400% without loss of information or functionality.\nNavigate the website using just a keyboard.\n\ntab to ‘Skip to content’ links at the top of the page to jump over repetitive information to the main content.\ntab through the content; the current location will be indicated by a clear visual change.\ncontrol the embedded media player to play audio and video materials.\n\nUse a screen reader (e.g. JAWs, NVDA) to :\n\nlisten to the content of web pages and use any functionality on the page.\nlist the headings and subheadings in the page and then jump to their location on the page.\nbring up a list of meaningful links on the page.\n\nUse transcripts or closed captions with most audio and video materials."
+  },
+  {
+    "objectID": "accessibility.html#accessibility-statement-for-the-climatesense-website",
+    "href": "accessibility.html#accessibility-statement-for-the-climatesense-website",
+    "title": "Website accessibility",
+    "section": "",
+    "text": "ClimateSense is committed to ensuring accessibility for all individuals, including those with disabilities. We strive to provide a seamless and inclusive experience for all users, regardless of their abilities or assistive technologies used.\nWe want as many people as possible to be able to use our websites, and accessibility is an essential part of our mission. To adapt the content to your needs or preferences you should be able to:\n\nChange colours, contrasts levels and fonts.\nResize text up to 200% without impact on the functionality of the website.\nZoom in up to 400% without loss of information or functionality.\nNavigate the website using just a keyboard.\n\ntab to ‘Skip to content’ links at the top of the page to jump over repetitive information to the main content.\ntab through the content; the current location will be indicated by a clear visual change.\ncontrol the embedded media player to play audio and video materials.\n\nUse a screen reader (e.g. JAWs, NVDA) to :\n\nlisten to the content of web pages and use any functionality on the page.\nlist the headings and subheadings in the page and then jump to their location on the page.\nbring up a list of meaningful links on the page.\n\nUse transcripts or closed captions with most audio and video materials."
+  },
+  {
+    "objectID": "accessibility.html#how-accessible-this-website-is",
+    "href": "accessibility.html#how-accessible-this-website-is",
+    "title": "Website accessibility",
+    "section": "How accessible this website is",
+    "text": "How accessible this website is\nWe strive to exceed current accessibility standards. However, we know some elements of website may not be fully accessible:\n\nSome third-party content not created by ClimateSense.\nSites linked from ClimateSense pages but not run by the ClimateSense.\nSome content with specialised notations, such as mathematics, physics, chemistry and music."
+  },
+  {
+    "objectID": "accessibility.html#feedback-and-contact-information",
+    "href": "accessibility.html#feedback-and-contact-information",
+    "title": "Website accessibility",
+    "section": "Feedback and contact information",
+    "text": "Feedback and contact information\nIf you find that a certain section of our website is not accessible and you can’t get access to the information that you need please contact us to request support and we will ensure that you are provided with the information you require. You will need to provide your contact details."
+  },
+  {
+    "objectID": "accessibility.html#reporting-accessibility-problems-with-this-website",
+    "href": "accessibility.html#reporting-accessibility-problems-with-this-website",
+    "title": "Website accessibility",
+    "section": "Reporting accessibility problems with this website",
+    "text": "Reporting accessibility problems with this website\nWe’re always looking to improve the accessibility of our website. If you find a problem, or you think we’re not meeting the requirements of the current accessibility regulations (Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018), please contact us.\nWe will ask you for the web address (URL) of the page and a description of the problem. We will also ask for your name and email address so that we can contact you about your feedback."
   }
 ]
