@@ -24,6 +24,8 @@ website:
         href: publications.qmd
       - text: "Partners"
         href: partners.qmd
+      - text: "News"
+        href: news.qmd
 
   page-navigation: true
 
@@ -47,6 +49,8 @@ website:
 format:
   html:
     theme: [lux, climatesense.scss]
+    mainfont: "Arial" # sets the primary text font
+    sansfont: "Arial" # sets the header/navigation font
     css: climatesense.css
     toc: true
     grid:
