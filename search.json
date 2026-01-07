@@ -70,6 +70,34 @@
     "text": "How ClimateSense works\nClimateSense operates as a connected workflow that moves from stakeholder needs and data collection to analysis, visualisation and real-world use. Each work package contributes a specific function to this pipeline, with continuous feedback loops between design, analysis and evaluation. At the core is a multidimensional GIS that integrates climate data, misinformation evidence and contextual indicators, enabling stakeholders to explore where climate misinformation emerges, how it spreads and how it relates to observed climate and policy conditions.\n\nWP1 - Requirements, stakeholder engagement and evaluation Lead: KTU ClimateSense begins and ends with users. WP1 identifies what policymakers, fact-checkers, civil society organisations and citizens need in order to monitor and respond to climate misinformation. Through interviews, co-creation workshops and evaluation sessions in partner countries, WP1 defines reporting needs, usability requirements and success criteria. These insights guide data selection, modelling priorities and interface design across all technical work packages and are used to iteratively evaluate and refine the system, particularly during COP pilots.\nWP2 – Climate misinformation modelling and knowledge graph Lead: EURECOM WP2 provides the semantic and analytical backbone of ClimateSense. It collects and harmonises heterogeneous inputs including climate variables, misinformation and fact-checks, media signals and policy indicators. These are represented in a knowledge graph that preserves meaning, provenance and relationships between claims, locations and topics. WP2 also develops machine learning models for fine-grained topic classification and narrative similarity, enabling the system to link related claims across languages, regions and time and to track how narratives reappear and mutate.\nWP3 – Geostatistical analysis and prediction\nLead: VSE WP3 transforms integrated data into spatial and temporal insight. It applies geostatistical methods to identify clustering, hotspots and spatial dependence in climate misinformation and to analyse how these patterns evolve over time and in relation to climate and policy context. WP3 also develops predictive models that estimate where and when climate misinformation is likely to intensify, providing early-warning indicators that feed directly into maps, analytics and reports.\nWP4 – Multidimensional GIS platform and portal Lead: The Open University WP4 delivers the public-facing system that brings all components together. It designs and implements the GIS platform that integrates knowledge graph queries, geostatistical outputs and climate data into interactive maps and visualisations. Users can explore layers, filter by topic and time, compare locations referenced in claims with observed climate data and generate evidence-based reports. The platform is iteratively improved based on WP1 feedback and validated through real-world use during COP cycles.\nWP5 – Communication, dissemination and impact Lead: KTU WP5 ensures that ClimateSense outputs are accessible, understandable and used beyond the research community. It coordinates communication activities, training materials and stakeholder engagement and translates technical results into briefs, demonstrations and educational resources tailored to different audiences. WP5 supports adoption of the platform and amplifies its societal and policy relevance.\nWP6 – Management, ethics and data Lead: The Open University WP6 underpins the entire workflow by providing project coordination, risk management and ethical oversight. It ensures GDPR-compliant handling of data and user research, supports open science and FAIR data practices and maintains governance structures that enable smooth collaboration and long-term sustainability of ClimateSense outputs."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "We welcome your questions, feedback, and collaboration inquiries about ClimateSense."
+  },
+  {
+    "objectID": "contact.html#general-enquiries",
+    "href": "contact.html#general-enquiries",
+    "title": "Contact us",
+    "section": "General Enquiries",
+    "text": "General Enquiries\nFor general questions about the research project, please contact the project coordinator:\nName: Prof. Harith Alani\nEmail: harith.alani@open.ac.uk"
+  },
+  {
+    "objectID": "contact.html#our-location",
+    "href": "contact.html#our-location",
+    "title": "Contact us",
+    "section": "Our Location",
+    "text": "Our Location\nOur primary research lab is located at:\nKnowledge Media Institute\nThe Open University\nWalton Hall\nMilton Keynes\nMK7 6AA\nUnited Kingdom"
+  },
+  {
+    "objectID": "contact.html#social-media",
+    "href": "contact.html#social-media",
+    "title": "Contact us",
+    "section": "Social media",
+    "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
+  },
+  {
     "objectID": "LICENCE.html",
     "href": "LICENCE.html",
     "title": "Licence",
@@ -105,74 +133,11 @@
     "text": "CARDS Stats\n\n\n\nConcept Occurrence Count in ClimaFacts KG\n\n\nCARDS Concept Label\nReview Count\n\n\n\n\nMovement is unreliable\n583\n\n\nScience is unreliable\n216\n\n\nNot climate misinformation or related to the climate.\n136\n\n\nClimate is conspiracy\n43\n\n\nNo species impact\n7\n\n\nPolicies are harmful\n2\n\n\nWe need energy\n2\n\n\nNo evidence for GHE\n1\n\n\nNot a pollutant\n1\n\n\nPolicies are ineffective\n1"
   },
   {
-    "objectID": "about-work-packages.html",
-    "href": "about-work-packages.html",
-    "title": "Work Packages Overview",
+    "objectID": "posts/2025-10-06-consortium-nice/index.html",
+    "href": "posts/2025-10-06-consortium-nice/index.html",
+    "title": "ClimateSense Consortium Meeting in Nice",
     "section": "",
-    "text": "Short introduction paragraph about the structure of the project.\n\n\nYour text here.\n\n\n\nYour text here.\n\n\n\nYour text here.\n\n\n\nYour text here.\n\n\n\nYour text here."
-  },
-  {
-    "objectID": "about-work-packages.html#wp1",
-    "href": "about-work-packages.html#wp1",
-    "title": "Work Packages Overview",
-    "section": "",
-    "text": "Your text here."
-  },
-  {
-    "objectID": "about-work-packages.html#wp2",
-    "href": "about-work-packages.html#wp2",
-    "title": "Work Packages Overview",
-    "section": "",
-    "text": "Your text here."
-  },
-  {
-    "objectID": "about-work-packages.html#wp3",
-    "href": "about-work-packages.html#wp3",
-    "title": "Work Packages Overview",
-    "section": "",
-    "text": "Your text here."
-  },
-  {
-    "objectID": "about-work-packages.html#wp4",
-    "href": "about-work-packages.html#wp4",
-    "title": "Work Packages Overview",
-    "section": "",
-    "text": "Your text here."
-  },
-  {
-    "objectID": "about-work-packages.html#wp5",
-    "href": "about-work-packages.html#wp5",
-    "title": "Work Packages Overview",
-    "section": "",
-    "text": "Your text here."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "We welcome your questions, feedback, and collaboration inquiries about ClimateSense."
-  },
-  {
-    "objectID": "contact.html#general-enquiries",
-    "href": "contact.html#general-enquiries",
-    "title": "Contact us",
-    "section": "General Enquiries",
-    "text": "General Enquiries\nFor general questions about the research project, please contact the project coordinator:\nName: Prof. Harith Alani\nEmail: harith.alani@open.ac.uk"
-  },
-  {
-    "objectID": "contact.html#our-location",
-    "href": "contact.html#our-location",
-    "title": "Contact us",
-    "section": "Our Location",
-    "text": "Our Location\nOur primary research lab is located at:\nKnowledge Media Institute\nThe Open University\nWalton Hall\nMilton Keynes\nMK7 6AA\nUnited Kingdom"
-  },
-  {
-    "objectID": "contact.html#social-media",
-    "href": "contact.html#social-media",
-    "title": "Contact us",
-    "section": "Social media",
-    "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
+    "text": "Project Meeting | 6-7 October 2025 | EURECOM, Sophia Antipolis (France)\n\n\n\nnice-meeting\n\n\nThe ClimateSense consortium met in person at EURECOM in Sophia Antipolis for a two-day working meeting focused on coordination across work packages and preparation for the next project phase.\n\nDay 1: Progress & Planning\nThe first day was dedicated to work package updates from all partners, covering: * Stakeholder engagement and data integration * Modelling and geostatistical analysis * Platform development and project management\nDiscussions also addressed short-term priorities, publication plans, and upcoming dissemination activities.\n\n\nDay 2: Innovation & Outreach\nOn the second day, the consortium welcomed a keynote from Agoratlas, introducing approaches to large-scale social media analysis and coordinated online behaviour. This was followed by: * Hands-on sessions on annotation and data access * Discussions on the ClimateSense demonstrator * Communication strategy for future COP events\nThe meeting concluded with agreement on next steps and coordination for the coming months."
   },
   {
     "objectID": "publications.html",
