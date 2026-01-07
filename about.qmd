@@ -7,15 +7,9 @@ toc: false
 title-block-banner: true
 ---
 
+## Project overview
+
 ClimateSense is a research project designed to combat climate-related misinformation through advanced Geographic Information Systems (GIS). Despite ongoing efforts, misinformation remains widespread, affecting public perception and obstructing effective climate policymaking. ClimateSense addresses critical gaps, such as the lack of tools for geospatial mapping of climate misinformation, insufficient understanding of its geographic spread, and inadequate visualization methods for patterns across geography, time, and topics. The project proposes a Multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. By analysing correlations between misinformation and climate data, the system aims to enhance predictive capabilities to proactively counter misinformation. The effectiveness of ClimateSense will be evaluated using data from the next three COP conferences, aiming to inform societal understanding and climate policy decisions significantly.
-
-## Project funding
-
-[European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies](https://www.chistera.eu/funded-projects) (CHIST-ERA)
-
-## Project results
-
-Consortium partners aim to develop ClimateSense into an internationally recognised reference project on GIS-based Climate Misinformation tracking methods. Impact will be created through the networks of core and associate partners, and a range of dissemination activities including stakeholders engagement workshops, scientific publications, reports and working papers, and regular press releases.
 
 **Period of project implementation:** 2025-03-01 - 2028-02-29
 
@@ -23,8 +17,56 @@ Consortium partners aim to develop ClimateSense into an internationally recognis
 
 **Project partners:** [Kaunas University of Technology](https://en.ktu.edu/), [EURECOM](https://www.eurecom.fr/en/), [Prague University of Economics and Business](https://www.vse.cz/english/)
 
-## Project structure
+**Project funding:** [European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies](https://www.chistera.eu/funded-projects) (CHIST-ERA)
 
-For an overview of the work packages see  
-[Work Packages Overview](about-work-packages.qmd)
+## Why the project matters
 
+Climate misinformation is not only about whether a claim is false. It is also about how narratives travel across borders, how they resurface during key political moments and how they interact with local contexts. Today, most misinformation tooling treats geography as an afterthought and rarely links claims to relevant climate indicators in a structured way. ClimateSense addresses this gap by creating a GIS that can integrate heterogeneous datasets at scale, preserve semantic meaning via knowledge graphs and support analysis across time, space and narrative similarity. This enables more targeted monitoring, better prioritisation for fact‑checkers and clearer evidence for policy actors who need to respond to coordinated claims and recurring talking points.
+
+## Objectives
+
+ClimateSense is designed to deliver seven concrete outcomes:
+
+-   O1: Capture stakeholder needs for geospatial climate misinformation monitoring and reporting
+
+-   O2: Build a tight GIS–Knowledge Graph integration with a GeoSPARQL access layer for querying
+
+-   O3: Integrate climate, policy and misinformation datasets into one interoperable system with provenance
+
+-   O4: Develop models for climate misinformation classification, narrative similarity and spread prediction
+
+-   O5: Deliver an interactive GIS portal for analysis, overlays and reporting
+
+-   O6: Validate and calibrate the system through iterative pilots during COP 2025-2027
+
+-   O7: Produce policy recommendations and training materials tailored to key user groups
+
+## How ClimateSense works
+
+ClimateSense operates as a connected workflow that moves from stakeholder needs and data collection to analysis, visualisation and real-world use. Each work package contributes a specific function to this pipeline, with continuous feedback loops between design, analysis and evaluation. At the core is a multidimensional GIS that integrates climate data, misinformation evidence and contextual indicators, enabling stakeholders to explore where climate misinformation emerges, how it spreads and how it relates to observed climate and policy conditions.
+
+![](images/WP6 Project Management, Ethics and Data.png)
+
+**WP1 - Requirements, stakeholder engagement and evaluation**
+**Lead:** KTU
+ClimateSense begins and ends with users. WP1 identifies what policymakers, fact-checkers, civil society organisations and citizens need in order to monitor and respond to climate misinformation. Through interviews, co-creation workshops and evaluation sessions in partner countries, WP1 defines reporting needs, usability requirements and success criteria. These insights guide data selection, modelling priorities and interface design across all technical work packages and are used to iteratively evaluate and refine the system, particularly during COP pilots.
+
+**WP2 – Climate misinformation modelling and knowledge graph**
+**Lead:** EURECOM
+WP2 provides the semantic and analytical backbone of ClimateSense. It collects and harmonises heterogeneous inputs including climate variables, misinformation and fact-checks, media signals and policy indicators. These are represented in a knowledge graph that preserves meaning, provenance and relationships between claims, locations and topics. WP2 also develops machine learning models for fine-grained topic classification and narrative similarity, enabling the system to link related claims across languages, regions and time and to track how narratives reappear and mutate.
+
+**WP3 – Geostatistical analysis and prediction**\
+**Lead:** VSE
+WP3 transforms integrated data into spatial and temporal insight. It applies geostatistical methods to identify clustering, hotspots and spatial dependence in climate misinformation and to analyse how these patterns evolve over time and in relation to climate and policy context. WP3 also develops predictive models that estimate where and when climate misinformation is likely to intensify, providing early-warning indicators that feed directly into maps, analytics and reports.
+
+**WP4 – Multidimensional GIS platform and portal**
+**Lead:** The Open University
+WP4 delivers the public-facing system that brings all components together. It designs and implements the GIS platform that integrates knowledge graph queries, geostatistical outputs and climate data into interactive maps and visualisations. Users can explore layers, filter by topic and time, compare locations referenced in claims with observed climate data and generate evidence-based reports. The platform is iteratively improved based on WP1 feedback and validated through real-world use during COP cycles.
+
+**WP5 – Communication, dissemination and impact**
+**Lead:** KTU
+WP5 ensures that ClimateSense outputs are accessible, understandable and used beyond the research community. It coordinates communication activities, training materials and stakeholder engagement and translates technical results into briefs, demonstrations and educational resources tailored to different audiences. WP5 supports adoption of the platform and amplifies its societal and policy relevance.
+
+**WP6 – Management, ethics and data**
+**Lead:** The Open University
+WP6 underpins the entire workflow by providing project coordination, risk management and ethical oversight. It ensures GDPR-compliant handling of data and user research, supports open science and FAIR data practices and maintains governance structures that enable smooth collaboration and long-term sustainability of ClimateSense outputs.
