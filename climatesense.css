@@ -517,7 +517,7 @@ h5, .h5 {
   font-weight: 500;
   line-height: 24px;
   text-transform: uppercase;
-  color: #ffffff; 
+  color: #000000; 
 }
 
 h6, .h6 {
@@ -794,11 +794,13 @@ div.quarto-post .listing-description {
   margin-left: 1rem;
   margin-right: 1rem;
   margin-top: 0;
+  color: #3c553e;
 }
 
 .top-story-text h2 {
   margin-top: 1.5rem;
   padding-top: 1rem;
+  color: #3c553e;
 }
 
 .top-story-img p {
@@ -930,7 +932,7 @@ div.quarto-post .listing-description {
 
 .footer-text h3, .h3 {
   font-family: "Zilla Slab", serif;
-  color: black;
+  color: #3c553e;;
   font-size: .875rem;
   font-weight: 500;
   text-transform: uppercase;
@@ -942,13 +944,13 @@ div.quarto-post .listing-description {
 }
 
 .footer-text p, .p {
-  color: black;
+  color: #3c553e;
   font-size: .875rem;
   font-weight: 400;
 }
 
 .footer-text p > a {
-  color: black;
+  color: #3c553e;
   font-size: .875rem;
   font-weight: 400;
 }
@@ -1030,4 +1032,16 @@ body:not(.floating) .nav-footer {
 
 pre code:not(.sourceCode) {
   background-color: #f7fbf7;
+}
+
+.thumbnail-image.card-img {
+  border-radius: 20px;
+}
+
+#news > h2 > a {
+  color: #000000;
+}
+
+#news > h2 > a:hover {
+  color: #007575;
 }

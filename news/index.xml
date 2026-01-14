@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>ClimateSense</title>
+<link>https://climatesense-project.eu/news/</link>
+<atom:link href="https://climatesense-project.eu/news/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://climatesense-project.eu/images/ClimateSense-logo.png</url>
+<title>ClimateSense</title>
+<link>https://climatesense-project.eu/news/</link>
+<height>46</height>
+<width>144</width>
+</image>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Wed, 14 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>ClimateSense Consortium Meeting in Nice</title>
+  <dc:creator>ClimateSense Team</dc:creator>
+  <link>https://climatesense-project.eu/news/posts/2026/01/14/consortium-meeting-nice-2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://climatesense-project.eu/news/posts/2026/01/14/images/eurecom.jpg" class="img-fluid" style="width:100.0%" alt="EURECOM Campus"></p>
+<p>The <strong>ClimateSense</strong> consortium met in person at <a href="https://www.eurecom.fr/en/">EURECOM</a> in Sophia Antipolis for a two-day working meeting focused on coordination across work packages and preparation for the next project phase.</p>
+<section id="day-1-progress-planning" class="level4">
+<h4 class="anchored" data-anchor-id="day-1-progress-planning">Day 1: Progress &amp; Planning</h4>
+<p>The first day was dedicated to work package updates from all partners, covering:</p>
+<ul>
+<li>Stakeholder engagement and data integration</li>
+<li>Modelling and geostatistical analysis</li>
+<li>Platform development and project management</li>
+</ul>
+<p>Discussions also addressed short-term priorities, publication plans, and upcoming dissemination activities.</p>
+</section>
+<section id="day-2-innovation-outreach" class="level4">
+<h4 class="anchored" data-anchor-id="day-2-innovation-outreach">Day 2: Innovation &amp; Outreach</h4>
+<p>On the second day, the consortium welcomed a keynote from <a href="https://agoratlas.com/en/">Agoratlas</a>, introducing approaches to large-scale social media analysis and coordinated online behaviour. This was followed by:</p>
+<ul>
+<li>Hands-on sessions on annotation and data access</li>
+<li>Discussions on the ClimateSense</li>
+<li>Communication strategy for future COP events</li>
+</ul>
+<p>The meeting concluded with agreement on next steps and coordination for the coming months.</p>
+<div class="article-btn">
+<p><a href="../../../../../news/index.html">Discover more News</a></p>
+</div>
+<div class="further-info">
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<dl>
+<dt>Copyright and licence</dt>
+<dd>
+© 2026 The ClimateSense Consortium
+</dd>
+</dl>
+<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">International licence</a>.</p>
+</div>
+<div class="g-col-12 g-col-md-6">
+
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Project Meeting</category>
+  <guid>https://climatesense-project.eu/news/posts/2026/01/14/consortium-meeting-nice-2025.html</guid>
+  <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://climatesense-project.eu/news/posts/2026/01/14/images/eurecom.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
