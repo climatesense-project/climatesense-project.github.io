@@ -1,0 +1,58 @@
+---
+title: ClimateSense Consortium Meeting in Nice
+description: |
+  A two-day working meeting focused on coordination across work packages and future project phases.
+author: ClimateSense Team
+categories:
+  - Project Meeting
+date: "2026-01-14"
+toc: true
+image: images/eurecom.jpg
+image-alt: The EURECOM campus 
+---
+
+![]( images/eurecom.jpg){fig-alt="EURECOM Campus" width="100%"}
+
+The **ClimateSense** consortium met in person at [EURECOM](https://www.eurecom.fr/en/) in Sophia
+Antipolis for a two-day working meeting focused on coordination across
+work packages and preparation for the next project phase.
+
+#### Day 1: Progress & Planning
+
+The first day was dedicated to work package updates from all partners, covering: 
+
+* Stakeholder engagement and data integration
+* Modelling
+and geostatistical analysis 
+* Platform development and project management
+
+Discussions also addressed short-term priorities, publication plans, and upcoming dissemination activities.
+
+#### Day 2: Innovation & Outreach
+
+On the second day, the consortium welcomed a keynote from [Agoratlas](https://agoratlas.com/en/), introducing approaches to large-scale social media analysis and coordinated online behaviour. This was followed by: 
+
+* Hands-on sessions on annotation and data access 
+* Discussions on the ClimateSense
+* Communication strategy for future COP events
+
+The meeting concluded with agreement on next steps and coordination for the coming months.
+
+::: {.article-btn}
+[Discover more News](/news/index.qmd)
+:::
+
+::: {.further-info}
+::: grid
+::: {.g-col-12 .g-col-md-6}
+Copyright and licence
+: &copy; 2026 The ClimateSense Consortium
+
+<a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">International licence</a>.
+
+:::
+::: {.g-col-12 .g-col-md-6}
+
+:::
+:::
+:::

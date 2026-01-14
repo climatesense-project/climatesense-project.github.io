@@ -20,6 +20,8 @@ website:
     right:
       - text: "About"
         href: about.qmd
+      - text: "News"
+        href: news/index.qmd
       - text: "Publications"
         href: publications.qmd
       - text: "Partners"
@@ -47,8 +49,6 @@ website:
 format:
   html:
     theme: [lux, climatesense.scss]
-    mainfont: "Zilla Slab"
-    sansfont: "Zilla Slab"
     css: climatesense.css
     toc: true
     grid:

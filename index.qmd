@@ -7,15 +7,29 @@ sidebar: false
 search: false
 repo-actions: false
 toc: false
+listing:
+  - id: news
+    contents: 
+      - "/news"
+      - "!news/index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
 ---
 
-:::::::: {.top-story .green-background}
-::::::: grid
+:::::: {.top-story .green-background}
+::::: grid
 ::: {.g-col-12 .g-col-lg-1}
 :::
 
 ::: {.g-col-12 .g-col-lg-5 .top-story-text}
-#### Transforming how misinformation is managed in the climate sector offering tools to visualise the interplay of geospatial, temporal, and topical misinformation patterns.
+## ClimateSense
+
+Transforming how misinformation is managed in the climate sector offering tools to visualise the interplay of geospatial, temporal, and topical misinformation patterns.
 :::
 
 ::: {.g-col-12 .g-col-lg-5 .top-story-img}
@@ -24,44 +38,56 @@ toc: false
 
 ::: {.g-col-12 .g-col-lg-1}
 :::
-:::::::
-::::::::
+:::::
+::::::
 
-::::: header-text
-:::: content-container
-::: header-block
-In an era of rapid climate change, the spread of misinformation poses a serious threat to effective climate action. The ClimateSense project is a collaborative effort to fight this challenge head-on. ClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensional GIS) builds an innovative platform that combines climate science, misinformation research, and advanced geospatial analysis to monitor and analyse climate disinformation across the globe.
-:::
+:::::: {.header-text}
+::::: content-container
+:::: header-block
+In an era of rapid climate change, the spread of misinformation poses a serious threat to effective climate action. 
+
+The ClimateSense project is a collaborative effort to fight this challenge head-on.
+
+ClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensional GIS) builds an innovative platform that combines climate science, misinformation research, and advanced geospatial analysis to monitor and analyse climate disinformation across the globe.
 ::::
 :::::
+::::::
 
-:::::::: content-container
-::::::: listing-block
-:::::: grid
-::: g-col-4
+:::::: {.content-container}
+::::: {.listing-block}
+## Our approach
+:::: grid
+::: {.g-col-12 .g-col-md-4}
 #### A multidimensional GIS for understanding climate misinformation
 
 The core of our project is a multidimensional GIS (Geographic Information System) that acts as a surveillance and analysis tool. This platform helps us understand where, when, and how climate misinformation is spreading.
 :::
 
-::: g-col-4
+::: {.g-col-12 .g-col-md-4}
 #### The ClimateSense knowledge graph
 
 At the heart of ClimateSense is an interlinked Knowledge Graph. This powerful tool links climate misinformation claims directly to credible scientific evidence. This not only helps us identify false narratives but also provides a clear, evidence-based counter-narrative to debunk them.
 :::
 
-::: g-col-4
+::: {.g-col-12 .g-col-md-4}
 #### Key Features
 
--   *Real-time Surveillance:* ClimateSense monitors online data to identify emerging climate misinformation.
-
--   *Geospatial Analysis:* A multidimensional GIS is used to visualise how misinformation campaigns are linked to specific geographic locations.
-
--   *Scientific Grounding:* The ClimateSense Knowledge Graph ensures that all of the analysis is rooted in verified scientific evidence.
+* **Real-time Surveillance:** ClimateSense monitors online data to identify emerging climate misinformation.
+* **Geospatial Analysis:** A multidimensional GIS is used to visualise how misinformation campaigns are linked to specific geographic locations.
+* **Scientific Grounding:** The ClimateSense Knowledge Graph ensures that all of the analysis is rooted in verified scientific evidence.
 :::
+::::
+:::::
 ::::::
-:::::::
-::::::::
+
+:::::: {.content-container}
+::::: {.listing-block}
+## [News](news/index.qmd)
+
+::: {#news}
+:::
+:::::
+::::::
 
 :::::::::: footer-text
 ::::::::: {.footer-container .green-background}
