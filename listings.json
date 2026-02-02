@@ -1,13 +1,15 @@
 [
   {
-    "listing": "/news/index.html",
+    "listing": "/index.html",
     "items": [
+      "/news/posts/2026/02/02/key-research-outputs-2025.html",
       "/news/posts/2026/01/14/consortium-meeting-nice-2025.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/news/index.html",
     "items": [
+      "/news/posts/2026/02/02/key-research-outputs-2025.html",
       "/news/posts/2026/01/14/consortium-meeting-nice-2025.html"
     ]
   }

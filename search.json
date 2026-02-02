@@ -112,6 +112,48 @@
     "text": "This page lists the academic publications and presentations resulting from ClimateSense.\nBurel, G. and H. Alani (2025). “ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation”. In: 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K), co-located with 24th International Semantic Web Conference (ISWC). Nara, Japan.\nBurel, G., P. Lisena, E. Daga, et al. (2025). “ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse”. In: Conference and Labs of the Evaluation Forum, Information Access Evaluation meets Multilinguality, Multimodality, and Visualization (CLEF) Working Notes. Madrid, Spain. URL: https://ceur-ws.org/Vol-4038/paper_65.pdf.\nPeskine, Y., R. Troncy, and P. Papotti (2025). EURECOM at FrugalAI Challenge. Data & AI IMT Webinar.\nSkarzauskiene, A., M. Maciuliene, H. Alani, et al. (2025). “Towards a multidimensional GIS approach for mapping and analysing climate misinformation: Concepts, gaps, and early directions”. In: International Conference on Human Factors in Design, Engineering and Computing (AHFE). Hawaii, USA.\nTroncy, R. (2025). Surveilling and combating misinformation using knowledge graphs. Invited Talk in Cap & Coffee: Innover pour lutter contre le désordre informationnel. Paris, France."
   },
   {
+    "objectID": "news/posts/2026/01/14/consortium-meeting-nice-2025.html",
+    "href": "news/posts/2026/01/14/consortium-meeting-nice-2025.html",
+    "title": "ClimateSense Consortium Meeting in Nice",
+    "section": "",
+    "text": "The ClimateSense consortium met in person at EURECOM in Sophia Antipolis for a two-day working meeting focused on coordination across work packages and preparation for the next project phase.\n\nDay 1: Progress & Planning\nThe first day was dedicated to work package updates from all partners, covering:\n\nStakeholder engagement and data integration\nModelling and geostatistical analysis\nPlatform development and project management\n\nDiscussions also addressed short-term priorities, publication plans, and upcoming dissemination activities.\n\n\nDay 2: Innovation & Outreach\nOn the second day, the consortium welcomed a keynote from Agoratlas, introducing approaches to large-scale social media analysis and coordinated online behaviour. This was followed by:\n\nHands-on sessions on annotation and data access\nDiscussions on the ClimateSense\nCommunication strategy for future COP events\n\nThe meeting concluded with agreement on next steps and coordination for the coming months.\n\nDiscover more News\n\n\n\n\n\nCopyright and licence\n\n© 2026 The ClimateSense Consortium\n\n\n  This article is licensed under a Creative Commons Attribution (CC BY 4.0) International licence."
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "ClimaFacts Stats (Example)",
+    "section": "",
+    "text": "This web page provide dynamic statistics about the ClimaFacts Knowledge Graph\nClimaFactsKG uses sc:ClaimReview from the Schema.org vocabulary to represent claims and scientific corrections collected from the Skeptical Science website. The categorisation of misinforming climate claims is based on the CARDS taxonomy. CARDS is used to connect sc:ClaimReview between ClimaFactsKG and CimpleKG."
+  },
+  {
+    "objectID": "example.html#cards-stats",
+    "href": "example.html#cards-stats",
+    "title": "ClimaFacts Stats (Example)",
+    "section": "CARDS Stats",
+    "text": "CARDS Stats\n\n\n\nConcept Occurrence Count in ClimaFacts KG\n\n\nCARDS Concept Label\nReview Count\n\n\n\n\nMovement is unreliable\n583\n\n\nScience is unreliable\n216\n\n\nNot climate misinformation or related to the climate.\n136\n\n\nClimate is conspiracy\n43\n\n\nNo species impact\n7\n\n\nPolicies are harmful\n2\n\n\nWe need energy\n2\n\n\nNo evidence for GHE\n1\n\n\nNot a pollutant\n1\n\n\nPolicies are ineffective\n1"
+  },
+  {
+    "objectID": "LICENCE.html",
+    "href": "LICENCE.html",
+    "title": "Licence",
+    "section": "",
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#content",
+    "href": "LICENCE.html#content",
+    "title": "Licence",
+    "section": "",
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#software-and-services",
+    "href": "LICENCE.html#software-and-services",
+    "title": "Licence",
+    "section": "Software and services",
+    "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact us",
@@ -140,46 +182,11 @@
     "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
   },
   {
-    "objectID": "LICENCE.html",
-    "href": "LICENCE.html",
-    "title": "Licence",
+    "objectID": "news/posts/2026/02/02/key-research-outputs-2025.html",
+    "href": "news/posts/2026/02/02/key-research-outputs-2025.html",
+    "title": "ClimateSense key research outputs in 2025",
     "section": "",
-    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
-  },
-  {
-    "objectID": "LICENCE.html#content",
-    "href": "LICENCE.html#content",
-    "title": "Licence",
-    "section": "",
-    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
-  },
-  {
-    "objectID": "LICENCE.html#software-and-services",
-    "href": "LICENCE.html#software-and-services",
-    "title": "Licence",
-    "section": "Software and services",
-    "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
-  },
-  {
-    "objectID": "example.html",
-    "href": "example.html",
-    "title": "ClimaFacts Stats (Example)",
-    "section": "",
-    "text": "This web page provide dynamic statistics about the ClimaFacts Knowledge Graph\nClimaFactsKG uses sc:ClaimReview from the Schema.org vocabulary to represent claims and scientific corrections collected from the Skeptical Science website. The categorisation of misinforming climate claims is based on the CARDS taxonomy. CARDS is used to connect sc:ClaimReview between ClimaFactsKG and CimpleKG."
-  },
-  {
-    "objectID": "example.html#cards-stats",
-    "href": "example.html#cards-stats",
-    "title": "ClimaFacts Stats (Example)",
-    "section": "CARDS Stats",
-    "text": "CARDS Stats\n\n\n\nConcept Occurrence Count in ClimaFacts KG\n\n\nCARDS Concept Label\nReview Count\n\n\n\n\nMovement is unreliable\n583\n\n\nScience is unreliable\n216\n\n\nNot climate misinformation or related to the climate.\n136\n\n\nClimate is conspiracy\n43\n\n\nNo species impact\n7\n\n\nPolicies are harmful\n2\n\n\nWe need energy\n2\n\n\nNo evidence for GHE\n1\n\n\nNot a pollutant\n1\n\n\nPolicies are ineffective\n1"
-  },
-  {
-    "objectID": "news/posts/2026/01/14/consortium-meeting-nice-2025.html",
-    "href": "news/posts/2026/01/14/consortium-meeting-nice-2025.html",
-    "title": "ClimateSense Consortium Meeting in Nice",
-    "section": "",
-    "text": "The ClimateSense consortium met in person at EURECOM in Sophia Antipolis for a two-day working meeting focused on coordination across work packages and preparation for the next project phase.\n\nDay 1: Progress & Planning\nThe first day was dedicated to work package updates from all partners, covering:\n\nStakeholder engagement and data integration\nModelling and geostatistical analysis\nPlatform development and project management\n\nDiscussions also addressed short-term priorities, publication plans, and upcoming dissemination activities.\n\n\nDay 2: Innovation & Outreach\nOn the second day, the consortium welcomed a keynote from Agoratlas, introducing approaches to large-scale social media analysis and coordinated online behaviour. This was followed by:\n\nHands-on sessions on annotation and data access\nDiscussions on the ClimateSense\nCommunication strategy for future COP events\n\nThe meeting concluded with agreement on next steps and coordination for the coming months.\n\nDiscover more News\n\n\n\n\n\nCopyright and licence\n\n© 2026 The ClimateSense Consortium\n\n\n  This article is licensed under a Creative Commons Attribution (CC BY 4.0) International licence."
+    "text": "In 2025, the ClimateSense project delivered a series of initial scientific contributions across knowledge graphs, geospatial analysis, and climate misinformation detection. These outputs reflect the project’s interdisciplinary approach, combining semantic technologies, machine learning, and social science perspectives.\nA major milestone was the presentation of ClimaFactsKG, an interlinked knowledge graph designed to connect scientific evidence with climate misinformation narratives. Presented at the International Semantic Web Conference (ISWC) in Japan, this work advances structured representations of scientific claims and supports transparent fact-checking workflows.\nClimateSense also participated in international evaluation campaigns. At CheckThat! 2025, co-located with CLEF in Madrid, the team presented models combining fine-tuned large language models with conventional machine-learning approaches to analyse subjectivity and scientific discourse on the web.\nFurther methodological contributions included EURECOM’s participation in the FrugalAI Challenge and conceptual work on geospatial approaches to climate misinformation. At the AHFE Conference in Hawaii, KTU researchers outlined early directions for a multidimensional GIS framework to map and analyse climate misinformation across space, time, and narrative dimensions. Finally, KTU researchers presented outcomes of platform mapping excercise at the 2nd European Congress on Disinformation and Fact Checking.\nTogether, these outputs establish a strong foundation for the next phases of ClimateSense."
   },
   {
     "objectID": "about.html",

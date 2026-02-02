@@ -16,8 +16,32 @@
 <height>46</height>
 <width>144</width>
 </image>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 14 Jan 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>ClimateSense key research outputs in 2025</title>
+  <dc:creator>ClimateSense Team</dc:creator>
+  <link>https://climatesense-project.eu/news/posts/2026/02/02/key-research-outputs-2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In 2025, the <strong>ClimateSense</strong> project delivered a series of initial scientific contributions across knowledge graphs, geospatial analysis, and climate misinformation detection. These outputs reflect the project’s interdisciplinary approach, combining semantic technologies, machine learning, and social science perspectives.</p>
+<p>A major milestone was the presentation of <em>ClimaFactsKG</em>, an interlinked knowledge graph designed to connect scientific evidence with climate misinformation narratives. Presented at the International Semantic Web Conference (ISWC) in Japan, this work advances structured representations of scientific claims and supports transparent fact-checking workflows.</p>
+<p>ClimateSense also participated in international evaluation campaigns. At <em>CheckThat! 2025</em>, co-located with CLEF in Madrid, the team presented models combining fine-tuned large language models with conventional machine-learning approaches to analyse subjectivity and scientific discourse on the web.</p>
+<p>Further methodological contributions included EURECOM’s participation in the FrugalAI Challenge and conceptual work on geospatial approaches to climate misinformation. At the AHFE Conference in Hawaii, KTU researchers outlined early directions for a multidimensional GIS framework to map and analyse climate misinformation across space, time, and narrative dimensions. Finally, KTU researchers presented outcomes of platform mapping excercise at the 2nd European Congress on Disinformation and Fact Checking.</p>
+<p>Together, these outputs establish a strong foundation for the next phases of ClimateSense.</p>
+
+
+
+ ]]></description>
+  <category>Research Outputs</category>
+  <guid>https://climatesense-project.eu/news/posts/2026/02/02/key-research-outputs-2025.html</guid>
+  <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://climatesense-project.eu/news/posts/2026/02/02/images/outputs-2025.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>ClimateSense Consortium Meeting in Nice</title>
   <dc:creator>ClimateSense Team</dc:creator>
