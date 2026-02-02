@@ -1,0 +1,21 @@
+---
+title: ClimateSense key research outputs in 2025
+description: Key publications and talks across knowledge graphs, GIS, and climate misinformation detection.
+author: ClimateSense Team
+categories:
+  - Research Outputs
+date: "2026-02-02"
+image: images/outputs-2025.jpg
+image-alt: Visual summary of ClimateSense research outputs in 2025
+toc: false
+---
+
+In 2025, the **ClimateSense** project delivered a series of initial scientific contributions across knowledge graphs, geospatial analysis, and climate misinformation detection. These outputs reflect the project’s interdisciplinary approach, combining semantic technologies, machine learning, and social science perspectives.
+
+A major milestone was the presentation of *ClimaFactsKG*, an interlinked knowledge graph designed to connect scientific evidence with climate misinformation narratives. Presented at the International Semantic Web Conference (ISWC) in Japan, this work advances structured representations of scientific claims and supports transparent fact-checking workflows.
+
+ClimateSense also participated in international evaluation campaigns. At *CheckThat! 2025*, co-located with CLEF in Madrid, the team presented models combining fine-tuned large language models with conventional machine-learning approaches to analyse subjectivity and scientific discourse on the web.
+
+Further methodological contributions included EURECOM’s participation in the FrugalAI Challenge and conceptual work on geospatial approaches to climate misinformation. At the AHFE Conference in Hawaii, KTU researchers outlined early directions for a multidimensional GIS framework to map and analyse climate misinformation across space, time, and narrative dimensions. Finally, KTU researchers presented outcomes of platform mapping excercise at the 2nd European Congress on Disinformation and Fact Checking.
+
+Together, these outputs establish a strong foundation for the next phases of ClimateSense.
