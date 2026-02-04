@@ -28,6 +28,7 @@
 
 
 
+<p><img src="https://climatesense-project.eu/news/posts/2026/02/02/images/research_outputs.jpg" class="img-fluid" style="width:100.0%" alt="2025"></p>
 <p>In 2025, the <strong>ClimateSense</strong> project delivered a series of initial scientific contributions across knowledge graphs, geospatial analysis, and climate misinformation detection. These outputs reflect the project’s interdisciplinary approach, combining semantic technologies, machine learning, and social science perspectives.</p>
 <p>A major milestone was the presentation of <em>ClimaFactsKG</em>, an interlinked knowledge graph designed to connect scientific evidence with climate misinformation narratives. Presented at the International Semantic Web Conference (ISWC) in Japan, this work advances structured representations of scientific claims and supports transparent fact-checking workflows.</p>
 <p>ClimateSense also participated in international evaluation campaigns. At <em>CheckThat! 2025</em>, co-located with CLEF in Madrid, the team presented models combining fine-tuned large language models with conventional machine-learning approaches to analyse subjectivity and scientific discourse on the web.</p>
@@ -40,7 +41,7 @@
   <category>Research Outputs</category>
   <guid>https://climatesense-project.eu/news/posts/2026/02/02/key-research-outputs-2025.html</guid>
   <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://climatesense-project.eu/news/posts/2026/02/02/images/outputs-2025.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://climatesense-project.eu/news/posts/2026/02/02/images/research_outputs.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>ClimateSense Consortium Meeting in Nice</title>
@@ -73,25 +74,6 @@
 <li>Communication strategy for future COP events</li>
 </ul>
 <p>The meeting concluded with agreement on next steps and coordination for the coming months.</p>
-<div class="article-btn">
-<p><a href="../../../../../news/index.html">Discover more News</a></p>
-</div>
-<div class="further-info">
-<div class="grid">
-<div class="g-col-12 g-col-md-6">
-<dl>
-<dt>Copyright and licence</dt>
-<dd>
-© 2026 The ClimateSense Consortium
-</dd>
-</dl>
-<p><a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">International licence</a>.</p>
-</div>
-<div class="g-col-12 g-col-md-6">
-
-</div>
-</div>
-</div>
 
 
 </section>
