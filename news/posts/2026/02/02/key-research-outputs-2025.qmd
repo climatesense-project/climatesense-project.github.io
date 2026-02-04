@@ -5,10 +5,12 @@ author: ClimateSense Team
 categories:
   - Research Outputs
 date: "2026-02-02"
-image: images/outputs-2025.jpg
+image: images/research_outputs.jpg
 image-alt: Visual summary of ClimateSense research outputs in 2025
 toc: false
 ---
+
+![](images/research_outputs.jpg){fig-alt="2025" width="100%"}
 
 In 2025, the **ClimateSense** project delivered a series of initial scientific contributions across knowledge graphs, geospatial analysis, and climate misinformation detection. These outputs reflect the project’s interdisciplinary approach, combining semantic technologies, machine learning, and social science perspectives.
 
