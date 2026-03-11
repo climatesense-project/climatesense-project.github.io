@@ -38,21 +38,3 @@ On the second day, the consortium welcomed a keynote from [Agoratlas](https://ag
 
 The meeting concluded with agreement on next steps and coordination for the coming months.
 
-::: {.article-btn}
-[Discover more News](/news/index.qmd)
-:::
-
-::: {.further-info}
-::: grid
-::: {.g-col-12 .g-col-md-6}
-Copyright and licence
-: &copy; 2026 The ClimateSense Consortium
-
-<a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> <img style="height:22px!important;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a> This article is licensed under a Creative Commons Attribution (CC BY 4.0) <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">International licence</a>.
-
-:::
-::: {.g-col-12 .g-col-md-6}
-
-:::
-:::
-:::
