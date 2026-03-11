@@ -21,8 +21,8 @@ listing:
     feed: false
 ---
 
-:::::: {.top-story .green-background}
-::::: grid
+:::::::: {.top-story .green-background}
+::::::: grid
 ::: {.g-col-12 .g-col-lg-1}
 :::
 
@@ -38,25 +38,26 @@ Transforming how misinformation is managed in the climate sector offering tools 
 
 ::: {.g-col-12 .g-col-lg-1}
 :::
-:::::
-::::::
+:::::::
+::::::::
 
-:::::: {.header-text}
-::::: content-container
-:::: header-block
-In an era of rapid climate change, the spread of misinformation poses a serious threat to effective climate action. 
+::::: header-text
+:::: content-container
+::: header-block
+In an era of rapid climate change, the spread of misinformation poses a serious threat to effective climate action.
 
 The ClimateSense project is a collaborative effort to fight this challenge head-on.
 
 ClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensional GIS) builds an innovative platform that combines climate science, misinformation research, and advanced geospatial analysis to monitor and analyse climate disinformation across the globe.
+:::
 ::::
 :::::
-::::::
 
-:::::: {.content-container}
-::::: {.listing-block}
+:::::::: content-container
+::::::: listing-block
 ## Our approach
-:::: grid
+
+:::::: grid
 ::: {.g-col-12 .g-col-md-4}
 #### A multidimensional GIS for understanding climate misinformation
 
@@ -72,22 +73,22 @@ At the heart of ClimateSense is an interlinked Knowledge Graph. This powerful to
 ::: {.g-col-12 .g-col-md-4}
 #### Key Features
 
-* **Real-time Surveillance:** ClimateSense monitors online data to identify emerging climate misinformation.
-* **Geospatial Analysis:** A multidimensional GIS is used to visualise how misinformation campaigns are linked to specific geographic locations.
-* **Scientific Grounding:** The ClimateSense Knowledge Graph ensures that all of the analysis is rooted in verified scientific evidence.
+-   **Real-time Surveillance:** ClimateSense monitors online data to identify emerging climate misinformation.
+-   **Geospatial Analysis:** A multidimensional GIS is used to visualise how misinformation campaigns are linked to specific geographic locations.
+-   **Scientific Grounding:** The ClimateSense Knowledge Graph ensures that all of the analysis is rooted in verified scientific evidence.
 :::
-::::
-:::::
 ::::::
+:::::::
+::::::::
 
-:::::: {.content-container}
-::::: {.listing-block}
+::::: content-container
+:::: listing-block
 ## [News](news/index.qmd)
 
 ::: {#news}
 :::
+::::
 :::::
-::::::
 
 :::::::::: footer-text
 ::::::::: {.footer-container .green-background}
