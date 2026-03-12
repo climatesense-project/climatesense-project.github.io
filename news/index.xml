@@ -17,7 +17,37 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>ClimateSense achieves top results at ClimateCheck Shared Task for NSLP 2026</title>
+  <dc:creator>ClimateSense Team</dc:creator>
+  <link>https://climatesense-project.eu/news/posts/2026/03/03/climatecheck_shared_task.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://climatesense-project.eu/images/climatecheck_shared_task.jpg" class="img-fluid" style="width:100.0%" alt="ClimateCheck 2026"></p>
+<p>The ClimateSense project has once again demonstrated its strength in climate misinformation detection. A joint team from EURECOM and the Open University participated in the <a href="https://nfdi4ds.github.io/nslp2026/docs/climatecheck_shared_task.html">ClimateCheck shared task</a>, organised by the NSLP workshop co-located with LREC 2026, and achieved outstanding results:</p>
+<ul>
+<li><strong>1st place</strong> on Task 1.1</li>
+<li><strong>1st place</strong> on Task 1.2</li>
+<li><strong>3rd place</strong> on Task 2</li>
+</ul>
+<p>This work was led by Gregoire Burel and Thibault Ehrhart, building on the project’s growing expertise in combining large language models with established machine learning techniques for detecting climate-related misinformation.</p>
+<p>The code developed for this shared task is openly available on <a href="https://github.com/climatesense-project/climatecheck2026">GitHub</a>. A paper describing the team’s approach has been submitted and is currently under review.</p>
+<p>These results follow the team’s earlier successes at international evaluation campaigns, further strengthening ClimateSense’s position at the forefront of research in automated climate misinformation detection.</p>
+
+
+
+ ]]></description>
+  <category>Research Outputs</category>
+  <category>Awards</category>
+  <guid>https://climatesense-project.eu/news/posts/2026/03/03/climatecheck_shared_task.html</guid>
+  <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://climatesense-project.eu/images/climatecheck_shared_task.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>ClimateSense key research outputs in 2025</title>
   <dc:creator>ClimateSense Team</dc:creator>
@@ -83,22 +113,6 @@
   <guid>https://climatesense-project.eu/news/posts/2026/01/14/consortium-meeting-nice-2025.html</guid>
   <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
   <media:content url="https://climatesense-project.eu/news/posts/2026/01/14/images/eurecom.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>climatecheck_shared_task</title>
-  <link>https://climatesense-project.eu/news/posts/2026/03/03/climatecheck_shared_task.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-
- ]]></description>
-  <guid>https://climatesense-project.eu/news/posts/2026/03/03/climatecheck_shared_task.html</guid>
-  <pubDate>Wed, 11 Mar 2026 18:04:07 GMT</pubDate>
 </item>
 </channel>
 </rss>
