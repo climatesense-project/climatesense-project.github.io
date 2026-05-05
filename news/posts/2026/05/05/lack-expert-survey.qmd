@@ -10,6 +10,8 @@ image: ../../../../../images/LACK_2026.png
 image-alt: Evaluating LACK - Expert survey on the climate lobbying networks database
 toc: false
 ---
+![](../../../../../images/LACK_2026.png){width="100%"}
+
 
 As part of Work Package 1 (Requirements, stakeholder engagement and evaluation), the ClimateSense team is conducting an expert evaluation of the [LACK knowledge graph](https://climatesense-project.eu/lack/) -- a structured, searchable database that maps the actors and networks involved in climate lobbying.
 
