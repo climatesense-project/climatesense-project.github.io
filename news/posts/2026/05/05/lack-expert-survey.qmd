@@ -6,7 +6,7 @@ categories:
   - Stakeholder Engagement
   - WP1
 date: "2026-05-05"
-image: ../../../../../images/lack_survey_news.svg
+image: ../../../../../images/LACK_2026.png
 image-alt: Evaluating LACK - Expert survey on the climate lobbying networks database
 toc: false
 ---
