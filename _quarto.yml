@@ -10,8 +10,7 @@ website:
   open-graph: true
   site-url: https://climatesense-project.eu/
   repo-url: https://github.com/climatesense-project/climatesense-project.github.io
-  repo-actions: [edit, issue]
-  
+
   navbar:
     toggle-position: right
     background: "#f7fbf7"
@@ -30,24 +29,22 @@ website:
         href: partners.qmd
 
   page-navigation: true
-
   back-to-top-navigation: false
 
   page-footer:
     background: "#94d198"
     left: |
       [Copyright &copy; 2025 ClimateSense](/LICENCE.md)
-    center: 
+    center:
       - href: https://github.com/climatesense-project
         icon: github
         aria-label: GitHub
       - href: feeds.html
         icon: rss
-        aria-label: RWDS rss
-
+        aria-label: RSS feed
     right: |
-      [About the project](/about.qmd)
-      
+      [News](/news/index.qmd) &nbsp;·&nbsp; [Publications](/publications.qmd) &nbsp;·&nbsp; [Contact](/contact.qmd)
+
 format:
   html:
     theme: [lux, climatesense.scss]
@@ -58,6 +55,5 @@ format:
       body-width: 1000px
       margin-width: 250px
 
-execute: 
+execute:
   freeze: auto
-

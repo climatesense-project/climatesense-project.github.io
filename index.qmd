@@ -7,9 +7,27 @@ sidebar: false
 search: false
 repo-actions: false
 toc: false
+include-in-header:
+  text: |
+    <style>.nav-footer{display:none!important}</style>
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) { e.target.classList.add('cs-in'); io.unobserve(e.target); }
+        });
+      }, { threshold: 0.12 });
+      document.querySelectorAll('.cs-reveal').forEach(function (el) { io.observe(el); });
+      document.querySelectorAll('.quarto-grid-item').forEach(function (el, i) {
+        el.classList.add('cs-reveal');
+        el.style.transitionDelay = (i % 3 * 0.12) + 's';
+        io.observe(el);
+      });
+    });
+    </script>
 listing:
   - id: news
-    contents: 
+    contents:
       - "/news"
       - "!news/index.qmd"
     sort: "date desc"
@@ -17,7 +35,7 @@ listing:
     categories: false
     sort-ui: false
     filter-ui: false
-    max-items: 3
+    max-items: 6
     feed: false
 ---
 
@@ -54,23 +72,29 @@ ClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensi
 :::::
 
 :::::::: content-container
-::::::: listing-block
+::::::: {.listing-block .approach-section}
 ## Our approach
 
 :::::: grid
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-4 .approach-card .cs-reveal}
+<i class="bi bi-globe card-icon"></i>
+
 #### A multidimensional GIS for understanding climate misinformation
 
 The core of our project is a multidimensional GIS (Geographic Information System) that acts as a surveillance and analysis tool. This platform helps us understand where, when, and how climate misinformation is spreading.
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-4 .approach-card .cs-reveal .cs-delay-1}
+<i class="bi bi-diagram-3-fill card-icon"></i>
+
 #### The ClimateSense knowledge graph
 
 At the heart of ClimateSense is an interlinked Knowledge Graph. This powerful tool links climate misinformation claims directly to credible scientific evidence. This not only helps us identify false narratives but also provides a clear, evidence-based counter-narrative to debunk them.
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-4 .approach-card .cs-reveal .cs-delay-2}
+<i class="bi bi-binoculars-fill card-icon"></i>
+
 #### Key Features
 
 -   **Real-time Surveillance:** ClimateSense monitors online data to identify emerging climate misinformation.
@@ -92,28 +116,41 @@ At the heart of ClimateSense is an interlinked Knowledge Graph. This powerful to
 
 :::::::::: footer-text
 ::::::::: {.footer-container .green-background}
-:::::::: footer-block
+:::::::: {.footer-block}
 ::::::: grid
 ::: {.g-col-12 .g-col-md-3}
-### Important information
+### Explore
+
+[About the project](about.qmd)\
+[News](news/index.qmd)\
+[Publications](publications.qmd)\
+[Partners](partners.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-3}
+### Contact & legal
 
 [Contact us](contact.qmd)\
 [Privacy and Cookies](privacy.qmd)\
 [Accessibility](accessibility.qmd)
 :::
 
-::: {.g-col-12 .g-col-md-2}
+::: {.g-col-12 .g-col-md-3}
+### Funded by
+Supported by [CHIST-ERA](https://www.chistera.eu/).
 :::
 
-::: {.g-col-12 .g-col-md-1}
-:::
-
-::: {.g-col-12 .g-col-md-5}
+::: {.g-col-12 .g-col-md-3}
 ### Created by
 
-[![](images/kmi-logo-black.png){fig-align="left" height="70px"}](https://kmi.open.ac.uk/) [![](images/OU-logo-black.png){fig-align="left" height="70px"}](https://www.open.ac.uk/)
+[![](images/kmi-logo-black.png){fig-align="left" height="55px"}](https://kmi.open.ac.uk/)
+[![](images/OU-logo-black.png){fig-align="left" height="55px"}](https://www.open.ac.uk/)
 :::
 :::::::
 ::::::::
+
+::: footer-copyright
+Copyright &copy; 2025 ClimateSense.
+:::
 :::::::::
 ::::::::::
