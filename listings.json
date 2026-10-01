@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/news/index.html",
+    "listing": "/index.html",
     "items": [
+      "/news/posts/2026/10/01/disinfo2026-conference.html",
       "/news/posts/2026/05/05/lack-expert-survey.html",
       "/news/posts/2026/05/02/needs2026-conference.html",
       "/news/posts/2026/03/13/london_meeting.html",
@@ -11,8 +12,9 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/news/index.html",
     "items": [
+      "/news/posts/2026/10/01/disinfo2026-conference.html",
       "/news/posts/2026/05/05/lack-expert-survey.html",
       "/news/posts/2026/05/02/needs2026-conference.html",
       "/news/posts/2026/03/13/london_meeting.html",
