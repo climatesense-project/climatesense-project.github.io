@@ -1,6 +1,6 @@
 ---
 title: "Help us build better tools against climate misinformation"
-description: "Join a 45-minute online session on 12 or 25 November. See our tools and tell us what you need."
+description: "Online sessions on 12 and 25 November 2026."
 author: ClimateSense Team
 date: "2026-10-07"
 image: ../../../../../images/disinfo2026.png
@@ -13,11 +13,10 @@ aliases:
 ::: {.cs-lead}
 **Do you check, report on or respond to climate claims?**
 
-Spend 45 minutes online with the ClimateSense team. In each session:
+In a 45-minute session with the ClimateSense team:
 
 1. We show you one of our tools, with a real example.
-2. You tell us how you handle climate claims in your work.
-3. You tell us what would help and what is missing.
+2. You tell us how you handle climate claims in your work, and what is missing.
 
 Pick a time below and we email you the link.
 :::
