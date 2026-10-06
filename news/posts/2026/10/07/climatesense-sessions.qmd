@@ -13,7 +13,11 @@ aliases:
 ::: {.cs-lead}
 **Do you check, report on or respond to climate claims?**
 
-Spend 45 minutes online with the ClimateSense team. We show you our tools. You tell us what would help in your work.
+Spend 45 minutes online with the ClimateSense team. In each session:
+
+1. We show you one of our tools, with a real example.
+2. You tell us how you handle climate claims in your work.
+3. You tell us what would help and what is missing.
 
 Pick a time below and we email you the link.
 :::
@@ -27,6 +31,9 @@ Pick a time below and we email you the link.
 .cs-lead { max-width: 720px; margin: 0.5rem 0 2rem; padding: 1.4rem 1.5rem; background: #eef8ef; border-left: 5px solid var(--cs-teal, #007575); border-radius: var(--cs-radius, 8px); font-size: 1.08rem; line-height: 1.5; }
 .cs-lead p { margin: 0 0 0.6rem; }
 .cs-lead p:first-child { font-family: 'Zilla Slab', serif; font-size: 1.45rem; line-height: 1.25; color: var(--cs-teal-dark, #005a5a); }
+.cs-lead ol { margin: 0 0 0.9rem; padding-left: 1.3rem; }
+.cs-lead ol li { margin-bottom: 0.25rem; }
+.cs-funding { max-width: 720px; margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(0,0,0,0.12); font-size: 0.9rem; color: #5a6b5c; }
 .cs-lead p:last-child { margin-bottom: 0; font-weight: 600; color: var(--cs-green-dark, #3c553e); }
 .cs-reg fieldset.cs-privacy { background: #fdf6e0; border: 1.5px solid var(--cs-yellow, #e3b638); border-radius: var(--cs-radius, 8px); padding: 1.25rem 1.25rem 1.1rem; }
 .cs-reg .cs-privacy legend { float: left; width: 100%; }
@@ -124,7 +131,7 @@ Pick a time below and we email you the link.
       <dt>Why</dt><dd>Only to organise the session and to contact you about it.</dd>
       <dt>How they reach us</dt><dd>The form sends them to us by email through the form service Web3Forms, which also keeps a copy on its servers.</dd>
       <dt>How long</dt><dd>Until you ask us to delete them, and at the latest until the project ends on 29 February 2028.</dd>
-      <dt>How to delete them</dt><dd>Write to <a href="mailto:monika.maciuliene@ktu.lt">monika.maciuliene@ktu.lt</a> at any time.</dd>
+      <dt>Questions or deletion</dt><dd>Write to <a href="mailto:monika.maciuliene@ktu.lt">monika.maciuliene@ktu.lt</a> at any time.</dd>
     </dl>
     <label class="cs-consent"><input type="checkbox" id="cs-consent" name="consent" value="yes" required><span>I agree that my details are used as described above.</span></label>
   </fieldset>
@@ -206,14 +213,14 @@ Pick a time below and we email you the link.
 </script>
 ```
 
-Questions? Write to [monika.maciuliene@ktu.lt](mailto:monika.maciuliene@ktu.lt).
-
-## What happens in a session
-
-- We show you one of our tools, with a real example.
-- We ask how you handle climate claims in your own work: where they come from, what you check, where you get stuck.
-- You tell us what would help and what is missing.
-
 ## About ClimateSense
 
-ClimateSense is a European research project. We build tools for people who work on climate misinformation: a database of fact-checks, a map of where claims appear, and a database of who lobbies against climate policy ([LACK](https://climatesense-project.eu/lack/)). We want these tools to fit how you work.
+ClimateSense is a European research project on climate misinformation. We study where false and misleading climate claims appear, when they come back and how they spread across countries.
+
+We build tools for the people who deal with these claims: a database of fact-checks, a map of where claims appear, and a database of who lobbies against climate policy ([LACK](https://climatesense-project.eu/lack/)). The aim is to help fact-checkers decide what to check first and to give policymakers clearer evidence.
+
+The project runs from March 2025 to February 2028. It is coordinated by [The Open University](https://www.open.ac.uk/) (United Kingdom), with [Kaunas University of Technology](https://en.ktu.edu/) (Lithuania), [EURECOM](https://www.eurecom.fr/en/) (France) and [Prague University of Economics and Business](https://www.vse.cz/english/) (Czech Republic).
+
+::: {.cs-funding}
+ClimateSense is funded through [CHIST-ERA](https://www.chistera.eu/), the European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies programme. [More about the project](https://climatesense-project.eu/about.html).
+:::
