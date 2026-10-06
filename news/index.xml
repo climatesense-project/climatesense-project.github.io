@@ -30,7 +30,12 @@
 
 <div class="cs-lead">
 <p><strong>Do you check, report on or respond to climate claims?</strong></p>
-<p>Spend 45 minutes online with the ClimateSense team. We show you our tools. You tell us what would help in your work.</p>
+<p>Spend 45 minutes online with the ClimateSense team. In each session:</p>
+<ol type="1">
+<li>We show you one of our tools, with a real example.</li>
+<li>You tell us how you handle climate claims in your work.</li>
+<li>You tell us what would help and what is missing.</li>
+</ol>
 <p>Pick a time below and we email you the link.</p>
 </div>
 <section id="pick-a-time-and-register" class="level2">
@@ -41,6 +46,8 @@
 .cs-lead { max-width: 720px; margin: 0.5rem 0 2rem; padding: 1.4rem 1.5rem; background: #eef8ef; border-left: 5px solid var(--cs-teal, #007575); border-radius: var(--cs-radius, 8px); font-size: 1.08rem; line-height: 1.5; }
 .cs-lead p { margin: 0 0 0.6rem; }
 .cs-lead p:first-child { font-family: 'Zilla Slab', serif; font-size: 1.45rem; line-height: 1.25; color: var(--cs-teal-dark, #005a5a); }
+.cs-lead ol { margin: 0 0 0.9rem; padding-left: 1.3rem; }
+.cs-lead ol li { margin-bottom: 0.25rem; }
 .cs-lead p:last-child { margin-bottom: 0; font-weight: 600; color: var(--cs-green-dark, #3c553e); }
 .cs-reg fieldset.cs-privacy { background: #fdf6e0; border: 1.5px solid var(--cs-yellow, #e3b638); border-radius: var(--cs-radius, 8px); padding: 1.25rem 1.25rem 1.1rem; }
 .cs-reg .cs-privacy legend { float: left; width: 100%; }
@@ -84,6 +91,7 @@
 .cs-reg .cs-error.is-visible { display: block; }
 .cs-reg .cs-success { display: none; padding: 2rem 1.75rem; border-radius: var(--cs-radius, 8px); background: #eef8ef; border: 1.5px solid var(--cs-green-light, #94d198); font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 1.5rem; line-height: 1.3; color: var(--cs-teal-dark, #005a5a); text-align: center; }
 .cs-reg .cs-success.is-visible { display: block; }
+.cs-reg .cs-success-note { display: block; margin-top: 0.6rem; font-family: 'Inter', sans-serif; font-weight: 400; font-size: 1.05rem; color: #000; }
 .cs-reg .cs-hp { position: absolute; left: -9999px; }
 @media (max-width: 480px) { .cs-reg .cs-options.cs-cols { grid-template-columns: 1fr; } }
 </style>
@@ -137,7 +145,7 @@
       <dt>Why</dt><dd>Only to organise the session and to contact you about it.</dd>
       <dt>How they reach us</dt><dd>The form sends them to us by email through the form service Web3Forms, which also keeps a copy on its servers.</dd>
       <dt>How long</dt><dd>Until you ask us to delete them, and at the latest until the project ends on 29 February 2028.</dd>
-      <dt>How to delete them</dt><dd>Write to <a href="mailto:monika.maciuliene@ktu.lt">monika.maciuliene@ktu.lt</a> at any time.</dd>
+      <dt>Questions or deletion</dt><dd>Write to <a href="mailto:monika.maciuliene@ktu.lt">monika.maciuliene@ktu.lt</a> at any time.</dd>
     </dl>
     <label class="cs-consent"><input type="checkbox" id="cs-consent" name="consent" value="yes" required=""><span>I agree that my details are used as described above.</span></label>
   </fieldset>
@@ -146,7 +154,7 @@
   <div class="cs-error" id="cs-error"></div>
 </form>
 
-<div class="cs-success" id="cs-success">Thank you for your registration.</div>
+<div class="cs-success" id="cs-success">Thank you for your registration.<span class="cs-success-note">We will contact you with the agenda and details before the event.</span></div>
 </div>
 
 <script>
@@ -217,19 +225,12 @@
   });
 })();
 </script>
-<p>Questions? Write to <a href="mailto:monika.maciuliene@ktu.lt">monika.maciuliene@ktu.lt</a>.</p>
-</section>
-<section id="what-happens-in-a-session" class="level2">
-<h2 class="anchored" data-anchor-id="what-happens-in-a-session">What happens in a session</h2>
-<ul>
-<li>We show you one of our tools, with a real example.</li>
-<li>We ask how you handle climate claims in your own work: where they come from, what you check, where you get stuck.</li>
-<li>You tell us what would help and what is missing.</li>
-</ul>
 </section>
 <section id="about-climatesense" class="level2">
 <h2 class="anchored" data-anchor-id="about-climatesense">About ClimateSense</h2>
-<p>ClimateSense is a European research project. We build tools for people who work on climate misinformation: a database of fact-checks, a map of where claims appear, and a database of who lobbies against climate policy (<a href="https://climatesense-project.eu/lack/">LACK</a>). We want these tools to fit how you work.</p>
+<p>ClimateSense is a European research project on climate misinformation. We study where false and misleading climate claims appear, when they come back and how they spread across countries.</p>
+<p>We build tools for the people who deal with these claims: a database of fact-checks, a map of where claims appear, and a database of who lobbies against climate policy (<a href="https://climatesense-project.eu/lack/">LACK</a>). The aim is to help fact-checkers decide what to check first and to give policymakers clearer evidence.</p>
+<p>The project runs from March 2025 to February 2028. It is coordinated by <a href="https://www.open.ac.uk/">The Open University</a> (United Kingdom), with <a href="https://en.ktu.edu/">Kaunas University of Technology</a> (Lithuania), <a href="https://www.eurecom.fr/en/">EURECOM</a> (France) and <a href="https://www.vse.cz/english/">Prague University of Economics and Business</a> (Czech Republic).</p>
 
 
 </section>
