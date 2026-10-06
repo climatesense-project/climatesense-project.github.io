@@ -3,8 +3,8 @@ title: "Help us build better tools against climate misinformation"
 description: "Online sessions on 12 and 25 November 2026."
 author: ClimateSense Team
 date: "2026-10-07"
-image: ../../../../../images/disinfo2026.png
-image-alt: "#Disinfo2026 conference banner, 7-8 October 2026, Vilnius, Lithuania"
+image: ../../../../../images/climatesense-sessions.png
+image-alt: "Join a ClimateSense session: online, 45 minutes, on 12 and 25 November 2026 at 09:00, 12:00 and 14:00 CET"
 toc: false
 aliases:
   - /workshop-registration/
