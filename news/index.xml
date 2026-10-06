@@ -30,116 +30,126 @@
 
 <div class="cs-lead">
 <p><strong>Do you check, report on or respond to climate claims?</strong></p>
-<p>Spend 45 minutes online with the ClimateSense team. In each session:</p>
+<p>In a 45-minute session with the ClimateSense team:</p>
 <ol type="1">
-<li>We show you one of our tools, with a real example.</li>
-<li>You tell us how you handle climate claims in your work.</li>
-<li>You tell us what would help and what is missing.</li>
+<li>We show you one of our tools with a real example: the database of fact-checks, the map of where claims appear, or the database of who lobbies against climate policy (<a href="https://climatesense-project.eu/lack/">LACK</a>).</li>
+<li>We ask how you deal with climate claims: where they come from, what you check and where you get stuck.</li>
+<li>You tell us what would help you and what the tools are missing. We use this to improve them.</li>
 </ol>
-<p>Pick a time below and we email you the link.</p>
 </div>
-<section id="pick-a-time-and-register" class="level2">
-<h2 class="anchored" data-anchor-id="pick-a-time-and-register">Pick a time and register</h2>
 <style>
 #title-block-header.quarto-title-block.default .quarto-title-meta { display: none !important; }
 #title-block-header.quarto-title-block.default { margin-bottom: 2rem; }
-.cs-lead { max-width: 720px; margin: 0.5rem 0 2rem; padding: 1.4rem 1.5rem; background: #eef8ef; border-left: 5px solid var(--cs-teal, #007575); border-radius: var(--cs-radius, 8px); font-size: 1.08rem; line-height: 1.5; }
-.cs-lead p { margin: 0 0 0.6rem; }
-.cs-lead p:first-child { font-family: 'Zilla Slab', serif; font-size: 1.45rem; line-height: 1.25; color: var(--cs-teal-dark, #005a5a); }
-.cs-lead ol { margin: 0 0 0.9rem; padding-left: 1.3rem; }
-.cs-lead ol li { margin-bottom: 0.25rem; }
-.cs-funding { max-width: 720px; margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(0,0,0,0.12); font-size: 0.9rem; color: #5a6b5c; }
-.cs-lead p:last-child { margin-bottom: 0; font-weight: 600; color: var(--cs-green-dark, #3c553e); }
-.cs-reg fieldset.cs-privacy { background: #fdf6e0; border: 1.5px solid var(--cs-yellow, #e3b638); border-radius: var(--cs-radius, 8px); padding: 1.25rem 1.25rem 1.1rem; }
-.cs-reg .cs-privacy legend { float: left; width: 100%; }
-.cs-reg .cs-privacy .cs-consent { background: #fff; border-color: var(--cs-yellow, #e3b638); }
-.cs-reg .cs-privacy dl { clear: both; margin: 0 0 1rem; display: grid; grid-template-columns: max-content 1fr; gap: 0.45rem 1rem; font-size: 0.93rem; line-height: 1.45; }
-.cs-reg .cs-privacy dt { font-weight: 600; color: var(--cs-green-dark, #3c553e); }
-.cs-reg .cs-privacy dd { margin: 0; }
-@media (max-width: 480px) { .cs-reg .cs-privacy dl { grid-template-columns: 1fr; gap: 0.1rem 0; } .cs-reg .cs-privacy dd { margin-bottom: 0.5rem; } }
-.cs-reg { font-family: 'Inter', sans-serif; max-width: 720px; margin: 1.5rem 0 2.5rem; }
+#title-block-header .quarto-title-banner .quarto-title { text-align: center; }
+
+.cs-lead, .cs-reg, #about-climatesense { max-width: 600px; margin-left: auto; margin-right: auto; }
+.cs-lead { margin-top: 0.5rem; margin-bottom: 1.75rem; font-size: 1.05rem; line-height: 1.55; }
+.cs-lead p { margin: 0 0 0.5rem; }
+.cs-lead p:first-child { font-family: 'Zilla Slab', serif; font-size: 1.5rem; line-height: 1.25; color: var(--cs-teal-dark, #005a5a); margin-bottom: 0.7rem; }
+.cs-lead ol { margin: 0; padding-left: 1.3rem; }
+.cs-lead ol li { margin-bottom: 0.45rem; }
+
+.cs-reg { font-family: 'Inter', sans-serif; margin-top: 0; margin-bottom: 3rem; line-height: 1.45; }
 .cs-reg * { box-sizing: border-box; }
-.cs-reg fieldset { border: 0; padding: 0; margin: 0 0 1.75rem; min-width: 0; }
-.cs-reg legend, .cs-reg label.cs-label { display: block; font-family: 'Zilla Slab', serif; font-size: 1.15rem; font-weight: 600; color: var(--cs-green-dark, #3c553e); margin-bottom: 0.5rem; padding: 0; }
-.cs-reg .cs-hint { font-size: 0.9rem; color: #5a6b5c; margin: -0.25rem 0 0.75rem; }
-.cs-reg .cs-field { margin-bottom: 1.25rem; }
-.cs-reg .cs-field .cs-hint { margin: 0.4rem 0 0; }
-.cs-reg input[type="text"], .cs-reg input[type="email"] { width: 100%; font: inherit; font-size: 1rem; padding: 0.7rem 0.9rem; border: 1.5px solid #c9dccb; border-radius: var(--cs-radius, 8px); background: #fff; color: #000; transition: border-color 0.2s ease, box-shadow 0.2s ease; }
-.cs-reg input[type="text"]:focus, .cs-reg input[type="email"]:focus { outline: none; border-color: var(--cs-teal, #007575); box-shadow: 0 0 0 3px rgba(0,117,117,0.15); }
-.cs-reg .cs-options { display: grid; gap: 0.6rem; }
-.cs-reg .cs-options.cs-cols { grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); }
-.cs-reg .cs-option { position: relative; display: flex; align-items: center; gap: 0.75rem; padding: 0.8rem 1rem; border: 1.5px solid #c9dccb; border-radius: var(--cs-radius, 8px); background: #fff; cursor: pointer; transition: border-color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease; font-size: 0.98rem; line-height: 1.3; }
-.cs-reg .cs-option:hover { border-color: var(--cs-teal, #007575); box-shadow: var(--cs-shadow, 0 2px 16px rgba(0,117,117,0.10)); }
-.cs-reg .cs-option input { position: absolute; opacity: 0; width: 1px; height: 1px; }
-.cs-reg .cs-option .cs-mark { flex: 0 0 auto; width: 20px; height: 20px; border: 2px solid #9db8a0; border-radius: 5px; background: #fff; display: grid; place-items: center; transition: all 0.15s ease; }
-.cs-reg .cs-option input[type="radio"] + .cs-mark { border-radius: 50%; }
-.cs-reg .cs-option .cs-mark::after { content: ""; width: 10px; height: 10px; border-radius: 2px; background: #fff; transform: scale(0); transition: transform 0.15s ease; }
-.cs-reg .cs-option input[type="radio"] + .cs-mark::after { border-radius: 50%; }
-.cs-reg .cs-option input:checked + .cs-mark { background: var(--cs-teal, #007575); border-color: var(--cs-teal, #007575); }
-.cs-reg .cs-option input:checked + .cs-mark::after { transform: scale(1); }
-.cs-reg .cs-option input:checked ~ .cs-text { color: var(--cs-teal-dark, #005a5a); font-weight: 600; }
-.cs-reg .cs-option:has(input:checked) { border-color: var(--cs-teal, #007575); background: #eef8ef; }
-.cs-reg .cs-option input:focus-visible ~ .cs-text { outline: 2px solid var(--cs-teal, #007575); outline-offset: 6px; border-radius: 2px; }
-.cs-reg .cs-text small { display: block; font-weight: 400; color: #5a6b5c; font-size: 0.85rem; margin-top: 0.1rem; }
-.cs-reg .cs-day { font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 1rem; color: var(--cs-teal, #007575); margin: 0.9rem 0 0.4rem; }
-.cs-reg .cs-day:first-of-type { margin-top: 0; }
-.cs-reg .cs-consent { display: flex; gap: 0.75rem; align-items: flex-start; padding: 1rem; font-weight: 600; background: var(--cs-bg, #f7fbf7); border: 1.5px solid #c9dccb; border-radius: var(--cs-radius, 8px); font-size: 0.92rem; line-height: 1.45; cursor: pointer; }
-.cs-reg .cs-consent input { margin-top: 0.2rem; width: 18px; height: 18px; flex: 0 0 auto; accent-color: var(--cs-teal, #007575); }
-.cs-reg button[type="submit"] { font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.02em; color: #fff; background: var(--cs-teal, #007575); border: 0; border-radius: var(--cs-radius, 8px); padding: 0.85rem 2rem; cursor: pointer; transition: background 0.2s ease, transform 0.1s ease, box-shadow 0.2s ease; }
-.cs-reg button[type="submit"]:hover { background: var(--cs-teal-dark, #005a5a); box-shadow: var(--cs-shadow-hover, 0 8px 28px rgba(0,117,117,0.20)); }
+.cs-card { background: #fff; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 40px rgba(0, 70, 70, 0.14), 0 1px 3px rgba(0, 0, 0, 0.06); }
+.cs-card-head { background: var(--cs-teal-dark, #005a5a); color: #fff; font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 1.35rem; line-height: 1.2; padding: 1.05rem 1.5rem; }
+.cs-card-body { padding: 1.5rem 1.5rem 1.75rem; }
+
+.cs-reg fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
+.cs-reg .cs-group { margin-bottom: 1.4rem; }
+.cs-reg legend, .cs-reg .cs-label { display: block; float: none; width: auto; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 600; color: #26332a; margin: 0 0 0.45rem; padding: 0; }
+.cs-reg .cs-hint { font-size: 0.82rem; color: #66756a; margin: 0.35rem 0 0; }
+
+.cs-reg input[type="email"], .cs-reg select { width: 100%; font: inherit; font-size: 1rem; padding: 0.72rem 0.9rem; border: 1.5px solid transparent; border-radius: 8px; background-color: #eff4f0; color: #111; transition: border-color 0.15s ease, background-color 0.15s ease, box-shadow 0.15s ease; }
+.cs-reg select { appearance: none; -webkit-appearance: none; padding-right: 2.4rem; background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%2366756a' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m3 6 5 5 5-5'/%3e%3c/svg%3e"); background-repeat: no-repeat; background-position: right 0.85rem center; background-size: 14px; cursor: pointer; }
+.cs-reg select:invalid { color: #66756a; }
+.cs-reg input[type="email"]:focus, .cs-reg select:focus { outline: none; background-color: #fff; border-color: var(--cs-teal, #007575); box-shadow: 0 0 0 3px rgba(0, 117, 117, 0.14); }
+
+.cs-reg .cs-day { font-size: 0.82rem; font-weight: 600; color: #66756a; margin: 0.75rem 0 0.35rem; }
+.cs-reg .cs-day.cs-first { margin-top: 0; }
+.cs-reg .cs-slots { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; }
+.cs-reg .cs-slot { position: relative; display: block; margin: 0; cursor: pointer; }
+.cs-reg .cs-slot input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.cs-reg .cs-slot span { display: block; text-align: center; padding: 0.68rem 0.3rem; border-radius: 8px; border: 1.5px solid transparent; background: #eff4f0; color: #111; font-size: 0.95rem; font-weight: 500; transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease; }
+.cs-reg .cs-slot:hover span { border-color: var(--cs-teal, #007575); }
+.cs-reg .cs-slot input:checked + span { background: var(--cs-teal, #007575); color: #fff; font-weight: 600; }
+.cs-reg .cs-slot input:focus-visible + span { box-shadow: 0 0 0 3px rgba(0, 117, 117, 0.3); }
+
+.cs-reg .cs-privacy { background: #fdf6e0; border-radius: 8px; padding: 0.95rem 1.05rem; margin-bottom: 0.9rem; font-size: 0.82rem; line-height: 1.45; color: #3b3a30; }
+.cs-reg .cs-privacy-title { font-weight: 600; font-size: 0.9rem; color: #26332a; margin-bottom: 0.5rem; }
+.cs-reg .cs-privacy dl { margin: 0; display: grid; grid-template-columns: max-content 1fr; gap: 0.3rem 0.9rem; }
+.cs-reg .cs-privacy dt { font-weight: 600; }
+.cs-reg .cs-privacy dd { margin: 0; }
+.cs-reg .cs-consent { display: flex; gap: 0.65rem; align-items: flex-start; margin: 0 0 1.4rem; font-size: 0.92rem; font-weight: 500; color: #26332a; cursor: pointer; }
+.cs-reg .cs-consent input { margin-top: 0.15rem; width: 18px; height: 18px; flex: 0 0 auto; accent-color: var(--cs-teal, #007575); }
+
+.cs-reg button[type="submit"] { display: block; width: 100%; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #fff; background: var(--cs-teal, #007575); border: 0; border-radius: 999px; padding: 0.9rem 1.5rem; cursor: pointer; transition: background 0.15s ease, box-shadow 0.15s ease; }
+.cs-reg button[type="submit"]:hover { background: var(--cs-teal-dark, #005a5a); box-shadow: 0 6px 18px rgba(0, 117, 117, 0.25); }
 .cs-reg button[type="submit"]:disabled { opacity: 0.6; cursor: wait; }
-.cs-reg .cs-error { display: none; margin-top: 1rem; padding: 0.8rem 1rem; border-radius: var(--cs-radius, 8px); background: #fbe9ee; color: #8a2c45; border: 1.5px solid #e8b4c2; font-size: 0.95rem; }
+.cs-reg .cs-error { display: none; margin-top: 0.9rem; padding: 0.7rem 0.9rem; border-radius: 8px; background: #fbe9ee; color: #8a2c45; font-size: 0.9rem; }
 .cs-reg .cs-error.is-visible { display: block; }
-.cs-reg .cs-success { display: none; padding: 2rem 1.75rem; border-radius: var(--cs-radius, 8px); background: #eef8ef; border: 1.5px solid var(--cs-green-light, #94d198); font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 1.5rem; line-height: 1.3; color: var(--cs-teal-dark, #005a5a); text-align: center; }
+.cs-reg .cs-success { display: none; margin-top: 1rem; padding: 2.25rem 1.5rem; border-radius: 14px; background: #fff; box-shadow: 0 12px 40px rgba(0, 70, 70, 0.14), 0 1px 3px rgba(0, 0, 0, 0.06); font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 1.5rem; line-height: 1.3; color: var(--cs-teal-dark, #005a5a); text-align: center; }
 .cs-reg .cs-success.is-visible { display: block; }
-.cs-reg .cs-success-note { display: block; margin-top: 0.6rem; font-family: 'Inter', sans-serif; font-weight: 400; font-size: 1.05rem; color: #000; }
+.cs-reg .cs-success-note { display: block; margin-top: 0.6rem; font-family: 'Inter', sans-serif; font-weight: 400; font-size: 1.02rem; color: #26332a; }
 .cs-reg .cs-hp { position: absolute; left: -9999px; }
-@media (max-width: 480px) { .cs-reg .cs-options.cs-cols { grid-template-columns: 1fr; } }
+
+#about-climatesense { font-size: 0.92rem; line-height: 1.55; color: #3d463f; }
+#about-climatesense h2 { font-size: 1.15rem; }
+
+@media (max-width: 480px) {
+  .cs-card-head { padding: 0.95rem 1.15rem; font-size: 1.25rem; }
+  .cs-card-body { padding: 1.2rem 1.15rem 1.4rem; }
+  .cs-reg .cs-privacy dl { grid-template-columns: 1fr; gap: 0; }
+  .cs-reg .cs-privacy dd { margin-bottom: 0.4rem; }
+}
 </style>
 
 <div class="cs-reg">
-<form id="cs-reg-form" novalidate="">
+<div class="cs-card">
+<div class="cs-card-head">Register for a session</div>
+<form id="cs-reg-form" class="cs-card-body" novalidate="">
   <input type="hidden" name="access_key" value="0d9dc135-a5a9-4ecb-9924-77b07abafd3c">
   <input type="hidden" name="subject" value="New ClimateSense session registration">
   <input type="hidden" name="from_name" value="ClimateSense website">
   <input type="checkbox" name="botcheck" class="cs-hp" tabindex="-1" autocomplete="off">
 
-  <fieldset>
-    <legend>Choose your session</legend>
-    <div class="cs-hint">All times are Central European Time (CET). Tick every slot that works.</div>
-    <div class="cs-day">Thursday 12 November 2026</div>
-    <div class="cs-options cs-cols">
-      <label class="cs-option"><input type="checkbox" name="session" value="Thu 12 Nov, 09:00 CET"><span class="cs-mark"></span><span class="cs-text">09:00 CET</span></label>
-      <label class="cs-option"><input type="checkbox" name="session" value="Thu 12 Nov, 12:00 CET"><span class="cs-mark"></span><span class="cs-text">12:00 CET</span></label>
-      <label class="cs-option"><input type="checkbox" name="session" value="Thu 12 Nov, 14:00 CET"><span class="cs-mark"></span><span class="cs-text">14:00 CET</span></label>
+  <fieldset class="cs-group">
+    <legend>Choose a time</legend>
+    <div class="cs-day cs-first">Thursday 12 November 2026</div>
+    <div class="cs-slots">
+      <label class="cs-slot"><input type="checkbox" name="session" value="Thu 12 Nov, 09:00 CET"><span>09:00 CET</span></label>
+      <label class="cs-slot"><input type="checkbox" name="session" value="Thu 12 Nov, 12:00 CET"><span>12:00 CET</span></label>
+      <label class="cs-slot"><input type="checkbox" name="session" value="Thu 12 Nov, 14:00 CET"><span>14:00 CET</span></label>
     </div>
     <div class="cs-day">Wednesday 25 November 2026</div>
-    <div class="cs-options cs-cols">
-      <label class="cs-option"><input type="checkbox" name="session" value="Wed 25 Nov, 09:00 CET"><span class="cs-mark"></span><span class="cs-text">09:00 CET</span></label>
-      <label class="cs-option"><input type="checkbox" name="session" value="Wed 25 Nov, 12:00 CET"><span class="cs-mark"></span><span class="cs-text">12:00 CET</span></label>
-      <label class="cs-option"><input type="checkbox" name="session" value="Wed 25 Nov, 14:00 CET"><span class="cs-mark"></span><span class="cs-text">14:00 CET</span></label>
+    <div class="cs-slots">
+      <label class="cs-slot"><input type="checkbox" name="session" value="Wed 25 Nov, 09:00 CET"><span>09:00 CET</span></label>
+      <label class="cs-slot"><input type="checkbox" name="session" value="Wed 25 Nov, 12:00 CET"><span>12:00 CET</span></label>
+      <label class="cs-slot"><input type="checkbox" name="session" value="Wed 25 Nov, 14:00 CET"><span>14:00 CET</span></label>
     </div>
+    <div class="cs-hint">Central European Time. You can pick more than one.</div>
   </fieldset>
 
-  <div class="cs-field">
+  <div class="cs-group">
     <label class="cs-label" for="cs-email">Email</label>
     <input type="email" id="cs-email" name="email" required="" autocomplete="email">
     <div class="cs-hint">We send the session link to this address.</div>
   </div>
 
-  <fieldset>
-    <legend>Which best describes your work?</legend>
-    <div class="cs-options cs-cols">
-      <label class="cs-option"><input type="radio" name="role" value="Fact-checker or journalist" required=""><span class="cs-mark"></span><span class="cs-text">Fact-checker or journalist</span></label>
-      <label class="cs-option"><input type="radio" name="role" value="NGO or civil society"><span class="cs-mark"></span><span class="cs-text">NGO or civil society</span></label>
-      <label class="cs-option"><input type="radio" name="role" value="Policymaker or public official"><span class="cs-mark"></span><span class="cs-text">Policymaker or public official</span></label>
-      <label class="cs-option"><input type="radio" name="role" value="Researcher"><span class="cs-mark"></span><span class="cs-text">Researcher</span></label>
-      <label class="cs-option"><input type="radio" name="role" value="Other"><span class="cs-mark"></span><span class="cs-text">Other</span></label>
-    </div>
-  </fieldset>
+  <div class="cs-group">
+    <label class="cs-label" for="cs-role">Which best describes your work?</label>
+    <select id="cs-role" name="role" required="">
+      <option value="" selected="" disabled="">Select one</option>
+      <option>Fact-checker or journalist</option>
+      <option>NGO or civil society</option>
+      <option>Policymaker or public official</option>
+      <option>Researcher</option>
+      <option>Other</option>
+    </select>
+  </div>
 
-  <fieldset class="cs-privacy">
-    <legend>How we use your details</legend>
+  <div class="cs-privacy">
+    <div class="cs-privacy-title">How we use your details</div>
     <dl>
       <dt>Who keeps them</dt><dd>The ClimateSense team at Kaunas University of Technology (KTU), Lithuania.</dd>
       <dt>What we keep</dt><dd>Your email and your answers in this form.</dd>
@@ -148,12 +158,13 @@
       <dt>How long</dt><dd>Until you ask us to delete them, and at the latest until the project ends on 29 February 2028.</dd>
       <dt>Questions or deletion</dt><dd>Write to <a href="mailto:monika.maciuliene@ktu.lt">monika.maciuliene@ktu.lt</a> at any time.</dd>
     </dl>
-    <label class="cs-consent"><input type="checkbox" id="cs-consent" name="consent" value="yes" required=""><span>I agree that my details are used as described above.</span></label>
-  </fieldset>
+  </div>
+  <label class="cs-consent"><input type="checkbox" id="cs-consent" name="consent" value="yes" required=""><span>I agree that my details are used as described above.</span></label>
 
   <button type="submit" id="cs-submit">Register</button>
   <div class="cs-error" id="cs-error"></div>
 </form>
+</div>
 
 <div class="cs-success" id="cs-success">Thank you for your registration.<span class="cs-success-note">We will contact you with the agenda and details before the event.</span></div>
 </div>
@@ -173,13 +184,13 @@
     clearError();
 
     var email = form.email.value.trim();
-    var role = form.querySelector('input[name="role"]:checked');
+    var role = form.role.value ? form.role : null;
     var sessions = Array.prototype.map.call(form.querySelectorAll('input[name="session"]:checked'), function (el) { return el.value; });
     var consent = form.consent.checked;
 
     if (sessions.length === 0) { showError('Please tick at least one session.'); return; }
     if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { showError('Please enter a valid email address.'); form.email.focus(); return; }
-    if (!role) { showError('Please choose the option that best describes your work.'); return; }
+    if (!role) { showError('Please choose the option that best describes your work.'); form.role.focus(); return; }
     if (!consent) { showError('Please tick the box to agree to how we use your details.'); return; }
 
     var payload = {
@@ -226,15 +237,11 @@
   });
 })();
 </script>
-</section>
 <section id="about-climatesense" class="level2">
 <h2 class="anchored" data-anchor-id="about-climatesense">About ClimateSense</h2>
 <p>ClimateSense is a European research project on climate misinformation. We study where false and misleading climate claims appear, when they come back and how they spread across countries.</p>
-<p>We build tools for the people who deal with these claims: a database of fact-checks, a map of where claims appear, and a database of who lobbies against climate policy (<a href="https://climatesense-project.eu/lack/">LACK</a>). The aim is to help fact-checkers decide what to check first and to give policymakers clearer evidence.</p>
+<p>We build tools for the people who deal with these claims. The aim is to help fact-checkers decide what to check first and to give policymakers clearer evidence.</p>
 <p>The project runs from March 2025 to February 2028. It is coordinated by <a href="https://www.open.ac.uk/">The Open University</a> (United Kingdom), with <a href="https://en.ktu.edu/">Kaunas University of Technology</a> (Lithuania), <a href="https://www.eurecom.fr/en/">EURECOM</a> (France) and <a href="https://www.vse.cz/english/">Prague University of Economics and Business</a> (Czech Republic).</p>
-<div class="cs-funding">
-<p>ClimateSense is funded through <a href="https://www.chistera.eu/">CHIST-ERA</a>, the European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies programme. <a href="https://climatesense-project.eu/about.html">More about the project</a>.</p>
-</div>
 
 
 </section>
