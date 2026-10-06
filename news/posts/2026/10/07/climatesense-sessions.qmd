@@ -33,7 +33,6 @@ Pick a time below and we email you the link.
 .cs-lead p:first-child { font-family: 'Zilla Slab', serif; font-size: 1.45rem; line-height: 1.25; color: var(--cs-teal-dark, #005a5a); }
 .cs-lead ol { margin: 0 0 0.9rem; padding-left: 1.3rem; }
 .cs-lead ol li { margin-bottom: 0.25rem; }
-.cs-funding { max-width: 720px; margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(0,0,0,0.12); font-size: 0.9rem; color: #5a6b5c; }
 .cs-lead p:last-child { margin-bottom: 0; font-weight: 600; color: var(--cs-green-dark, #3c553e); }
 .cs-reg fieldset.cs-privacy { background: #fdf6e0; border: 1.5px solid var(--cs-yellow, #e3b638); border-radius: var(--cs-radius, 8px); padding: 1.25rem 1.25rem 1.1rem; }
 .cs-reg .cs-privacy legend { float: left; width: 100%; }
@@ -220,7 +219,3 @@ ClimateSense is a European research project on climate misinformation. We study 
 We build tools for the people who deal with these claims: a database of fact-checks, a map of where claims appear, and a database of who lobbies against climate policy ([LACK](https://climatesense-project.eu/lack/)). The aim is to help fact-checkers decide what to check first and to give policymakers clearer evidence.
 
 The project runs from March 2025 to February 2028. It is coordinated by [The Open University](https://www.open.ac.uk/) (United Kingdom), with [Kaunas University of Technology](https://en.ktu.edu/) (Lithuania), [EURECOM](https://www.eurecom.fr/en/) (France) and [Prague University of Economics and Business](https://www.vse.cz/english/) (Czech Republic).
-
-::: {.cs-funding}
-ClimateSense is funded through [CHIST-ERA](https://www.chistera.eu/), the European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies programme. [More about the project](https://climatesense-project.eu/about.html).
-:::
