@@ -18,14 +18,21 @@
     "href": "news/posts/2026/10/07/climatesense-sessions.html",
     "title": "Help us build better tools against climate misinformation",
     "section": "",
-    "text": "Do you check, report on or respond to climate claims?\nIn a 45-minute session with the ClimateSense team:\n\nWe show you one of our tools with a real example: the database of fact-checks, the map of where claims appear, or the database of who lobbies against climate policy (LACK).\nWe ask how you deal with climate claims: where they come from, what you check and where you get stuck.\nYou tell us what would help you and what the tools are missing. We use this to improve them."
+    "text": "Do you check, report on or respond to climate claims?\nClimateSense builds tools for people who work on climate misinformation. We need your view to make them fit how you work. Join a 45-minute online session, see a tool and tell us what would help."
+  },
+  {
+    "objectID": "news/posts/2026/10/07/climatesense-sessions.html#what-happens-in-a-session",
+    "href": "news/posts/2026/10/07/climatesense-sessions.html#what-happens-in-a-session",
+    "title": "Help us build better tools against climate misinformation",
+    "section": "What happens in a session",
+    "text": "What happens in a session\n\nWe show you one of our tools with a real example: the database of fact-checks, the map of where claims appear, or the database of who lobbies against climate policy (LACK).\nWe ask how you deal with climate claims: where they come from, what you check and where you get stuck.\nYou tell us what would help you and what the tools are missing. We use this to improve them."
   },
   {
     "objectID": "news/posts/2026/10/07/climatesense-sessions.html#about-climatesense",
     "href": "news/posts/2026/10/07/climatesense-sessions.html#about-climatesense",
     "title": "Help us build better tools against climate misinformation",
     "section": "About ClimateSense",
-    "text": "About ClimateSense\nClimateSense is a European research project on climate misinformation. We study where false and misleading climate claims appear, when they come back and how they spread across countries.\nWe build tools for the people who deal with these claims. The aim is to help fact-checkers decide what to check first and to give policymakers clearer evidence.\nThe project runs from March 2025 to February 2028. It is coordinated by The Open University (United Kingdom), with Kaunas University of Technology (Lithuania), EURECOM (France) and Prague University of Economics and Business (Czech Republic)."
+    "text": "About ClimateSense\nClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensional GIS) is a research project designed to combat climate-related misinformation through Geographic Information Systems (GIS). Climate misinformation remains widespread. It affects public perception and obstructs effective climate policymaking.\nThe project builds a multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. It lets users explore where climate misinformation emerges, how it spreads and how it relates to observed climate and policy conditions. This enables more targeted monitoring, better prioritisation for fact-checkers and clearer evidence for policy actors. The system will be evaluated using data from the next three COP conferences.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business\nProject funding: European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
   },
   {
     "objectID": "news/posts/2026/03/13/london_meeting.html",
