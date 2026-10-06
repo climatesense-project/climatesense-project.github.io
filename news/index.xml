@@ -30,10 +30,11 @@
 
 <div class="cs-lead">
 <p><strong>Do you check, report on or respond to climate claims?</strong></p>
-<p>In a 45-minute session with the ClimateSense team:</p>
+<p>Spend 45 minutes online with the ClimateSense team. In each session:</p>
 <ol type="1">
 <li>We show you one of our tools, with a real example.</li>
-<li>You tell us how you handle climate claims in your work, and what is missing.</li>
+<li>You tell us how you handle climate claims in your work.</li>
+<li>You tell us what would help and what is missing.</li>
 </ol>
 <p>Pick a time below and we email you the link.</p>
 </div>
@@ -47,6 +48,7 @@
 .cs-lead p:first-child { font-family: 'Zilla Slab', serif; font-size: 1.45rem; line-height: 1.25; color: var(--cs-teal-dark, #005a5a); }
 .cs-lead ol { margin: 0 0 0.9rem; padding-left: 1.3rem; }
 .cs-lead ol li { margin-bottom: 0.25rem; }
+.cs-funding { max-width: 720px; margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(0,0,0,0.12); font-size: 0.9rem; color: #5a6b5c; }
 .cs-lead p:last-child { margin-bottom: 0; font-weight: 600; color: var(--cs-green-dark, #3c553e); }
 .cs-reg fieldset.cs-privacy { background: #fdf6e0; border: 1.5px solid var(--cs-yellow, #e3b638); border-radius: var(--cs-radius, 8px); padding: 1.25rem 1.25rem 1.1rem; }
 .cs-reg .cs-privacy legend { float: left; width: 100%; }
@@ -230,6 +232,9 @@
 <p>ClimateSense is a European research project on climate misinformation. We study where false and misleading climate claims appear, when they come back and how they spread across countries.</p>
 <p>We build tools for the people who deal with these claims: a database of fact-checks, a map of where claims appear, and a database of who lobbies against climate policy (<a href="https://climatesense-project.eu/lack/">LACK</a>). The aim is to help fact-checkers decide what to check first and to give policymakers clearer evidence.</p>
 <p>The project runs from March 2025 to February 2028. It is coordinated by <a href="https://www.open.ac.uk/">The Open University</a> (United Kingdom), with <a href="https://en.ktu.edu/">Kaunas University of Technology</a> (Lithuania), <a href="https://www.eurecom.fr/en/">EURECOM</a> (France) and <a href="https://www.vse.cz/english/">Prague University of Economics and Business</a> (Czech Republic).</p>
+<div class="cs-funding">
+<p>ClimateSense is funded through <a href="https://www.chistera.eu/">CHIST-ERA</a>, the European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies programme. <a href="https://climatesense-project.eu/about.html">More about the project</a>.</p>
+</div>
 
 
 </section>
