@@ -1,0 +1,224 @@
+---
+title: "Stay in touch with ClimateSense"
+description: "Leave your email to join our expert sessions and get early results from ClimateSense."
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+search: false
+---
+
+::: {.cs-lead}
+**Do you work in fact-checking, climate policy, journalism or an NGO?**
+
+Leave your email and we will invite you to our expert sessions and share early results from the project.
+:::
+
+```{=html}
+<style>
+#title-block-header.quarto-title-block.default .quarto-title-meta { display: none !important; }
+#title-block-header.quarto-title-block.default { margin-bottom: 0.5rem; }
+#title-block-header .quarto-title-banner .quarto-title { text-align: center; }
+#title-block-header .quarto-title-banner { padding-top: 2.25rem !important; padding-bottom: 3.25rem !important; }
+#title-block-header .quarto-title-banner .quarto-title .title { margin-bottom: 0; text-wrap: balance; }
+#title-block-header.quarto-title-block.default .description { display: none; }
+
+.cs-lead, .cs-reg, #about-climatesense { max-width: 600px; margin-left: auto; margin-right: auto; }
+.cs-lead { margin-top: 0; margin-bottom: 1.5rem; font-size: 0.97rem; line-height: 1.5; }
+.cs-lead p { margin: 0; }
+.cs-lead p:first-child { font-family: 'Zilla Slab', serif; font-size: 1.3rem; line-height: 1.25; color: var(--cs-teal-dark, #005a5a); margin-bottom: 0.45rem; }
+
+.cs-reg { font-family: 'Inter', sans-serif; margin-top: 0; margin-bottom: 3rem; line-height: 1.45; }
+.cs-reg * { box-sizing: border-box; }
+.cs-card { background: #fff; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 40px rgba(0, 70, 70, 0.14), 0 1px 3px rgba(0, 0, 0, 0.06); }
+.cs-card-head { background: var(--cs-teal-dark, #005a5a); color: #fff; font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 1.35rem; line-height: 1.2; padding: 1.05rem 1.5rem; }
+.cs-card-body { padding: 1.5rem 1.5rem 1.75rem; }
+
+.cs-reg fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
+.cs-reg .cs-group { margin-bottom: 1.4rem; }
+.cs-reg legend, .cs-reg .cs-label { display: block; float: none; width: auto; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 600; color: #26332a; margin: 0 0 0.45rem; padding: 0; }
+.cs-reg .cs-hint { font-size: 0.82rem; color: #66756a; margin: 0.35rem 0 0; }
+
+.cs-reg input[type="email"], .cs-reg select { width: 100%; font: inherit; font-size: 1rem; padding: 0.72rem 0.9rem; border: 1.5px solid transparent; border-radius: 8px; background-color: #eff4f0; color: #111; transition: border-color 0.15s ease, background-color 0.15s ease, box-shadow 0.15s ease; }
+.cs-reg select { appearance: none; -webkit-appearance: none; padding-right: 2.4rem; background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%2366756a' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m3 6 5 5 5-5'/%3e%3c/svg%3e"); background-repeat: no-repeat; background-position: right 0.85rem center; background-size: 14px; cursor: pointer; }
+.cs-reg select:invalid { color: #66756a; }
+.cs-reg input[type="email"]:focus, .cs-reg select:focus { outline: none; background-color: #fff; border-color: var(--cs-teal, #007575); box-shadow: 0 0 0 3px rgba(0, 117, 117, 0.14); }
+
+.cs-reg .cs-day { font-size: 0.82rem; font-weight: 600; color: #66756a; margin: 0.75rem 0 0.35rem; }
+.cs-reg .cs-day.cs-first { margin-top: 0; }
+.cs-reg .cs-slots { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; }
+.cs-reg .cs-slot { position: relative; display: block; margin: 0; cursor: pointer; }
+.cs-reg .cs-slot input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.cs-reg .cs-slot span { display: block; text-align: center; padding: 0.68rem 0.3rem; border-radius: 8px; border: 1.5px solid transparent; background: #eff4f0; color: #111; font-size: 0.95rem; font-weight: 500; transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease; }
+.cs-reg .cs-slot:hover span { border-color: var(--cs-teal, #007575); }
+.cs-reg .cs-slot input:checked + span { background: var(--cs-teal, #007575); color: #fff; font-weight: 600; }
+.cs-reg .cs-slot input:focus-visible + span { box-shadow: 0 0 0 3px rgba(0, 117, 117, 0.3); }
+
+.cs-reg .cs-privacy { background: #fdf6e0; border-radius: 8px; padding: 0.95rem 1.05rem; margin-bottom: 0.9rem; font-size: 0.82rem; line-height: 1.45; color: #3b3a30; }
+.cs-reg .cs-privacy-title { font-weight: 600; font-size: 0.9rem; color: #26332a; margin-bottom: 0.5rem; }
+.cs-reg .cs-privacy dl { margin: 0; display: grid; grid-template-columns: max-content 1fr; gap: 0.3rem 0.9rem; }
+.cs-reg .cs-privacy dt { font-weight: 600; }
+.cs-reg .cs-privacy dd { margin: 0; }
+.cs-reg .cs-consent { display: flex; gap: 0.65rem; align-items: flex-start; margin: 0 0 1.4rem; font-size: 0.92rem; font-weight: 500; color: #26332a; cursor: pointer; }
+.cs-reg .cs-consent input { margin-top: 0.15rem; width: 18px; height: 18px; flex: 0 0 auto; accent-color: var(--cs-teal, #007575); }
+
+.cs-reg button[type="submit"] { display: block; width: 100%; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #fff; background: var(--cs-teal, #007575); border: 0; border-radius: 999px; padding: 0.9rem 1.5rem; cursor: pointer; transition: background 0.15s ease, box-shadow 0.15s ease; }
+.cs-reg button[type="submit"]:hover { background: var(--cs-teal-dark, #005a5a); box-shadow: 0 6px 18px rgba(0, 117, 117, 0.25); }
+.cs-reg button[type="submit"]:disabled { opacity: 0.6; cursor: wait; }
+.cs-reg .cs-error { display: none; margin-top: 0.9rem; padding: 0.7rem 0.9rem; border-radius: 8px; background: #fbe9ee; color: #8a2c45; font-size: 0.9rem; }
+.cs-reg .cs-error.is-visible { display: block; }
+.cs-reg .cs-success { display: none; margin-top: 1rem; padding: 2.25rem 1.5rem; border-radius: 14px; background: #fff; box-shadow: 0 12px 40px rgba(0, 70, 70, 0.14), 0 1px 3px rgba(0, 0, 0, 0.06); font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 1.5rem; line-height: 1.3; color: var(--cs-teal-dark, #005a5a); text-align: center; }
+.cs-reg .cs-success.is-visible { display: block; }
+.cs-reg .cs-success-note { display: block; margin-top: 0.6rem; font-family: 'Inter', sans-serif; font-weight: 400; font-size: 1.02rem; color: #26332a; }
+.cs-reg .cs-hp { position: absolute; left: -9999px; }
+
+#what-happens-in-a-session { font-size: 0.92rem; line-height: 1.55; color: #3d463f; margin-bottom: 2.5rem; }
+#what-happens-in-a-session ol { padding-left: 1.3rem; margin: 0; }
+#what-happens-in-a-session ol li { margin-bottom: 0.5rem; }
+#what-happens-in-a-session h2 { font-size: 1.15rem; }
+#about-climatesense { font-size: 0.92rem; line-height: 1.55; color: #3d463f; }
+#about-climatesense h2 { font-size: 1.15rem; }
+#about-climatesense p { margin-bottom: 0.6rem; }
+
+@media (max-width: 480px) {
+  #title-block-header .quarto-title-banner { padding-top: 1.5rem !important; padding-bottom: 2.5rem !important; }
+  #title-block-header .quarto-title-banner .quarto-title .title { font-size: 1.45rem; }
+  .cs-lead { font-size: 0.94rem; margin-bottom: 1.25rem; }
+  .cs-lead p:first-child { font-size: 1.2rem; }
+  .cs-reg .cs-slots { gap: 0.4rem; }
+  .cs-reg .cs-slot span { white-space: nowrap; font-size: 0.9rem; padding: 0.8rem 0.15rem; }
+  .cs-card-head { padding: 0.95rem 1.15rem; font-size: 1.25rem; }
+  .cs-card-body { padding: 1.2rem 1.15rem 1.4rem; }
+  .cs-reg .cs-privacy dl { grid-template-columns: 1fr; gap: 0; }
+  .cs-reg .cs-privacy dd { margin-bottom: 0.4rem; }
+}
+</style>
+
+<div class="cs-reg">
+<div class="cs-card">
+<div class="cs-card-head">Stay in touch</div>
+<form id="cs-reg-form" class="cs-card-body" novalidate>
+  <input type="hidden" name="access_key" value="0d9dc135-a5a9-4ecb-9924-77b07abafd3c">
+  <input type="hidden" name="from_name" value="ClimateSense website">
+  <input type="checkbox" name="botcheck" class="cs-hp" tabindex="-1" autocomplete="off">
+
+  <div class="cs-group">
+    <label class="cs-label" for="cs-email">Email</label>
+    <input type="email" id="cs-email" name="email" required autocomplete="email">
+  </div>
+
+  <div class="cs-group">
+    <label class="cs-label" for="cs-role">Which best describes your work?</label>
+    <select id="cs-role" name="role" required>
+      <option value="" selected disabled>Select one</option>
+      <option>Fact-checker or journalist</option>
+      <option>NGO or civil society</option>
+      <option>Policymaker or public official</option>
+      <option>Researcher</option>
+      <option>Other</option>
+    </select>
+  </div>
+
+  <div class="cs-privacy">
+    <div class="cs-privacy-title">How we use your details</div>
+    <dl>
+      <dt>Who keeps them</dt><dd>The ClimateSense team at Kaunas University of Technology (KTU), Lithuania.</dd>
+      <dt>What we keep</dt><dd>Your email and your answer in this form.</dd>
+      <dt>Why</dt><dd>Only to invite you to ClimateSense expert sessions and to share project results.</dd>
+      <dt>How they reach us</dt><dd>The form sends them to us by email through the form service Web3Forms, which also keeps a copy on its servers.</dd>
+      <dt>How long</dt><dd>Until you ask us to delete them, and at the latest until the project ends on 29 February 2028.</dd>
+      <dt>Questions or deletion</dt><dd>Write to <a href="mailto:monika.maciuliene@ktu.lt">monika.maciuliene@ktu.lt</a> at any time.</dd>
+    </dl>
+  </div>
+  <label class="cs-consent"><input type="checkbox" id="cs-consent" name="consent" value="yes" required><span>I agree that my details are used as described above.</span></label>
+
+  <button type="submit" id="cs-submit">Keep me informed</button>
+  <div class="cs-error" id="cs-error" role="alert"></div>
+</form>
+</div>
+
+<div class="cs-success" id="cs-success" role="status">Thank you for signing up.<span class="cs-success-note">We will be in touch about ClimateSense expert sessions and results.</span></div>
+</div>
+
+<script>
+(function () {
+  var form = document.getElementById('cs-reg-form');
+  var errorBox = document.getElementById('cs-error');
+  var success = document.getElementById('cs-success');
+  var button = document.getElementById('cs-submit');
+  var source = 'website';
+  try { source = new URLSearchParams(window.location.search).get('src') || 'website'; } catch (e) {}
+
+  function showError(msg) { errorBox.textContent = msg; errorBox.classList.add('is-visible'); }
+  function clearError() { errorBox.textContent = ''; errorBox.classList.remove('is-visible'); }
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    clearError();
+
+    var email = form.email.value.trim();
+    var role = form.role.value;
+    var consent = form.consent.checked;
+
+    if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { showError('Please enter a valid email address.'); form.email.focus(); return; }
+    if (!role) { showError('Please choose the option that best describes your work.'); form.role.focus(); return; }
+    if (!consent) { showError('Please tick the box to agree to how we use your details.'); return; }
+
+    var payload = {
+      access_key: form.access_key.value,
+      subject: 'ClimateSense stay in touch: ' + email,
+      from_name: form.from_name.value,
+      email: email,
+      role: role,
+      source: source,
+      consent: 'yes',
+      botcheck: form.botcheck.checked ? 'on' : ''
+    };
+
+    button.disabled = true;
+    button.textContent = 'Sending\u2026';
+
+    fetch('https://api.web3forms.com/submit', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify(payload)
+    }).then(function (r) { return r.json().then(function (data) { return { ok: r.ok, data: data }; }); })
+      .then(function (res) {
+        if (res.ok && res.data && res.data.success) {
+          var main = document.querySelector('main');
+          var wrap = document.createElement('div');
+          wrap.className = 'cs-reg';
+          Array.prototype.forEach.call(main.children, function (el) {
+            if (el.id !== 'title-block-header') { el.style.display = 'none'; }
+          });
+          wrap.appendChild(success);
+          main.appendChild(wrap);
+          success.classList.add('is-visible');
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        } else {
+          throw new Error((res.data && res.data.message) || 'Submission failed');
+        }
+      })
+      .catch(function () {
+        showError('Something went wrong and your details were not sent. Please try again, or email monika.maciuliene@ktu.lt.');
+        button.disabled = false;
+        button.textContent = 'Keep me informed';
+      });
+  });
+})();
+</script>
+```
+
+## About ClimateSense
+
+ClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensional GIS) is a research project designed to combat climate-related misinformation through Geographic Information Systems (GIS). Climate misinformation remains widespread. It affects public perception and obstructs effective climate policymaking.
+
+The project builds a multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. It lets users explore where climate misinformation emerges, how it spreads and how it relates to observed climate and policy conditions. This enables more targeted monitoring, better prioritisation for fact-checkers and clearer evidence for policy actors. The system will be evaluated using data from the next three COP conferences.
+
+**Period of project implementation:** 2025-03-01 - 2028-02-29
+
+**Project coordinator:** [The Open University](https://www.open.ac.uk/)
+
+**Project partners:** [Kaunas University of Technology](https://en.ktu.edu/), [EURECOM](https://www.eurecom.fr/en/), [Prague University of Economics and Business](https://www.vse.cz/english/)
+
+**Project funding:** [European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies](https://www.chistera.eu/funded-projects) (CHIST-ERA)
