@@ -173,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 #title-block-header .quarto-title-banner .quarto-title .title { margin-bottom: 0; text-wrap: balance; }
 #title-block-header.quarto-title-block.default .description { display: none; }
 
-.cs-lead, .cs-reg, #about-climatesense { max-width: 600px; margin-left: auto; margin-right: auto; }
+.cs-lead, .cs-reg, #what-we-build, #about-climatesense { max-width: 600px; margin-left: auto; margin-right: auto; }
 .cs-lead { margin-top: 0; margin-bottom: 1.5rem; font-size: 0.97rem; line-height: 1.5; }
 .cs-lead p { margin: 0; }
 .cs-lead p:first-child { font-family: 'Zilla Slab', serif; font-size: 1.3rem; line-height: 1.25; color: var(--cs-teal-dark, #005a5a); margin-bottom: 0.45rem; }
@@ -226,6 +226,18 @@ ul.task-list li input[type="checkbox"] {
 #what-happens-in-a-session ol { padding-left: 1.3rem; margin: 0; }
 #what-happens-in-a-session ol li { margin-bottom: 0.5rem; }
 #what-happens-in-a-session h2 { font-size: 1.15rem; }
+#what-we-build { max-width: 600px; margin-left: auto; margin-right: auto; margin-bottom: 2.5rem; }
+#what-we-build h2 { font-size: 1.15rem; }
+.cs-tools { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; font-family: 'Inter', sans-serif; }
+.cs-tool { background: #fff; border-radius: 10px; border-top: 3px solid var(--cs-green-light, #94d198); box-shadow: 0 1px 8px rgba(0, 117, 117, 0.10); padding: 0.85rem 1rem 0.95rem; }
+#what-we-build .cs-tool h3 { font-family: 'Zilla Slab', serif !important; font-weight: 600 !important; font-size: 1.2rem !important; line-height: 1.2 !important; color: var(--cs-teal-dark, #005a5a) !important; margin: 0.4rem 0 0.25rem !important; padding: 0 !important; text-transform: none !important; border: 0 !important; }
+.cs-tool p { font-size: 0.88rem; line-height: 1.45; margin: 0 0 0.4rem; color: #1d2a22; }
+.cs-tool a { font-size: 0.88rem; font-weight: 600; }
+.cs-tag { display: inline-block; font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; color: #005a5a; background: #e3f3e4; border-radius: 20px; padding: 0.12rem 0.55rem; }
+.cs-tag-open { background: var(--cs-teal, #007575); color: #fff; }
+.cs-stat { display: flex; align-items: center; gap: 0.9rem; margin-top: 0.9rem; padding: 0.7rem 0.95rem; background: #fff8cc; border-left: 4px solid #fde725; border-radius: 6px; font-family: 'Inter', sans-serif; font-size: 0.88rem; line-height: 1.45; }
+.cs-stat strong { font-family: 'Zilla Slab', serif; font-weight: 600; font-size: 1.5rem; color: #3c553e; white-space: nowrap; }
+@media (max-width: 480px) { .cs-tools { grid-template-columns: 1fr; } }
 #about-climatesense { font-size: 0.92rem; line-height: 1.55; color: #3d463f; }
 #about-climatesense h2 { font-size: 1.15rem; }
 #about-climatesense p { margin-bottom: 0.6rem; }
@@ -357,6 +369,33 @@ ul.task-list li input[type="checkbox"] {
   });
 })();
 </script>
+<section id="what-we-build" class="level2">
+<h2 class="anchored" data-anchor-id="what-we-build">What we build</h2>
+<div class="cs-tools">
+  <div class="cs-tool">
+    <span class="cs-tag cs-tag-open">Open now</span>
+    <h3 class="anchored">LACK</h3>
+    <p>An open knowledge graph of 27,945 people and organisations working against climate science and policy, and who funds and leads whom.</p>
+    <a href="https://climatesense-project.eu/lack/">Explore LACK</a>
+  </div>
+  <div class="cs-tool">
+    <span class="cs-tag">Presented at ISWC 2025</span>
+    <h3 class="anchored">Fact-check graph</h3>
+    <p>Connects climate misinformation claims to scientific evidence, to support transparent fact-checking.</p>
+  </div>
+  <div class="cs-tool">
+    <span class="cs-tag">In development</span>
+    <h3 class="anchored">Claim map</h3>
+    <p>Shows where fact-checked climate claims appear, by place, time and topic.</p>
+  </div>
+  <div class="cs-tool">
+    <span class="cs-tag">1st place, ClimateCheck 2026</span>
+    <h3 class="anchored">Detection models</h3>
+    <p>AI models that detect climate-related misinformation in text.</p>
+  </div>
+</div>
+<div class="cs-stat"><strong>6 of 104</strong><span>climate information tools we mapped directly target climate misinformation. ClimateSense works to close that gap.</span></div>
+</section>
 <section id="about-climatesense" class="level2">
 <h2 class="anchored" data-anchor-id="about-climatesense">About ClimateSense</h2>
 <p>ClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensional GIS) is a research project designed to combat climate-related misinformation through Geographic Information Systems (GIS). Climate misinformation remains widespread. It affects public perception and obstructs effective climate policymaking.</p>
