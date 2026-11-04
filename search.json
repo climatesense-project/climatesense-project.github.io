@@ -1,68 +1,5 @@
 [
   {
-    "objectID": "news/posts/2026/01/14/consortium-meeting-nice-2025.html",
-    "href": "news/posts/2026/01/14/consortium-meeting-nice-2025.html",
-    "title": "ClimateSense Consortium Meeting in Nice",
-    "section": "",
-    "text": "The ClimateSense consortium met in person at EURECOM in Sophia Antipolis for a two-day working meeting focused on coordination across work packages and preparation for the next project phase.\n\nDay 1: Progress & Planning\nThe first day was dedicated to work package updates from all partners, covering:\n\nStakeholder engagement and data integration\nModelling and geostatistical analysis\nPlatform development and project management\n\nDiscussions also addressed short-term priorities, publication plans, and upcoming dissemination activities.\n\n\nDay 2: Innovation & Outreach\nOn the second day, the consortium welcomed a keynote from Agoratlas, introducing approaches to large-scale social media analysis and coordinated online behaviour. This was followed by:\n\nHands-on sessions on annotation and data access\nDiscussions on the ClimateSense\nCommunication strategy for future COP events\n\nThe meeting concluded with agreement on next steps and coordination for the coming months."
-  },
-  {
-    "objectID": "news/posts/2026/05/02/needs2026-conference.html",
-    "href": "news/posts/2026/05/02/needs2026-conference.html",
-    "title": "KTU team presents ClimateSense research at NEEDS 2026",
-    "section": "",
-    "text": "The NEEDS 2026 conference, Societal Resilience in Times of Cascading Crises and Disasters, took place on 28–30 April 2026 in Kaunas, Lithuania, hosted by Kaunas University of Technology (KTU). The conference brought together researchers, practitioners, and policymakers from across Europe and beyond to discuss disaster resilience, crisis governance, and community preparedness.\nKTU team members contributed to the conference in several roles. Monika Maciuliene presented ClimateSense-related research in the session on Technological Innovation for DRR, with a paper titled Mapping Resilience Gaps in Cascading Crises: Climate Misinformation Platforms as Socio-Technical Infrastructures. The presentation drew on a systematic mapping of 104 platforms and tools addressing climate misinformation, examining how digital infrastructure shapes resilience outcomes in interconnected crisis settings. The research was funded through the CHIST-ERA grant supporting ClimateSense.\nSeveral other KTU colleagues contributed as session chairs and presenters across the three-day programme, covering topics from socio-economic vulnerability analysis and crisis governance to public trust and community resilience."
-  },
-  {
-    "objectID": "news/posts/2026/10/06/vilnius-meeting.html",
-    "href": "news/posts/2026/10/06/vilnius-meeting.html",
-    "title": "ClimateSense consortium meeting in Vilnius",
-    "section": "",
-    "text": "On 5-6 October 2026, the ClimateSense consortium met in Vilnius, Lithuania, for its autumn project meeting. The meeting took place at VILNIUS TECH and brought together partners from all four institutions (OU, EURECOM, KTU and VSE).\nOn the first day, each partner presented progress in its work packages, plans for the next three months and upcoming publications.\nThe second day was organised as small working sessions. The team worked on the project’s knowledge graph, the LACK database of climate lobbying networks, the geolocation of climate claims and the map-based demonstrator.\nThe team also prepared for #Disinfo2026, the annual conference of EU DisinfoLab, which takes place in Vilnius on 7-8 October, right after the meeting. At the conference, ClimateSense talks with practitioners about climate misinformation and invites them to online sessions in November.\nThe meeting closed with a wrap-up of the working sessions and agreement on next steps."
-  },
-  {
-    "objectID": "news/posts/2026/02/02/key-research-outputs-2025.html",
-    "href": "news/posts/2026/02/02/key-research-outputs-2025.html",
-    "title": "ClimateSense key research outputs in 2025",
-    "section": "",
-    "text": "In 2025, the ClimateSense project delivered a series of initial scientific contributions across knowledge graphs, geospatial analysis, and climate misinformation detection. These outputs reflect the project’s interdisciplinary approach, combining semantic technologies, machine learning, and social science perspectives.\nA major milestone was the presentation of ClimaFactsKG, an interlinked knowledge graph designed to connect scientific evidence with climate misinformation narratives. Presented at the International Semantic Web Conference (ISWC) in Japan, this work advances structured representations of scientific claims and supports transparent fact-checking workflows.\nClimateSense also participated in international evaluation campaigns. At CheckThat! 2025, co-located with CLEF in Madrid, the team presented models combining fine-tuned large language models with conventional machine-learning approaches to analyse subjectivity and scientific discourse on the web.\nFurther methodological contributions included EURECOM’s participation in the FrugalAI Challenge and conceptual work on geospatial approaches to climate misinformation. At the AHFE Conference in Hawaii, KTU researchers outlined early directions for a multidimensional GIS framework to map and analyse climate misinformation across space, time, and narrative dimensions. Finally, KTU researchers presented outcomes of platform mapping excercise at the 2nd European Congress on Disinformation and Fact Checking.\nTogether, these outputs establish a strong foundation for the next phases of ClimateSense."
-  },
-  {
-    "objectID": "news/posts/2026/03/03/climatecheck_shared_task.html",
-    "href": "news/posts/2026/03/03/climatecheck_shared_task.html",
-    "title": "ClimateSense achieves top results at ClimateCheck Shared Task for NSLP 2026",
-    "section": "",
-    "text": "The ClimateSense project has once again demonstrated its strength in climate misinformation detection. A joint team from EURECOM and the Open University participated in the ClimateCheck shared task, organised by the NSLP workshop co-located with LREC 2026, and achieved outstanding results:\n\n1st place on Task 1.1\n1st place on Task 1.2\n3rd place on Task 2\n\nThis work was led by Gregoire Burel and Thibault Ehrhart, building on the project’s growing expertise in combining large language models with established machine learning techniques for detecting climate-related misinformation.\nThe code developed for this shared task is openly available on GitHub. A paper describing the team’s approach has been submitted and is currently under review.\nThese results follow the team’s earlier successes at international evaluation campaigns, further strengthening ClimateSense’s position at the forefront of research in automated climate misinformation detection."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "We welcome your questions, feedback, and collaboration inquiries about ClimateSense."
-  },
-  {
-    "objectID": "contact.html#general-enquiries",
-    "href": "contact.html#general-enquiries",
-    "title": "Contact us",
-    "section": "General Enquiries",
-    "text": "General Enquiries\nFor general questions about the research project, please contact the project coordinator:\nName: Prof. Harith Alani\nEmail: harith.alani@open.ac.uk"
-  },
-  {
-    "objectID": "contact.html#our-location",
-    "href": "contact.html#our-location",
-    "title": "Contact us",
-    "section": "Our Location",
-    "text": "Our Location\nOur primary research lab is located at:\nKnowledge Media Institute\nThe Open University\nWalton Hall\nMilton Keynes\nMK7 6AA\nUnited Kingdom"
-  },
-  {
-    "objectID": "contact.html#social-media",
-    "href": "contact.html#social-media",
-    "title": "Contact us",
-    "section": "Social media",
-    "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
-  },
-  {
     "objectID": "partners.html",
     "href": "partners.html",
     "title": "Project partners",
@@ -84,102 +21,53 @@
     "text": "CARDS Stats\n\n\n\nConcept Occurrence Count in ClimaFacts KG\n\n\nCARDS Concept Label\nReview Count\n\n\n\n\nMovement is unreliable\n583\n\n\nScience is unreliable\n216\n\n\nNot climate misinformation or related to the climate.\n136\n\n\nClimate is conspiracy\n43\n\n\nNo species impact\n7\n\n\nPolicies are harmful\n2\n\n\nWe need energy\n2\n\n\nNo evidence for GHE\n1\n\n\nNot a pollutant\n1\n\n\nPolicies are ineffective\n1"
   },
   {
-    "objectID": "LICENCE.html",
-    "href": "LICENCE.html",
-    "title": "Licence",
+    "objectID": "news/posts/2026/10/06/vilnius-meeting.html",
+    "href": "news/posts/2026/10/06/vilnius-meeting.html",
+    "title": "ClimateSense consortium meeting in Vilnius",
     "section": "",
-    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+    "text": "On 5-6 October 2026, the ClimateSense consortium met in Vilnius, Lithuania, for its autumn project meeting. The meeting took place at VILNIUS TECH and brought together partners from all four institutions (OU, EURECOM, KTU and VSE).\nOn the first day, each partner presented progress in its work packages, plans for the next three months and upcoming publications.\nThe second day was organised as small working sessions. The team worked on the project’s knowledge graph, the LACK database of climate lobbying networks, the geolocation of climate claims and the map-based demonstrator.\nThe team also prepared for #Disinfo2026, the annual conference of EU DisinfoLab, which takes place in Vilnius on 7-8 October, right after the meeting. At the conference, ClimateSense talks with practitioners about climate misinformation and invites them to online sessions in November.\nThe meeting closed with a wrap-up of the working sessions and agreement on next steps."
   },
   {
-    "objectID": "LICENCE.html#content",
-    "href": "LICENCE.html#content",
-    "title": "Licence",
+    "objectID": "news/posts/2026/10/07/climatesense-sessions.html",
+    "href": "news/posts/2026/10/07/climatesense-sessions.html",
+    "title": "Help us build better tools against climate misinformation",
     "section": "",
-    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+    "text": "Do you check, report on or respond to climate claims?\nClimateSense builds tools for people who work on climate misinformation. We need your view to make them fit how you work. Join a 45-minute online session, see a tool and tell us what would help."
   },
   {
-    "objectID": "LICENCE.html#software-and-services",
-    "href": "LICENCE.html#software-and-services",
-    "title": "Licence",
-    "section": "Software and services",
-    "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
+    "objectID": "news/posts/2026/10/07/climatesense-sessions.html#what-happens-in-a-session",
+    "href": "news/posts/2026/10/07/climatesense-sessions.html#what-happens-in-a-session",
+    "title": "Help us build better tools against climate misinformation",
+    "section": "What happens in a session",
+    "text": "What happens in a session\n\nWe show you one of our tools with a real example: the database of fact-checks, the map of where claims appear, or the database of who lobbies against climate policy (LACK).\nWe ask how you deal with climate claims: where they come from, what you check and where you get stuck.\nYou tell us what would help you and what the tools are missing. We use this to improve them."
   },
   {
-    "objectID": "privacy.html",
-    "href": "privacy.html",
-    "title": "Privacy policy",
+    "objectID": "news/posts/2026/10/07/climatesense-sessions.html#about-climatesense",
+    "href": "news/posts/2026/10/07/climatesense-sessions.html#about-climatesense",
+    "title": "Help us build better tools against climate misinformation",
+    "section": "About ClimateSense",
+    "text": "About ClimateSense\nClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensional GIS) is a research project designed to combat climate-related misinformation through Geographic Information Systems (GIS). Climate misinformation remains widespread. It affects public perception and obstructs effective climate policymaking.\nThe project builds a multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. It lets users explore where climate misinformation emerges, how it spreads and how it relates to observed climate and policy conditions. This enables more targeted monitoring, better prioritisation for fact-checkers and clearer evidence for policy actors. The system will be evaluated using data from the next three COP conferences.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business\nProject funding: European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
+  },
+  {
+    "objectID": "news/posts/2026/03/03/climatecheck_shared_task.html",
+    "href": "news/posts/2026/03/03/climatecheck_shared_task.html",
+    "title": "ClimateSense achieves top results at ClimateCheck Shared Task for NSLP 2026",
     "section": "",
-    "text": "Our website address is: https://climatesense-project.eu/."
+    "text": "The ClimateSense project has once again demonstrated its strength in climate misinformation detection. A joint team from EURECOM and the Open University participated in the ClimateCheck shared task, organised by the NSLP workshop co-located with LREC 2026, and achieved outstanding results:\n\n1st place on Task 1.1\n1st place on Task 1.2\n3rd place on Task 2\n\nThis work was led by Gregoire Burel and Thibault Ehrhart, building on the project’s growing expertise in combining large language models with established machine learning techniques for detecting climate-related misinformation.\nThe code developed for this shared task is openly available on GitHub. A paper describing the team’s approach has been submitted and is currently under review.\nThese results follow the team’s earlier successes at international evaluation campaigns, further strengthening ClimateSense’s position at the forefront of research in automated climate misinformation detection."
   },
   {
-    "objectID": "privacy.html#who-we-are",
-    "href": "privacy.html#who-we-are",
-    "title": "Privacy policy",
+    "objectID": "news/posts/2026/01/14/consortium-meeting-nice-2025.html",
+    "href": "news/posts/2026/01/14/consortium-meeting-nice-2025.html",
+    "title": "ClimateSense Consortium Meeting in Nice",
     "section": "",
-    "text": "Our website address is: https://climatesense-project.eu/."
+    "text": "The ClimateSense consortium met in person at EURECOM in Sophia Antipolis for a two-day working meeting focused on coordination across work packages and preparation for the next project phase.\n\nDay 1: Progress & Planning\nThe first day was dedicated to work package updates from all partners, covering:\n\nStakeholder engagement and data integration\nModelling and geostatistical analysis\nPlatform development and project management\n\nDiscussions also addressed short-term priorities, publication plans, and upcoming dissemination activities.\n\n\nDay 2: Innovation & Outreach\nOn the second day, the consortium welcomed a keynote from Agoratlas, introducing approaches to large-scale social media analysis and coordinated online behaviour. This was followed by:\n\nHands-on sessions on annotation and data access\nDiscussions on the ClimateSense\nCommunication strategy for future COP events\n\nThe meeting concluded with agreement on next steps and coordination for the coming months."
   },
   {
-    "objectID": "privacy.html#cookies",
-    "href": "privacy.html#cookies",
-    "title": "Privacy policy",
-    "section": "Cookies",
-    "text": "Cookies\nIf you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."
-  },
-  {
-    "objectID": "privacy.html#embedded-content-from-other-websites",
-    "href": "privacy.html#embedded-content-from-other-websites",
-    "title": "Privacy policy",
-    "section": "Embedded content from other websites",
-    "text": "Embedded content from other websites\nArticles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\nThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."
-  },
-  {
-    "objectID": "privacy.html#how-long-we-retain-your-data",
-    "href": "privacy.html#how-long-we-retain-your-data",
-    "title": "Privacy policy",
-    "section": "How long we retain your data",
-    "text": "How long we retain your data\nIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognise and approve any follow-up comments automatically instead of holding them in a moderation queue.\nFor users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
-  },
-  {
-    "objectID": "privacy.html#what-rights-you-have-over-your-data",
-    "href": "privacy.html#what-rights-you-have-over-your-data",
-    "title": "Privacy policy",
-    "section": "What rights you have over your data",
-    "text": "What rights you have over your data\nIf you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
-  },
-  {
-    "objectID": "privacy.html#what-personal-data-we-collect-and-why-we-collect-it",
-    "href": "privacy.html#what-personal-data-we-collect-and-why-we-collect-it",
-    "title": "Privacy policy",
-    "section": "What personal data we collect and why we collect it",
-    "text": "What personal data we collect and why we collect it\nWe use cookies to enhance your browsing experience and analyse website performance. Some cookies are essential for the website to function, while others are used to collect anonymised data through Google Analytics to help us improve our services."
-  },
-  {
-    "objectID": "privacy.html#who-we-share-your-data-with",
-    "href": "privacy.html#who-we-share-your-data-with",
-    "title": "Privacy policy",
-    "section": "Who we share your data with",
-    "text": "Who we share your data with\nWe use Google Analytics to collect anonymised information about how visitors interact with our website. This data helps us understand website performance, improve user experience, and analyze trends. Google Analytics processes this information on our behalf and does not identify individual users. For more details, please refer to Google™’s Privacy Policy."
-  },
-  {
-    "objectID": "privacy.html#your-rights",
-    "href": "privacy.html#your-rights",
-    "title": "Privacy policy",
-    "section": "Your rights",
-    "text": "Your rights\nYou have a number of rights in relation to your personal information, which apply in certain circumstances. Some of these rights will come into force under the GDPR on 25th May 2018. In order to exercise any of these rights, please contact us using the details in this document.\nYou have the right;\n\nTo access your personal information that we process To Rectify inaccuracies in the personal information that we hold about you In some circumstances, you also have the right\nTo have your details removed from systems that we use to process your personal data To restrict the processing of your personal data in certain ways To obtain a copy of your personal data in a structured electronic data file To object to certain processing of your personal data by us To request that we stop sending you direct marketing communications. If you are concerned about the way we have processed your personal information, you can complain to the Information Commissioner’s Office (ICO). Please visit the ICO’s website for further details."
-  },
-  {
-    "objectID": "privacy.html#contact-us",
-    "href": "privacy.html#contact-us",
-    "title": "Privacy policy",
-    "section": "Contact us",
-    "text": "Contact us\nPlease direct any queries about this policy or about the way we process your personal information to our Data Protection Officer using the contact details below.\n\nEmail data-protection@open.ac.uk\nTelephone +44 (0)1908 653994\nBy post: The Data Protection Officer, PO Box 497, The Open University, Walton Hall, Milton Keynes MK7 6AT."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "news/posts/2026/05/05/lack-expert-survey.html",
+    "href": "news/posts/2026/05/05/lack-expert-survey.html",
+    "title": "Expert survey: Evaluating the LACK knowledge graph",
     "section": "",
-    "text": "This page lists the academic publications and presentations resulting from ClimateSense.\nBurel, G. and H. Alani (2025). “ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation”. In: 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K), co-located with 24th International Semantic Web Conference (ISWC). Nara, Japan.\nBurel, G. and H. Alani (2026). ClimateSense team wins top places in two international misinformation challenges. Blog post, Open University STEM Blog. URL: https://blog.stem.open.ac.uk/climatesense-team-wins-top-places-in-two-international-misinformation-challenges/.\nBurel, G., P. Lisena, E. Daga, et al. (2025). “ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse”. In: Conference and Labs of the Evaluation Forum, Information Access Evaluation meets Multilinguality, Multimodality, and Visualization (CLEF) Working Notes. Madrid, Spain. URL: https://ceur-ws.org/Vol-4038/paper_65.pdf.\nEhrhart, T., R. Troncy, G. Burel, et al. (2025). “Misinformation detection in russo-ukrainian conflict tweets”. In: 17th Forum of Information Retrieval and Evaluation (FIRE), Shared Task: Misinformation Detection and Prompt Recovery (PROMID). Varanasi, India. URL: https://www.eurecom.fr/publication/8535.\nMačiulienė, M., A. Skaržauskienė, and E. Butkevičienė (2025). “Mapping the Global Infrastructure for Countering Climate Disinformation: A Tool Ecosystem Review”. In: 2nd European Congress on Disinformation and Fact-Checking. Madrid, Spain. URL: https://www.disinformation.es/2ndeuropeandisinformationandfact-checkingcongress.\nPeskine, Y., R. Troncy, and P. Papotti (2025). EURECOM at FrugalAI Challenge. Data & AI IMT Webinar.\nRebboud, Y., P. Lisena, and R. Troncy (2026). “Integrating causal reasoning into automated fact-checking”. In: 41st ACM SAC Symposium on Applied Computing (SAC), Special Track on Knowledge and Natural Language Processing (KNLP). Thessaloniki, Greece.\nSkarzauskiene, A., M. Maciuliene, H. Alani, et al. (2025). “Towards a multidimensional GIS approach for mapping and analysing climate misinformation: Concepts, gaps, and early directions”. In: International Conference on Human Factors in Design, Engineering and Computing (AHFE). Hawaii, USA.\nTroncy, R. (2025b). “Building knowledge graphs for 20 years: Should we keep doing this?”. In: European Semantic Web Conference (ESWC). Keynote. Portoroz, Slovenia. URL: https://2025.eswc-conferences.org/keynote-speakers/.\nTroncy, R. (2025c). EURECOM’s AI for climate resilience: From energy efficiency to the anticipation of extreme weather patterns. Press release, SophiaMag. URL: https://www.sophiamag.eu/en-uk/article/eurecom-met-lia-au-service-de-la-resilience-climatique.2025.1750971097_685db2d9ddabd.\nTroncy, R. (2025a). Surveilling and combating misinformation using knowledge graphs. Invited Talk in Cap & Coffee: Innover pour lutter contre le désordre informationnel. Paris, France."
+    "text": "As part of Work Package 1 (Requirements, stakeholder engagement and evaluation), the ClimateSense team is conducting an expert evaluation of the LACK knowledge graph – a structured, searchable database that maps the actors and networks involved in climate lobbying.\nLACK integrates data from multiple investigative sources, including the DeSmog Climate Disinformation Database and InfluenceMap’s LobbyMap, into a single queryable resource. To ensure the database meets the needs of its intended users, we are gathering expert feedback through a short online survey (5-7 minutes).\nWe are looking for input from researchers, investigative journalists, fact-checkers, NGO and advocacy professionals, policy analysts, and others who work with information about climate lobbying or climate disinformation. The survey covers topics such as which types of connections matter most for understanding lobbying networks, what use cases a resource like LACK could support, and what data gaps should be prioritised.\nIf this describes your work, or if you know someone it might be relevant for, please visit the survey introduction page for full details and a link to participate.\nFor questions about the survey, please contact monika.maciuliene@gmail.com."
   },
   {
     "objectID": "accessibility.html",
@@ -252,6 +140,146 @@
     "text": "How ClimateSense works\nClimateSense operates as a connected workflow that moves from stakeholder needs and data collection to analysis, visualisation and real-world use. Each work package contributes a specific function to this pipeline, with continuous feedback loops between design, analysis and evaluation. At the core is a multidimensional GIS that integrates climate data, misinformation evidence and contextual indicators, enabling stakeholders to explore where climate misinformation emerges, how it spreads and how it relates to observed climate and policy conditions.\n\nWP1 - Requirements, stakeholder engagement and evaluation Lead: KTU ClimateSense begins and ends with users. WP1 identifies what policymakers, fact-checkers, civil society organisations and citizens need in order to monitor and respond to climate misinformation. Through interviews, co-creation workshops and evaluation sessions in partner countries, WP1 defines reporting needs, usability requirements and success criteria. These insights guide data selection, modelling priorities and interface design across all technical work packages and are used to iteratively evaluate and refine the system, particularly during COP pilots.\nWP2 – Climate misinformation modelling and knowledge graph Lead: EURECOM WP2 provides the semantic and analytical backbone of ClimateSense. It collects and harmonises heterogeneous inputs including climate variables, misinformation and fact-checks, media signals and policy indicators. These are represented in a knowledge graph that preserves meaning, provenance and relationships between claims, locations and topics. WP2 also develops machine learning models for fine-grained topic classification and narrative similarity, enabling the system to link related claims across languages, regions and time and to track how narratives reappear and mutate.\nWP3 – Geostatistical analysis and prediction\nLead: VSE WP3 transforms integrated data into spatial and temporal insight. It applies geostatistical methods to identify clustering, hotspots and spatial dependence in climate misinformation and to analyse how these patterns evolve over time and in relation to climate and policy context. WP3 also develops predictive models that estimate where and when climate misinformation is likely to intensify, providing early-warning indicators that feed directly into maps, analytics and reports.\nWP4 – Multidimensional GIS platform and portal Lead: The Open University WP4 delivers the public-facing system that brings all components together. It designs and implements the GIS platform that integrates knowledge graph queries, geostatistical outputs and climate data into interactive maps and visualisations. Users can explore layers, filter by topic and time, compare locations referenced in claims with observed climate data and generate evidence-based reports. The platform is iteratively improved based on WP1 feedback and validated through real-world use during COP cycles.\nWP5 – Communication, dissemination and impact Lead: KTU WP5 ensures that ClimateSense outputs are accessible, understandable and used beyond the research community. It coordinates communication activities, training materials and stakeholder engagement and translates technical results into briefs, demonstrations and educational resources tailored to different audiences. WP5 supports adoption of the platform and amplifies its societal and policy relevance.\nWP6 – Management, ethics and data Lead: The Open University WP6 underpins the entire workflow by providing project coordination, risk management and ethical oversight. It ensures GDPR-compliant handling of data and user research, supports open science and FAIR data practices and maintains governance structures that enable smooth collaboration and long-term sustainability of ClimateSense outputs."
   },
   {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy policy",
+    "section": "",
+    "text": "Our website address is: https://climatesense-project.eu/."
+  },
+  {
+    "objectID": "privacy.html#who-we-are",
+    "href": "privacy.html#who-we-are",
+    "title": "Privacy policy",
+    "section": "",
+    "text": "Our website address is: https://climatesense-project.eu/."
+  },
+  {
+    "objectID": "privacy.html#cookies",
+    "href": "privacy.html#cookies",
+    "title": "Privacy policy",
+    "section": "Cookies",
+    "text": "Cookies\nIf you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."
+  },
+  {
+    "objectID": "privacy.html#embedded-content-from-other-websites",
+    "href": "privacy.html#embedded-content-from-other-websites",
+    "title": "Privacy policy",
+    "section": "Embedded content from other websites",
+    "text": "Embedded content from other websites\nArticles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\nThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."
+  },
+  {
+    "objectID": "privacy.html#how-long-we-retain-your-data",
+    "href": "privacy.html#how-long-we-retain-your-data",
+    "title": "Privacy policy",
+    "section": "How long we retain your data",
+    "text": "How long we retain your data\nIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognise and approve any follow-up comments automatically instead of holding them in a moderation queue.\nFor users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
+  },
+  {
+    "objectID": "privacy.html#what-rights-you-have-over-your-data",
+    "href": "privacy.html#what-rights-you-have-over-your-data",
+    "title": "Privacy policy",
+    "section": "What rights you have over your data",
+    "text": "What rights you have over your data\nIf you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+  },
+  {
+    "objectID": "privacy.html#what-personal-data-we-collect-and-why-we-collect-it",
+    "href": "privacy.html#what-personal-data-we-collect-and-why-we-collect-it",
+    "title": "Privacy policy",
+    "section": "What personal data we collect and why we collect it",
+    "text": "What personal data we collect and why we collect it\nWe use cookies to enhance your browsing experience and analyse website performance. Some cookies are essential for the website to function, while others are used to collect anonymised data through Google Analytics to help us improve our services."
+  },
+  {
+    "objectID": "privacy.html#who-we-share-your-data-with",
+    "href": "privacy.html#who-we-share-your-data-with",
+    "title": "Privacy policy",
+    "section": "Who we share your data with",
+    "text": "Who we share your data with\nWe use Google Analytics to collect anonymised information about how visitors interact with our website. This data helps us understand website performance, improve user experience, and analyze trends. Google Analytics processes this information on our behalf and does not identify individual users. For more details, please refer to Google™’s Privacy Policy."
+  },
+  {
+    "objectID": "privacy.html#your-rights",
+    "href": "privacy.html#your-rights",
+    "title": "Privacy policy",
+    "section": "Your rights",
+    "text": "Your rights\nYou have a number of rights in relation to your personal information, which apply in certain circumstances. Some of these rights will come into force under the GDPR on 25th May 2018. In order to exercise any of these rights, please contact us using the details in this document.\nYou have the right;\n\nTo access your personal information that we process To Rectify inaccuracies in the personal information that we hold about you In some circumstances, you also have the right\nTo have your details removed from systems that we use to process your personal data To restrict the processing of your personal data in certain ways To obtain a copy of your personal data in a structured electronic data file To object to certain processing of your personal data by us To request that we stop sending you direct marketing communications. If you are concerned about the way we have processed your personal information, you can complain to the Information Commissioner’s Office (ICO). Please visit the ICO’s website for further details."
+  },
+  {
+    "objectID": "privacy.html#contact-us",
+    "href": "privacy.html#contact-us",
+    "title": "Privacy policy",
+    "section": "Contact us",
+    "text": "Contact us\nPlease direct any queries about this policy or about the way we process your personal information to our Data Protection Officer using the contact details below.\n\nEmail data-protection@open.ac.uk\nTelephone +44 (0)1908 653994\nBy post: The Data Protection Officer, PO Box 497, The Open University, Walton Hall, Milton Keynes MK7 6AT."
+  },
+  {
+    "objectID": "LICENCE.html",
+    "href": "LICENCE.html",
+    "title": "Licence",
+    "section": "",
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#content",
+    "href": "LICENCE.html#content",
+    "title": "Licence",
+    "section": "",
+    "text": "Copyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page.\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
+  },
+  {
+    "objectID": "LICENCE.html#software-and-services",
+    "href": "LICENCE.html#software-and-services",
+    "title": "Licence",
+    "section": "Software and services",
+    "text": "Software and services\nSource code and files for the website are available from GitHub.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe website theme and structure is based Real World Data Science website hosted on GitHub Pages.\nThe fonts used on this website are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "We welcome your questions, feedback, and collaboration inquiries about ClimateSense."
+  },
+  {
+    "objectID": "contact.html#general-enquiries",
+    "href": "contact.html#general-enquiries",
+    "title": "Contact us",
+    "section": "General Enquiries",
+    "text": "General Enquiries\nFor general questions about the research project, please contact the project coordinator:\nName: Prof. Harith Alani\nEmail: harith.alani@open.ac.uk"
+  },
+  {
+    "objectID": "contact.html#our-location",
+    "href": "contact.html#our-location",
+    "title": "Contact us",
+    "section": "Our Location",
+    "text": "Our Location\nOur primary research lab is located at:\nKnowledge Media Institute\nThe Open University\nWalton Hall\nMilton Keynes\nMK7 6AA\nUnited Kingdom"
+  },
+  {
+    "objectID": "contact.html#social-media",
+    "href": "contact.html#social-media",
+    "title": "Contact us",
+    "section": "Social media",
+    "text": "Social media\nFollow our KMi on social media for the latest updates and discoveries.\n\nX (formerly Twitter): @kmiou\nBluesky: @kmiou.bsky.social"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page lists the academic publications and presentations resulting from ClimateSense.\nBurel, G. and H. Alani (2025). “ClimaFactsKG: Towards an Interlinked Knowledge Graph of Scientific Evidence to Fight Climate Misinformation”. In: 5th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K), co-located with 24th International Semantic Web Conference (ISWC). Nara, Japan.\nBurel, G. and H. Alani (2026). ClimateSense team wins top places in two international misinformation challenges. Blog post, Open University STEM Blog. URL: https://blog.stem.open.ac.uk/climatesense-team-wins-top-places-in-two-international-misinformation-challenges/.\nBurel, G., P. Lisena, E. Daga, et al. (2025). “ClimateSense at CheckThat! 2025: Combining Fine-tuned Large Language Models and Conventional Machine Learning Models for Subjectivity and Scientific Web Discourse”. In: Conference and Labs of the Evaluation Forum, Information Access Evaluation meets Multilinguality, Multimodality, and Visualization (CLEF) Working Notes. Madrid, Spain. URL: https://ceur-ws.org/Vol-4038/paper_65.pdf.\nEhrhart, T., R. Troncy, G. Burel, et al. (2025). “Misinformation detection in russo-ukrainian conflict tweets”. In: 17th Forum of Information Retrieval and Evaluation (FIRE), Shared Task: Misinformation Detection and Prompt Recovery (PROMID). Varanasi, India. URL: https://www.eurecom.fr/publication/8535.\nMačiulienė, M., A. Skaržauskienė, and E. Butkevičienė (2025). “Mapping the Global Infrastructure for Countering Climate Disinformation: A Tool Ecosystem Review”. In: 2nd European Congress on Disinformation and Fact-Checking. Madrid, Spain. URL: https://www.disinformation.es/2ndeuropeandisinformationandfact-checkingcongress.\nPeskine, Y., R. Troncy, and P. Papotti (2025). EURECOM at FrugalAI Challenge. Data & AI IMT Webinar.\nRebboud, Y., P. Lisena, and R. Troncy (2026). “Integrating causal reasoning into automated fact-checking”. In: 41st ACM SAC Symposium on Applied Computing (SAC), Special Track on Knowledge and Natural Language Processing (KNLP). Thessaloniki, Greece.\nSkarzauskiene, A., M. Maciuliene, H. Alani, et al. (2025). “Towards a multidimensional GIS approach for mapping and analysing climate misinformation: Concepts, gaps, and early directions”. In: International Conference on Human Factors in Design, Engineering and Computing (AHFE). Hawaii, USA.\nTroncy, R. (2025b). “Building knowledge graphs for 20 years: Should we keep doing this?”. In: European Semantic Web Conference (ESWC). Keynote. Portoroz, Slovenia. URL: https://2025.eswc-conferences.org/keynote-speakers/.\nTroncy, R. (2025c). EURECOM’s AI for climate resilience: From energy efficiency to the anticipation of extreme weather patterns. Press release, SophiaMag. URL: https://www.sophiamag.eu/en-uk/article/eurecom-met-lia-au-service-de-la-resilience-climatique.2025.1750971097_685db2d9ddabd.\nTroncy, R. (2025a). Surveilling and combating misinformation using knowledge graphs. Invited Talk in Cap & Coffee: Innover pour lutter contre le désordre informationnel. Paris, France."
+  },
+  {
+    "objectID": "news/posts/2026/05/02/needs2026-conference.html",
+    "href": "news/posts/2026/05/02/needs2026-conference.html",
+    "title": "KTU team presents ClimateSense research at NEEDS 2026",
+    "section": "",
+    "text": "The NEEDS 2026 conference, Societal Resilience in Times of Cascading Crises and Disasters, took place on 28–30 April 2026 in Kaunas, Lithuania, hosted by Kaunas University of Technology (KTU). The conference brought together researchers, practitioners, and policymakers from across Europe and beyond to discuss disaster resilience, crisis governance, and community preparedness.\nKTU team members contributed to the conference in several roles. Monika Maciuliene presented ClimateSense-related research in the session on Technological Innovation for DRR, with a paper titled Mapping Resilience Gaps in Cascading Crises: Climate Misinformation Platforms as Socio-Technical Infrastructures. The presentation drew on a systematic mapping of 104 platforms and tools addressing climate misinformation, examining how digital infrastructure shapes resilience outcomes in interconnected crisis settings. The research was funded through the CHIST-ERA grant supporting ClimateSense.\nSeveral other KTU colleagues contributed as session chairs and presenters across the three-day programme, covering topics from socio-economic vulnerability analysis and crisis governance to public trust and community resilience."
+  },
+  {
+    "objectID": "news/posts/2026/02/02/key-research-outputs-2025.html",
+    "href": "news/posts/2026/02/02/key-research-outputs-2025.html",
+    "title": "ClimateSense key research outputs in 2025",
+    "section": "",
+    "text": "In 2025, the ClimateSense project delivered a series of initial scientific contributions across knowledge graphs, geospatial analysis, and climate misinformation detection. These outputs reflect the project’s interdisciplinary approach, combining semantic technologies, machine learning, and social science perspectives.\nA major milestone was the presentation of ClimaFactsKG, an interlinked knowledge graph designed to connect scientific evidence with climate misinformation narratives. Presented at the International Semantic Web Conference (ISWC) in Japan, this work advances structured representations of scientific claims and supports transparent fact-checking workflows.\nClimateSense also participated in international evaluation campaigns. At CheckThat! 2025, co-located with CLEF in Madrid, the team presented models combining fine-tuned large language models with conventional machine-learning approaches to analyse subjectivity and scientific discourse on the web.\nFurther methodological contributions included EURECOM’s participation in the FrugalAI Challenge and conceptual work on geospatial approaches to climate misinformation. At the AHFE Conference in Hawaii, KTU researchers outlined early directions for a multidimensional GIS framework to map and analyse climate misinformation across space, time, and narrative dimensions. Finally, KTU researchers presented outcomes of platform mapping excercise at the 2nd European Congress on Disinformation and Fact Checking.\nTogether, these outputs establish a strong foundation for the next phases of ClimateSense."
+  },
+  {
     "objectID": "news/posts/2026/03/13/london_meeting.html",
     "href": "news/posts/2026/03/13/london_meeting.html",
     "title": "ClimateSense consortium meeting in London",
@@ -259,38 +287,10 @@
     "text": "On 12-13 March 2026, the ClimateSense consortium gathered in London for its latest project meeting, hosted by the Open University. Partners from all four institutions (OU, EURECOM, KTU, and VSE) participated both in person and remotely.\nOver two days, the team reviewed progress across all work packages, covering topics including the development of the project’s knowledge graph, advances in geospatial analysis of climate misinformation, progress on the GIS platform demonstrator, and ongoing stakeholder engagement activities.\nThe meeting also included several collaborative working sessions. Partners discussed strategies for improving data integration across work packages, explored new directions for the project’s web-based demonstrator, and conducted hands-on annotation exercises using climate misinformation datasets.\nLooking ahead, the team agreed on priorities for the next phase of the project, including publication plans, upcoming deliverables, and preparations for the midterm review. The next consortium meeting is planned for autumn 2026."
   },
   {
-    "objectID": "news/posts/2026/10/07/climatesense-sessions.html",
-    "href": "news/posts/2026/10/07/climatesense-sessions.html",
-    "title": "Help us build better tools against climate misinformation",
-    "section": "",
-    "text": "Do you check, report on or respond to climate claims?\nClimateSense builds tools for people who work on climate misinformation. We need your view to make them fit how you work. Join a 45-minute online session, see a tool and tell us what would help."
-  },
-  {
-    "objectID": "news/posts/2026/10/07/climatesense-sessions.html#what-happens-in-a-session",
-    "href": "news/posts/2026/10/07/climatesense-sessions.html#what-happens-in-a-session",
-    "title": "Help us build better tools against climate misinformation",
-    "section": "What happens in a session",
-    "text": "What happens in a session\n\nWe show you one of our tools with a real example: the database of fact-checks, the map of where claims appear, or the database of who lobbies against climate policy (LACK).\nWe ask how you deal with climate claims: where they come from, what you check and where you get stuck.\nYou tell us what would help you and what the tools are missing. We use this to improve them."
-  },
-  {
-    "objectID": "news/posts/2026/10/07/climatesense-sessions.html#about-climatesense",
-    "href": "news/posts/2026/10/07/climatesense-sessions.html#about-climatesense",
-    "title": "Help us build better tools against climate misinformation",
-    "section": "About ClimateSense",
-    "text": "About ClimateSense\nClimateSense (Climate Misinformation Surveillance and Analysis with Multidimensional GIS) is a research project designed to combat climate-related misinformation through Geographic Information Systems (GIS). Climate misinformation remains widespread. It affects public perception and obstructs effective climate policymaking.\nThe project builds a multidimensional GIS that integrates climate metrics (temperature, precipitation, wind, carbon emissions) with misinformation data from fact-checkers and media platforms. It lets users explore where climate misinformation emerges, how it spreads and how it relates to observed climate and policy conditions. This enables more targeted monitoring, better prioritisation for fact-checkers and clearer evidence for policy actors. The system will be evaluated using data from the next three COP conferences.\nPeriod of project implementation: 2025-03-01 - 2028-02-29\nProject coordinator: The Open University\nProject partners: Kaunas University of Technology, EURECOM, Prague University of Economics and Business\nProject funding: European Coordinated Research on Long-Term Challenges in Information and Communication Sciences and Technologies (CHIST-ERA)"
-  },
-  {
     "objectID": "news/posts/2026/10/01/disinfo2026-conference.html",
     "href": "news/posts/2026/10/01/disinfo2026-conference.html",
     "title": "ClimateSense at #Disinfo2026 in Vilnius",
     "section": "",
     "text": "The ClimateSense team will attend #Disinfo2026, the annual conference of EU DisinfoLab. It takes place on 7-8 October 2026 at the Radisson Blu Lietuva in Vilnius, Lithuania. Pre-conference workshops run on 6 October.\nThe conference brings together researchers, journalists, NGOs, public authorities and tech professionals who work against disinformation. This year’s programme covers AI and disinformation, platform accountability and enforcement, and joint responses across the community. The event is fully booked.\nFor ClimateSense, the conference is a chance to meet the people our tools are built for. Over the two days we will talk with participants about climate misinformation, show ClimateSense tools and collect their reactions. We also plan follow-up interviews with interested participants. This input feeds into Work Package 1 (Requirements, stakeholder engagement and evaluation).\nAttending #Disinfo2026 and working on climate information? We would be glad to meet you there. Contact monika.maciuliene@gmail.com.\nMore about the conference: EU DisinfoLab.\nImage: EU DisinfoLab."
-  },
-  {
-    "objectID": "news/posts/2026/05/05/lack-expert-survey.html",
-    "href": "news/posts/2026/05/05/lack-expert-survey.html",
-    "title": "Expert survey: Evaluating the LACK knowledge graph",
-    "section": "",
-    "text": "As part of Work Package 1 (Requirements, stakeholder engagement and evaluation), the ClimateSense team is conducting an expert evaluation of the LACK knowledge graph – a structured, searchable database that maps the actors and networks involved in climate lobbying.\nLACK integrates data from multiple investigative sources, including the DeSmog Climate Disinformation Database and InfluenceMap’s LobbyMap, into a single queryable resource. To ensure the database meets the needs of its intended users, we are gathering expert feedback through a short online survey (5-7 minutes).\nWe are looking for input from researchers, investigative journalists, fact-checkers, NGO and advocacy professionals, policy analysts, and others who work with information about climate lobbying or climate disinformation. The survey covers topics such as which types of connections matter most for understanding lobbying networks, what use cases a resource like LACK could support, and what data gaps should be prioritised.\nIf this describes your work, or if you know someone it might be relevant for, please visit the survey introduction page for full details and a link to participate.\nFor questions about the survey, please contact monika.maciuliene@gmail.com."
   }
 ]
